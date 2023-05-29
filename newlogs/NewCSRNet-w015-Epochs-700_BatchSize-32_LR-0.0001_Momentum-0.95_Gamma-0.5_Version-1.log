@@ -1,0 +1,2209 @@
+2022-11-17 12:12:58,791 - main - INFO - NewCSRNet-w015-Epochs-700_BatchSize-32_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-11-17 12:13:05,029 - main - INFO - Epoch 1/700
+2022-11-17 12:13:05,059 - main - INFO - ----------------------------
+2022-11-17 12:13:05,059 - main - INFO - training...
+2022-11-17 12:13:20,647 - main - INFO - Epoch 1 - train: epoch loss = 4782.7733
+2022-11-17 12:13:20,647 - main - INFO - validating...
+2022-11-17 12:13:24,373 - main - INFO - Epoch 1 - val: epoch loss = 4149.0086
+2022-11-17 12:13:24,623 - main - INFO - Saved the best model at epoch 1.
+2022-11-17 12:13:24,624 - main - INFO - Epoch 2/700
+2022-11-17 12:13:24,625 - main - INFO - ----------------------------
+2022-11-17 12:13:24,625 - main - INFO - training...
+2022-11-17 12:13:36,730 - main - INFO - Epoch 2 - train: epoch loss = 4635.2944
+2022-11-17 12:13:36,730 - main - INFO - validating...
+2022-11-17 12:13:40,466 - main - INFO - Epoch 2 - val: epoch loss = 3924.9536
+2022-11-17 12:13:40,735 - main - INFO - Saved the best model at epoch 2.
+2022-11-17 12:13:40,735 - main - INFO - Epoch 3/700
+2022-11-17 12:13:40,735 - main - INFO - ----------------------------
+2022-11-17 12:13:40,745 - main - INFO - training...
+2022-11-17 12:13:51,811 - main - INFO - Epoch 3 - train: epoch loss = 4405.8153
+2022-11-17 12:13:51,811 - main - INFO - validating...
+2022-11-17 12:13:55,448 - main - INFO - Epoch 3 - val: epoch loss = 3732.5979
+2022-11-17 12:13:55,717 - main - INFO - Saved the best model at epoch 3.
+2022-11-17 12:13:55,717 - main - INFO - Epoch 4/700
+2022-11-17 12:13:55,717 - main - INFO - ----------------------------
+2022-11-17 12:13:55,718 - main - INFO - training...
+2022-11-17 12:14:07,183 - main - INFO - Epoch 4 - train: epoch loss = 4145.7751
+2022-11-17 12:14:07,183 - main - INFO - validating...
+2022-11-17 12:14:10,930 - main - INFO - Epoch 4 - val: epoch loss = 3515.8696
+2022-11-17 12:14:11,177 - main - INFO - Saved the best model at epoch 4.
+2022-11-17 12:14:11,177 - main - INFO - Epoch 5/700
+2022-11-17 12:14:11,187 - main - INFO - ----------------------------
+2022-11-17 12:14:11,188 - main - INFO - training...
+2022-11-17 12:14:22,299 - main - INFO - Epoch 5 - train: epoch loss = 3879.1849
+2022-11-17 12:14:22,299 - main - INFO - validating...
+2022-11-17 12:14:25,954 - main - INFO - Epoch 5 - val: epoch loss = 3291.8148
+2022-11-17 12:14:26,218 - main - INFO - Saved the best model at epoch 5.
+2022-11-17 12:14:26,218 - main - INFO - Epoch 6/700
+2022-11-17 12:14:26,222 - main - INFO - ----------------------------
+2022-11-17 12:14:26,222 - main - INFO - training...
+2022-11-17 12:14:37,318 - main - INFO - Epoch 6 - train: epoch loss = 3628.1101
+2022-11-17 12:14:37,318 - main - INFO - validating...
+2022-11-17 12:14:40,969 - main - INFO - Epoch 6 - val: epoch loss = 3078.1945
+2022-11-17 12:14:41,240 - main - INFO - Saved the best model at epoch 6.
+2022-11-17 12:14:41,240 - main - INFO - Epoch 7/700
+2022-11-17 12:14:41,242 - main - INFO - ----------------------------
+2022-11-17 12:14:41,242 - main - INFO - training...
+2022-11-17 12:14:52,294 - main - INFO - Epoch 7 - train: epoch loss = 3390.8873
+2022-11-17 12:14:52,294 - main - INFO - validating...
+2022-11-17 12:14:56,046 - main - INFO - Epoch 7 - val: epoch loss = 2883.0172
+2022-11-17 12:14:56,226 - main - INFO - Saved the best model at epoch 7.
+2022-11-17 12:14:56,227 - main - INFO - Epoch 8/700
+2022-11-17 12:14:56,228 - main - INFO - ----------------------------
+2022-11-17 12:14:56,228 - main - INFO - training...
+2022-11-17 12:15:07,382 - main - INFO - Epoch 8 - train: epoch loss = 3177.3841
+2022-11-17 12:15:07,382 - main - INFO - validating...
+2022-11-17 12:15:11,046 - main - INFO - Epoch 8 - val: epoch loss = 2701.6121
+2022-11-17 12:15:11,314 - main - INFO - Saved the best model at epoch 8.
+2022-11-17 12:15:11,314 - main - INFO - Epoch 9/700
+2022-11-17 12:15:11,315 - main - INFO - ----------------------------
+2022-11-17 12:15:11,315 - main - INFO - training...
+2022-11-17 12:15:22,470 - main - INFO - Epoch 9 - train: epoch loss = 2980.4100
+2022-11-17 12:15:22,470 - main - INFO - validating...
+2022-11-17 12:15:26,109 - main - INFO - Epoch 9 - val: epoch loss = 2539.1512
+2022-11-17 12:15:26,374 - main - INFO - Saved the best model at epoch 9.
+2022-11-17 12:15:26,374 - main - INFO - Epoch 10/700
+2022-11-17 12:15:26,375 - main - INFO - ----------------------------
+2022-11-17 12:15:26,375 - main - INFO - training...
+2022-11-17 12:15:37,496 - main - INFO - Epoch 10 - train: epoch loss = 2805.2850
+2022-11-17 12:15:37,496 - main - INFO - validating...
+2022-11-17 12:15:41,143 - main - INFO - Epoch 10 - val: epoch loss = 2388.5046
+2022-11-17 12:15:41,420 - main - INFO - Saved the best model at epoch 10.
+2022-11-17 12:15:41,420 - main - INFO - Epoch 11/700
+2022-11-17 12:15:41,425 - main - INFO - ----------------------------
+2022-11-17 12:15:41,426 - main - INFO - training...
+2022-11-17 12:15:52,623 - main - INFO - Epoch 11 - train: epoch loss = 2647.8085
+2022-11-17 12:15:52,623 - main - INFO - validating...
+2022-11-17 12:15:56,256 - main - INFO - Epoch 11 - val: epoch loss = 2258.4526
+2022-11-17 12:15:56,525 - main - INFO - Saved the best model at epoch 11.
+2022-11-17 12:15:56,525 - main - INFO - Epoch 12/700
+2022-11-17 12:15:56,525 - main - INFO - ----------------------------
+2022-11-17 12:15:56,525 - main - INFO - training...
+2022-11-17 12:16:07,596 - main - INFO - Epoch 12 - train: epoch loss = 2504.1771
+2022-11-17 12:16:07,596 - main - INFO - validating...
+2022-11-17 12:16:11,322 - main - INFO - Epoch 12 - val: epoch loss = 2142.4832
+2022-11-17 12:16:11,575 - main - INFO - Saved the best model at epoch 12.
+2022-11-17 12:16:11,575 - main - INFO - Epoch 13/700
+2022-11-17 12:16:11,584 - main - INFO - ----------------------------
+2022-11-17 12:16:11,584 - main - INFO - training...
+2022-11-17 12:16:22,657 - main - INFO - Epoch 13 - train: epoch loss = 2374.4607
+2022-11-17 12:16:22,657 - main - INFO - validating...
+2022-11-17 12:16:26,414 - main - INFO - Epoch 13 - val: epoch loss = 2031.5704
+2022-11-17 12:16:26,664 - main - INFO - Saved the best model at epoch 13.
+2022-11-17 12:16:26,665 - main - INFO - Epoch 14/700
+2022-11-17 12:16:26,666 - main - INFO - ----------------------------
+2022-11-17 12:16:26,667 - main - INFO - training...
+2022-11-17 12:16:37,815 - main - INFO - Epoch 14 - train: epoch loss = 2257.3041
+2022-11-17 12:16:37,815 - main - INFO - validating...
+2022-11-17 12:16:41,551 - main - INFO - Epoch 14 - val: epoch loss = 1935.1722
+2022-11-17 12:16:41,798 - main - INFO - Saved the best model at epoch 14.
+2022-11-17 12:16:41,798 - main - INFO - Epoch 15/700
+2022-11-17 12:16:41,798 - main - INFO - ----------------------------
+2022-11-17 12:16:41,802 - main - INFO - training...
+2022-11-17 12:16:52,947 - main - INFO - Epoch 15 - train: epoch loss = 2153.8175
+2022-11-17 12:16:52,957 - main - INFO - validating...
+2022-11-17 12:16:56,611 - main - INFO - Epoch 15 - val: epoch loss = 1846.4011
+2022-11-17 12:16:56,866 - main - INFO - Saved the best model at epoch 15.
+2022-11-17 12:16:56,877 - main - INFO - Epoch 16/700
+2022-11-17 12:16:56,877 - main - INFO - ----------------------------
+2022-11-17 12:16:56,878 - main - INFO - training...
+2022-11-17 12:17:08,077 - main - INFO - Epoch 16 - train: epoch loss = 2055.8789
+2022-11-17 12:17:08,077 - main - INFO - validating...
+2022-11-17 12:17:11,885 - main - INFO - Epoch 16 - val: epoch loss = 1762.7177
+2022-11-17 12:17:12,217 - main - INFO - Saved the best model at epoch 16.
+2022-11-17 12:17:12,218 - main - INFO - Epoch 17/700
+2022-11-17 12:17:12,218 - main - INFO - ----------------------------
+2022-11-17 12:17:12,219 - main - INFO - training...
+2022-11-17 12:17:23,377 - main - INFO - Epoch 17 - train: epoch loss = 1967.5881
+2022-11-17 12:17:23,377 - main - INFO - validating...
+2022-11-17 12:17:27,054 - main - INFO - Epoch 17 - val: epoch loss = 1690.3192
+2022-11-17 12:17:27,325 - main - INFO - Saved the best model at epoch 17.
+2022-11-17 12:17:27,325 - main - INFO - Epoch 18/700
+2022-11-17 12:17:27,327 - main - INFO - ----------------------------
+2022-11-17 12:17:27,328 - main - INFO - training...
+2022-11-17 12:17:38,359 - main - INFO - Epoch 18 - train: epoch loss = 1886.6257
+2022-11-17 12:17:38,359 - main - INFO - validating...
+2022-11-17 12:17:42,109 - main - INFO - Epoch 18 - val: epoch loss = 1619.3403
+2022-11-17 12:17:42,293 - main - INFO - Saved the best model at epoch 18.
+2022-11-17 12:17:42,293 - main - INFO - Epoch 19/700
+2022-11-17 12:17:42,294 - main - INFO - ----------------------------
+2022-11-17 12:17:42,295 - main - INFO - training...
+2022-11-17 12:17:53,450 - main - INFO - Epoch 19 - train: epoch loss = 1812.3195
+2022-11-17 12:17:53,450 - main - INFO - validating...
+2022-11-17 12:17:57,212 - main - INFO - Epoch 19 - val: epoch loss = 1559.3410
+2022-11-17 12:17:57,474 - main - INFO - Saved the best model at epoch 19.
+2022-11-17 12:17:57,474 - main - INFO - Epoch 20/700
+2022-11-17 12:17:57,480 - main - INFO - ----------------------------
+2022-11-17 12:17:57,480 - main - INFO - training...
+2022-11-17 12:18:08,642 - main - INFO - Epoch 20 - train: epoch loss = 1744.5865
+2022-11-17 12:18:08,642 - main - INFO - validating...
+2022-11-17 12:18:12,392 - main - INFO - Epoch 20 - val: epoch loss = 1499.8026
+2022-11-17 12:18:12,661 - main - INFO - Saved the best model at epoch 20.
+2022-11-17 12:18:12,661 - main - INFO - Epoch 21/700
+2022-11-17 12:18:12,663 - main - INFO - ----------------------------
+2022-11-17 12:18:12,664 - main - INFO - training...
+2022-11-17 12:18:23,853 - main - INFO - Epoch 21 - train: epoch loss = 1682.2649
+2022-11-17 12:18:23,853 - main - INFO - validating...
+2022-11-17 12:18:27,502 - main - INFO - Epoch 21 - val: epoch loss = 1449.0412
+2022-11-17 12:18:27,755 - main - INFO - Saved the best model at epoch 21.
+2022-11-17 12:18:27,755 - main - INFO - Epoch 22/700
+2022-11-17 12:18:27,756 - main - INFO - ----------------------------
+2022-11-17 12:18:27,756 - main - INFO - training...
+2022-11-17 12:18:38,852 - main - INFO - Epoch 22 - train: epoch loss = 1622.5069
+2022-11-17 12:18:38,852 - main - INFO - validating...
+2022-11-17 12:18:42,619 - main - INFO - Epoch 22 - val: epoch loss = 1398.0933
+2022-11-17 12:18:42,881 - main - INFO - Saved the best model at epoch 22.
+2022-11-17 12:18:42,881 - main - INFO - Epoch 23/700
+2022-11-17 12:18:42,889 - main - INFO - ----------------------------
+2022-11-17 12:18:42,890 - main - INFO - training...
+2022-11-17 12:18:53,950 - main - INFO - Epoch 23 - train: epoch loss = 1568.7284
+2022-11-17 12:18:53,950 - main - INFO - validating...
+2022-11-17 12:18:57,684 - main - INFO - Epoch 23 - val: epoch loss = 1351.2117
+2022-11-17 12:18:57,941 - main - INFO - Saved the best model at epoch 23.
+2022-11-17 12:18:57,942 - main - INFO - Epoch 24/700
+2022-11-17 12:18:57,942 - main - INFO - ----------------------------
+2022-11-17 12:18:57,943 - main - INFO - training...
+2022-11-17 12:19:09,014 - main - INFO - Epoch 24 - train: epoch loss = 1518.3442
+2022-11-17 12:19:09,014 - main - INFO - validating...
+2022-11-17 12:19:12,757 - main - INFO - Epoch 24 - val: epoch loss = 1309.8157
+2022-11-17 12:19:13,026 - main - INFO - Saved the best model at epoch 24.
+2022-11-17 12:19:13,026 - main - INFO - Epoch 25/700
+2022-11-17 12:19:13,027 - main - INFO - ----------------------------
+2022-11-17 12:19:13,028 - main - INFO - training...
+2022-11-17 12:19:24,084 - main - INFO - Epoch 25 - train: epoch loss = 1472.2170
+2022-11-17 12:19:24,084 - main - INFO - validating...
+2022-11-17 12:19:27,840 - main - INFO - Epoch 25 - val: epoch loss = 1268.0982
+2022-11-17 12:19:28,105 - main - INFO - Saved the best model at epoch 25.
+2022-11-17 12:19:28,105 - main - INFO - Epoch 26/700
+2022-11-17 12:19:28,111 - main - INFO - ----------------------------
+2022-11-17 12:19:28,112 - main - INFO - training...
+2022-11-17 12:19:39,141 - main - INFO - Epoch 26 - train: epoch loss = 1426.7540
+2022-11-17 12:19:39,141 - main - INFO - validating...
+2022-11-17 12:19:42,892 - main - INFO - Epoch 26 - val: epoch loss = 1229.2066
+2022-11-17 12:19:43,064 - main - INFO - Saved the best model at epoch 26.
+2022-11-17 12:19:43,065 - main - INFO - Epoch 27/700
+2022-11-17 12:19:43,065 - main - INFO - ----------------------------
+2022-11-17 12:19:43,066 - main - INFO - training...
+2022-11-17 12:19:54,259 - main - INFO - Epoch 27 - train: epoch loss = 1386.9374
+2022-11-17 12:19:54,259 - main - INFO - validating...
+2022-11-17 12:19:58,024 - main - INFO - Epoch 27 - val: epoch loss = 1196.1543
+2022-11-17 12:19:58,198 - main - INFO - Saved the best model at epoch 27.
+2022-11-17 12:19:58,199 - main - INFO - Epoch 28/700
+2022-11-17 12:19:58,199 - main - INFO - ----------------------------
+2022-11-17 12:19:58,200 - main - INFO - training...
+2022-11-17 12:20:09,353 - main - INFO - Epoch 28 - train: epoch loss = 1348.4642
+2022-11-17 12:20:09,353 - main - INFO - validating...
+2022-11-17 12:20:13,014 - main - INFO - Epoch 28 - val: epoch loss = 1162.7660
+2022-11-17 12:20:13,296 - main - INFO - Saved the best model at epoch 28.
+2022-11-17 12:20:13,296 - main - INFO - Epoch 29/700
+2022-11-17 12:20:13,301 - main - INFO - ----------------------------
+2022-11-17 12:20:13,301 - main - INFO - training...
+2022-11-17 12:20:24,483 - main - INFO - Epoch 29 - train: epoch loss = 1312.0468
+2022-11-17 12:20:24,493 - main - INFO - validating...
+2022-11-17 12:20:28,126 - main - INFO - Epoch 29 - val: epoch loss = 1134.3404
+2022-11-17 12:20:28,386 - main - INFO - Saved the best model at epoch 29.
+2022-11-17 12:20:28,387 - main - INFO - Epoch 30/700
+2022-11-17 12:20:28,388 - main - INFO - ----------------------------
+2022-11-17 12:20:28,388 - main - INFO - training...
+2022-11-17 12:20:39,517 - main - INFO - Epoch 30 - train: epoch loss = 1278.0106
+2022-11-17 12:20:39,517 - main - INFO - validating...
+2022-11-17 12:20:43,147 - main - INFO - Epoch 30 - val: epoch loss = 1103.9818
+2022-11-17 12:20:43,404 - main - INFO - Saved the best model at epoch 30.
+2022-11-17 12:20:43,404 - main - INFO - Epoch 31/700
+2022-11-17 12:20:43,404 - main - INFO - ----------------------------
+2022-11-17 12:20:43,411 - main - INFO - training...
+2022-11-17 12:20:54,563 - main - INFO - Epoch 31 - train: epoch loss = 1246.8935
+2022-11-17 12:20:54,563 - main - INFO - validating...
+2022-11-17 12:20:58,217 - main - INFO - Epoch 31 - val: epoch loss = 1075.4158
+2022-11-17 12:20:58,478 - main - INFO - Saved the best model at epoch 31.
+2022-11-17 12:20:58,478 - main - INFO - Epoch 32/700
+2022-11-17 12:20:58,478 - main - INFO - ----------------------------
+2022-11-17 12:20:58,482 - main - INFO - training...
+2022-11-17 12:21:09,610 - main - INFO - Epoch 32 - train: epoch loss = 1216.3079
+2022-11-17 12:21:09,610 - main - INFO - validating...
+2022-11-17 12:21:13,246 - main - INFO - Epoch 32 - val: epoch loss = 1048.5694
+2022-11-17 12:21:13,514 - main - INFO - Saved the best model at epoch 32.
+2022-11-17 12:21:13,514 - main - INFO - Epoch 33/700
+2022-11-17 12:21:13,520 - main - INFO - ----------------------------
+2022-11-17 12:21:13,522 - main - INFO - training...
+2022-11-17 12:21:24,697 - main - INFO - Epoch 33 - train: epoch loss = 1186.6790
+2022-11-17 12:21:24,697 - main - INFO - validating...
+2022-11-17 12:21:28,410 - main - INFO - Epoch 33 - val: epoch loss = 1023.4231
+2022-11-17 12:21:28,657 - main - INFO - Saved the best model at epoch 33.
+2022-11-17 12:21:28,657 - main - INFO - Epoch 34/700
+2022-11-17 12:21:28,661 - main - INFO - ----------------------------
+2022-11-17 12:21:28,661 - main - INFO - training...
+2022-11-17 12:21:39,826 - main - INFO - Epoch 34 - train: epoch loss = 1161.2476
+2022-11-17 12:21:39,826 - main - INFO - validating...
+2022-11-17 12:21:43,455 - main - INFO - Epoch 34 - val: epoch loss = 1000.5091
+2022-11-17 12:21:43,716 - main - INFO - Saved the best model at epoch 34.
+2022-11-17 12:21:43,717 - main - INFO - Epoch 35/700
+2022-11-17 12:21:43,717 - main - INFO - ----------------------------
+2022-11-17 12:21:43,718 - main - INFO - training...
+2022-11-17 12:21:54,819 - main - INFO - Epoch 35 - train: epoch loss = 1132.8692
+2022-11-17 12:21:54,819 - main - INFO - validating...
+2022-11-17 12:21:58,569 - main - INFO - Epoch 35 - val: epoch loss = 974.7992
+2022-11-17 12:21:58,827 - main - INFO - Saved the best model at epoch 35.
+2022-11-17 12:21:58,827 - main - INFO - Epoch 36/700
+2022-11-17 12:21:58,834 - main - INFO - ----------------------------
+2022-11-17 12:21:58,835 - main - INFO - training...
+2022-11-17 12:22:10,013 - main - INFO - Epoch 36 - train: epoch loss = 1110.4322
+2022-11-17 12:22:10,013 - main - INFO - validating...
+2022-11-17 12:22:13,779 - main - INFO - Epoch 36 - val: epoch loss = 955.6985
+2022-11-17 12:22:14,031 - main - INFO - Saved the best model at epoch 36.
+2022-11-17 12:22:14,039 - main - INFO - Epoch 37/700
+2022-11-17 12:22:14,039 - main - INFO - ----------------------------
+2022-11-17 12:22:14,041 - main - INFO - training...
+2022-11-17 12:22:25,208 - main - INFO - Epoch 37 - train: epoch loss = 1087.1401
+2022-11-17 12:22:25,208 - main - INFO - validating...
+2022-11-17 12:22:28,839 - main - INFO - Epoch 37 - val: epoch loss = 935.9291
+2022-11-17 12:22:29,095 - main - INFO - Saved the best model at epoch 37.
+2022-11-17 12:22:29,096 - main - INFO - Epoch 38/700
+2022-11-17 12:22:29,096 - main - INFO - ----------------------------
+2022-11-17 12:22:29,098 - main - INFO - training...
+2022-11-17 12:22:40,219 - main - INFO - Epoch 38 - train: epoch loss = 1065.8930
+2022-11-17 12:22:40,219 - main - INFO - validating...
+2022-11-17 12:22:44,027 - main - INFO - Epoch 38 - val: epoch loss = 916.3371
+2022-11-17 12:22:44,267 - main - INFO - Saved the best model at epoch 38.
+2022-11-17 12:22:44,267 - main - INFO - Epoch 39/700
+2022-11-17 12:22:44,267 - main - INFO - ----------------------------
+2022-11-17 12:22:44,267 - main - INFO - training...
+2022-11-17 12:22:55,445 - main - INFO - Epoch 39 - train: epoch loss = 1043.7615
+2022-11-17 12:22:55,445 - main - INFO - validating...
+2022-11-17 12:22:59,090 - main - INFO - Epoch 39 - val: epoch loss = 897.9322
+2022-11-17 12:22:59,340 - main - INFO - Saved the best model at epoch 39.
+2022-11-17 12:22:59,341 - main - INFO - Epoch 40/700
+2022-11-17 12:22:59,343 - main - INFO - ----------------------------
+2022-11-17 12:22:59,344 - main - INFO - training...
+2022-11-17 12:23:10,401 - main - INFO - Epoch 40 - train: epoch loss = 1023.8020
+2022-11-17 12:23:10,401 - main - INFO - validating...
+2022-11-17 12:23:14,148 - main - INFO - Epoch 40 - val: epoch loss = 880.4604
+2022-11-17 12:23:14,420 - main - INFO - Saved the best model at epoch 40.
+2022-11-17 12:23:14,420 - main - INFO - Epoch 41/700
+2022-11-17 12:23:14,421 - main - INFO - ----------------------------
+2022-11-17 12:23:14,421 - main - INFO - training...
+2022-11-17 12:23:25,542 - main - INFO - Epoch 41 - train: epoch loss = 1004.6240
+2022-11-17 12:23:25,542 - main - INFO - validating...
+2022-11-17 12:23:29,201 - main - INFO - Epoch 41 - val: epoch loss = 865.0470
+2022-11-17 12:23:29,469 - main - INFO - Saved the best model at epoch 41.
+2022-11-17 12:23:29,469 - main - INFO - Epoch 42/700
+2022-11-17 12:23:29,473 - main - INFO - ----------------------------
+2022-11-17 12:23:29,473 - main - INFO - training...
+2022-11-17 12:23:40,641 - main - INFO - Epoch 42 - train: epoch loss = 986.7045
+2022-11-17 12:23:40,651 - main - INFO - validating...
+2022-11-17 12:23:44,296 - main - INFO - Epoch 42 - val: epoch loss = 847.9990
+2022-11-17 12:23:44,568 - main - INFO - Saved the best model at epoch 42.
+2022-11-17 12:23:44,568 - main - INFO - Epoch 43/700
+2022-11-17 12:23:44,569 - main - INFO - ----------------------------
+2022-11-17 12:23:44,569 - main - INFO - training...
+2022-11-17 12:23:55,648 - main - INFO - Epoch 43 - train: epoch loss = 968.8925
+2022-11-17 12:23:55,648 - main - INFO - validating...
+2022-11-17 12:23:59,421 - main - INFO - Epoch 43 - val: epoch loss = 832.4044
+2022-11-17 12:23:59,683 - main - INFO - Saved the best model at epoch 43.
+2022-11-17 12:23:59,683 - main - INFO - Epoch 44/700
+2022-11-17 12:23:59,684 - main - INFO - ----------------------------
+2022-11-17 12:23:59,684 - main - INFO - training...
+2022-11-17 12:24:10,773 - main - INFO - Epoch 44 - train: epoch loss = 953.1052
+2022-11-17 12:24:10,773 - main - INFO - validating...
+2022-11-17 12:24:14,537 - main - INFO - Epoch 44 - val: epoch loss = 819.6924
+2022-11-17 12:24:14,789 - main - INFO - Saved the best model at epoch 44.
+2022-11-17 12:24:14,790 - main - INFO - Epoch 45/700
+2022-11-17 12:24:14,790 - main - INFO - ----------------------------
+2022-11-17 12:24:14,792 - main - INFO - training...
+2022-11-17 12:24:25,854 - main - INFO - Epoch 45 - train: epoch loss = 936.0605
+2022-11-17 12:24:25,854 - main - INFO - validating...
+2022-11-17 12:24:29,596 - main - INFO - Epoch 45 - val: epoch loss = 804.6750
+2022-11-17 12:24:29,766 - main - INFO - Saved the best model at epoch 45.
+2022-11-17 12:24:29,766 - main - INFO - Epoch 46/700
+2022-11-17 12:24:29,767 - main - INFO - ----------------------------
+2022-11-17 12:24:29,767 - main - INFO - training...
+2022-11-17 12:24:40,921 - main - INFO - Epoch 46 - train: epoch loss = 922.6405
+2022-11-17 12:24:40,921 - main - INFO - validating...
+2022-11-17 12:24:44,583 - main - INFO - Epoch 46 - val: epoch loss = 792.1348
+2022-11-17 12:24:44,848 - main - INFO - Saved the best model at epoch 46.
+2022-11-17 12:24:44,848 - main - INFO - Epoch 47/700
+2022-11-17 12:24:44,849 - main - INFO - ----------------------------
+2022-11-17 12:24:44,849 - main - INFO - training...
+2022-11-17 12:24:56,005 - main - INFO - Epoch 47 - train: epoch loss = 907.2116
+2022-11-17 12:24:56,005 - main - INFO - validating...
+2022-11-17 12:24:59,633 - main - INFO - Epoch 47 - val: epoch loss = 780.7343
+2022-11-17 12:24:59,893 - main - INFO - Saved the best model at epoch 47.
+2022-11-17 12:24:59,893 - main - INFO - Epoch 48/700
+2022-11-17 12:24:59,894 - main - INFO - ----------------------------
+2022-11-17 12:24:59,895 - main - INFO - training...
+2022-11-17 12:25:11,049 - main - INFO - Epoch 48 - train: epoch loss = 893.3845
+2022-11-17 12:25:11,049 - main - INFO - validating...
+2022-11-17 12:25:14,793 - main - INFO - Epoch 48 - val: epoch loss = 767.0591
+2022-11-17 12:25:15,031 - main - INFO - Saved the best model at epoch 48.
+2022-11-17 12:25:15,031 - main - INFO - Epoch 49/700
+2022-11-17 12:25:15,035 - main - INFO - ----------------------------
+2022-11-17 12:25:15,035 - main - INFO - training...
+2022-11-17 12:25:26,204 - main - INFO - Epoch 49 - train: epoch loss = 879.9272
+2022-11-17 12:25:26,204 - main - INFO - validating...
+2022-11-17 12:25:29,942 - main - INFO - Epoch 49 - val: epoch loss = 754.8762
+2022-11-17 12:25:30,218 - main - INFO - Saved the best model at epoch 49.
+2022-11-17 12:25:30,218 - main - INFO - Epoch 50/700
+2022-11-17 12:25:30,220 - main - INFO - ----------------------------
+2022-11-17 12:25:30,220 - main - INFO - training...
+2022-11-17 12:25:41,321 - main - INFO - Epoch 50 - train: epoch loss = 866.9438
+2022-11-17 12:25:41,321 - main - INFO - validating...
+2022-11-17 12:25:45,051 - main - INFO - Epoch 50 - val: epoch loss = 742.6868
+2022-11-17 12:25:45,307 - main - INFO - Saved the best model at epoch 50.
+2022-11-17 12:25:45,307 - main - INFO - Epoch 51/700
+2022-11-17 12:25:45,316 - main - INFO - ----------------------------
+2022-11-17 12:25:45,316 - main - INFO - training...
+2022-11-17 12:25:56,395 - main - INFO - Epoch 51 - train: epoch loss = 853.5055
+2022-11-17 12:25:56,395 - main - INFO - validating...
+2022-11-17 12:26:00,142 - main - INFO - Epoch 51 - val: epoch loss = 731.8618
+2022-11-17 12:26:00,391 - main - INFO - Saved the best model at epoch 51.
+2022-11-17 12:26:00,391 - main - INFO - Epoch 52/700
+2022-11-17 12:26:00,401 - main - INFO - ----------------------------
+2022-11-17 12:26:00,402 - main - INFO - training...
+2022-11-17 12:26:11,561 - main - INFO - Epoch 52 - train: epoch loss = 842.5203
+2022-11-17 12:26:11,561 - main - INFO - validating...
+2022-11-17 12:26:15,192 - main - INFO - Epoch 52 - val: epoch loss = 721.4289
+2022-11-17 12:26:15,456 - main - INFO - Saved the best model at epoch 52.
+2022-11-17 12:26:15,456 - main - INFO - Epoch 53/700
+2022-11-17 12:26:15,456 - main - INFO - ----------------------------
+2022-11-17 12:26:15,465 - main - INFO - training...
+2022-11-17 12:26:26,603 - main - INFO - Epoch 53 - train: epoch loss = 831.0784
+2022-11-17 12:26:26,603 - main - INFO - validating...
+2022-11-17 12:26:30,254 - main - INFO - Epoch 53 - val: epoch loss = 711.6749
+2022-11-17 12:26:30,526 - main - INFO - Saved the best model at epoch 53.
+2022-11-17 12:26:30,526 - main - INFO - Epoch 54/700
+2022-11-17 12:26:30,527 - main - INFO - ----------------------------
+2022-11-17 12:26:30,527 - main - INFO - training...
+2022-11-17 12:26:41,611 - main - INFO - Epoch 54 - train: epoch loss = 820.0254
+2022-11-17 12:26:41,611 - main - INFO - validating...
+2022-11-17 12:26:45,334 - main - INFO - Epoch 54 - val: epoch loss = 701.6800
+2022-11-17 12:26:45,589 - main - INFO - Saved the best model at epoch 54.
+2022-11-17 12:26:45,589 - main - INFO - Epoch 55/700
+2022-11-17 12:26:45,589 - main - INFO - ----------------------------
+2022-11-17 12:26:45,599 - main - INFO - training...
+2022-11-17 12:26:56,781 - main - INFO - Epoch 55 - train: epoch loss = 809.5285
+2022-11-17 12:26:56,781 - main - INFO - validating...
+2022-11-17 12:27:00,498 - main - INFO - Epoch 55 - val: epoch loss = 693.2028
+2022-11-17 12:27:00,759 - main - INFO - Saved the best model at epoch 55.
+2022-11-17 12:27:00,759 - main - INFO - Epoch 56/700
+2022-11-17 12:27:00,761 - main - INFO - ----------------------------
+2022-11-17 12:27:00,761 - main - INFO - training...
+2022-11-17 12:27:11,938 - main - INFO - Epoch 56 - train: epoch loss = 798.5585
+2022-11-17 12:27:11,948 - main - INFO - validating...
+2022-11-17 12:27:15,615 - main - INFO - Epoch 56 - val: epoch loss = 683.2909
+2022-11-17 12:27:15,882 - main - INFO - Saved the best model at epoch 56.
+2022-11-17 12:27:15,882 - main - INFO - Epoch 57/700
+2022-11-17 12:27:15,882 - main - INFO - ----------------------------
+2022-11-17 12:27:15,884 - main - INFO - training...
+2022-11-17 12:27:27,057 - main - INFO - Epoch 57 - train: epoch loss = 788.7656
+2022-11-17 12:27:27,067 - main - INFO - validating...
+2022-11-17 12:27:30,782 - main - INFO - Epoch 57 - val: epoch loss = 673.8625
+2022-11-17 12:27:31,029 - main - INFO - Saved the best model at epoch 57.
+2022-11-17 12:27:31,029 - main - INFO - Epoch 58/700
+2022-11-17 12:27:31,033 - main - INFO - ----------------------------
+2022-11-17 12:27:31,034 - main - INFO - training...
+2022-11-17 12:27:42,216 - main - INFO - Epoch 58 - train: epoch loss = 779.5267
+2022-11-17 12:27:42,216 - main - INFO - validating...
+2022-11-17 12:27:45,857 - main - INFO - Epoch 58 - val: epoch loss = 665.7140
+2022-11-17 12:27:46,132 - main - INFO - Saved the best model at epoch 58.
+2022-11-17 12:27:46,132 - main - INFO - Epoch 59/700
+2022-11-17 12:27:46,135 - main - INFO - ----------------------------
+2022-11-17 12:27:46,136 - main - INFO - training...
+2022-11-17 12:27:57,222 - main - INFO - Epoch 59 - train: epoch loss = 768.9613
+2022-11-17 12:27:57,222 - main - INFO - validating...
+2022-11-17 12:28:00,977 - main - INFO - Epoch 59 - val: epoch loss = 657.6592
+2022-11-17 12:28:01,238 - main - INFO - Saved the best model at epoch 59.
+2022-11-17 12:28:01,238 - main - INFO - Epoch 60/700
+2022-11-17 12:28:01,241 - main - INFO - ----------------------------
+2022-11-17 12:28:01,241 - main - INFO - training...
+2022-11-17 12:28:12,333 - main - INFO - Epoch 60 - train: epoch loss = 760.4085
+2022-11-17 12:28:12,343 - main - INFO - validating...
+2022-11-17 12:28:16,064 - main - INFO - Epoch 60 - val: epoch loss = 649.9903
+2022-11-17 12:28:16,352 - main - INFO - Saved the best model at epoch 60.
+2022-11-17 12:28:16,352 - main - INFO - Epoch 61/700
+2022-11-17 12:28:16,352 - main - INFO - ----------------------------
+2022-11-17 12:28:16,356 - main - INFO - training...
+2022-11-17 12:28:27,521 - main - INFO - Epoch 61 - train: epoch loss = 751.8976
+2022-11-17 12:28:27,521 - main - INFO - validating...
+2022-11-17 12:28:31,165 - main - INFO - Epoch 61 - val: epoch loss = 641.4532
+2022-11-17 12:28:31,431 - main - INFO - Saved the best model at epoch 61.
+2022-11-17 12:28:31,431 - main - INFO - Epoch 62/700
+2022-11-17 12:28:31,432 - main - INFO - ----------------------------
+2022-11-17 12:28:31,433 - main - INFO - training...
+2022-11-17 12:28:42,574 - main - INFO - Epoch 62 - train: epoch loss = 743.3664
+2022-11-17 12:28:42,574 - main - INFO - validating...
+2022-11-17 12:28:46,244 - main - INFO - Epoch 62 - val: epoch loss = 633.9446
+2022-11-17 12:28:46,504 - main - INFO - Saved the best model at epoch 62.
+2022-11-17 12:28:46,504 - main - INFO - Epoch 63/700
+2022-11-17 12:28:46,514 - main - INFO - ----------------------------
+2022-11-17 12:28:46,515 - main - INFO - training...
+2022-11-17 12:28:57,587 - main - INFO - Epoch 63 - train: epoch loss = 735.5462
+2022-11-17 12:28:57,587 - main - INFO - validating...
+2022-11-17 12:29:01,344 - main - INFO - Epoch 63 - val: epoch loss = 627.0139
+2022-11-17 12:29:01,597 - main - INFO - Saved the best model at epoch 63.
+2022-11-17 12:29:01,598 - main - INFO - Epoch 64/700
+2022-11-17 12:29:01,599 - main - INFO - ----------------------------
+2022-11-17 12:29:01,600 - main - INFO - training...
+2022-11-17 12:29:12,783 - main - INFO - Epoch 64 - train: epoch loss = 727.5950
+2022-11-17 12:29:12,783 - main - INFO - validating...
+2022-11-17 12:29:16,600 - main - INFO - Epoch 64 - val: epoch loss = 620.1861
+2022-11-17 12:29:16,840 - main - INFO - Saved the best model at epoch 64.
+2022-11-17 12:29:16,840 - main - INFO - Epoch 65/700
+2022-11-17 12:29:16,841 - main - INFO - ----------------------------
+2022-11-17 12:29:16,842 - main - INFO - training...
+2022-11-17 12:29:27,980 - main - INFO - Epoch 65 - train: epoch loss = 718.9493
+2022-11-17 12:29:27,980 - main - INFO - validating...
+2022-11-17 12:29:31,712 - main - INFO - Epoch 65 - val: epoch loss = 612.7614
+2022-11-17 12:29:31,948 - main - INFO - Saved the best model at epoch 65.
+2022-11-17 12:29:31,949 - main - INFO - Epoch 66/700
+2022-11-17 12:29:31,949 - main - INFO - ----------------------------
+2022-11-17 12:29:31,950 - main - INFO - training...
+2022-11-17 12:29:43,120 - main - INFO - Epoch 66 - train: epoch loss = 711.9999
+2022-11-17 12:29:43,120 - main - INFO - validating...
+2022-11-17 12:29:46,742 - main - INFO - Epoch 66 - val: epoch loss = 606.4964
+2022-11-17 12:29:47,005 - main - INFO - Saved the best model at epoch 66.
+2022-11-17 12:29:47,005 - main - INFO - Epoch 67/700
+2022-11-17 12:29:47,006 - main - INFO - ----------------------------
+2022-11-17 12:29:47,007 - main - INFO - training...
+2022-11-17 12:29:58,098 - main - INFO - Epoch 67 - train: epoch loss = 705.1235
+2022-11-17 12:29:58,098 - main - INFO - validating...
+2022-11-17 12:30:01,829 - main - INFO - Epoch 67 - val: epoch loss = 600.9519
+2022-11-17 12:30:02,001 - main - INFO - Saved the best model at epoch 67.
+2022-11-17 12:30:02,003 - main - INFO - Epoch 68/700
+2022-11-17 12:30:02,003 - main - INFO - ----------------------------
+2022-11-17 12:30:02,004 - main - INFO - training...
+2022-11-17 12:30:13,200 - main - INFO - Epoch 68 - train: epoch loss = 698.1173
+2022-11-17 12:30:13,200 - main - INFO - validating...
+2022-11-17 12:30:17,009 - main - INFO - Epoch 68 - val: epoch loss = 594.4555
+2022-11-17 12:30:17,190 - main - INFO - Saved the best model at epoch 68.
+2022-11-17 12:30:17,191 - main - INFO - Epoch 69/700
+2022-11-17 12:30:17,191 - main - INFO - ----------------------------
+2022-11-17 12:30:17,192 - main - INFO - training...
+2022-11-17 12:30:28,328 - main - INFO - Epoch 69 - train: epoch loss = 691.1915
+2022-11-17 12:30:28,328 - main - INFO - validating...
+2022-11-17 12:30:31,982 - main - INFO - Epoch 69 - val: epoch loss = 587.0796
+2022-11-17 12:30:32,241 - main - INFO - Saved the best model at epoch 69.
+2022-11-17 12:30:32,242 - main - INFO - Epoch 70/700
+2022-11-17 12:30:32,242 - main - INFO - ----------------------------
+2022-11-17 12:30:32,243 - main - INFO - training...
+2022-11-17 12:30:43,405 - main - INFO - Epoch 70 - train: epoch loss = 684.2390
+2022-11-17 12:30:43,405 - main - INFO - validating...
+2022-11-17 12:30:47,127 - main - INFO - Epoch 70 - val: epoch loss = 581.2976
+2022-11-17 12:30:47,392 - main - INFO - Saved the best model at epoch 70.
+2022-11-17 12:30:47,392 - main - INFO - Epoch 71/700
+2022-11-17 12:30:47,402 - main - INFO - ----------------------------
+2022-11-17 12:30:47,402 - main - INFO - training...
+2022-11-17 12:30:58,535 - main - INFO - Epoch 71 - train: epoch loss = 678.1097
+2022-11-17 12:30:58,535 - main - INFO - validating...
+2022-11-17 12:31:02,193 - main - INFO - Epoch 71 - val: epoch loss = 575.5171
+2022-11-17 12:31:02,461 - main - INFO - Saved the best model at epoch 71.
+2022-11-17 12:31:02,461 - main - INFO - Epoch 72/700
+2022-11-17 12:31:02,466 - main - INFO - ----------------------------
+2022-11-17 12:31:02,466 - main - INFO - training...
+2022-11-17 12:31:13,615 - main - INFO - Epoch 72 - train: epoch loss = 672.2574
+2022-11-17 12:31:13,615 - main - INFO - validating...
+2022-11-17 12:31:17,238 - main - INFO - Epoch 72 - val: epoch loss = 570.1967
+2022-11-17 12:31:17,506 - main - INFO - Saved the best model at epoch 72.
+2022-11-17 12:31:17,507 - main - INFO - Epoch 73/700
+2022-11-17 12:31:17,507 - main - INFO - ----------------------------
+2022-11-17 12:31:17,508 - main - INFO - training...
+2022-11-17 12:31:28,651 - main - INFO - Epoch 73 - train: epoch loss = 665.9939
+2022-11-17 12:31:28,661 - main - INFO - validating...
+2022-11-17 12:31:32,407 - main - INFO - Epoch 73 - val: epoch loss = 564.5482
+2022-11-17 12:31:32,660 - main - INFO - Saved the best model at epoch 73.
+2022-11-17 12:31:32,661 - main - INFO - Epoch 74/700
+2022-11-17 12:31:32,662 - main - INFO - ----------------------------
+2022-11-17 12:31:32,662 - main - INFO - training...
+2022-11-17 12:31:43,745 - main - INFO - Epoch 74 - train: epoch loss = 660.0622
+2022-11-17 12:31:43,745 - main - INFO - validating...
+2022-11-17 12:31:47,477 - main - INFO - Epoch 74 - val: epoch loss = 559.7553
+2022-11-17 12:31:47,738 - main - INFO - Saved the best model at epoch 74.
+2022-11-17 12:31:47,738 - main - INFO - Epoch 75/700
+2022-11-17 12:31:47,738 - main - INFO - ----------------------------
+2022-11-17 12:31:47,744 - main - INFO - training...
+2022-11-17 12:31:58,930 - main - INFO - Epoch 75 - train: epoch loss = 654.0197
+2022-11-17 12:31:58,930 - main - INFO - validating...
+2022-11-17 12:32:02,574 - main - INFO - Epoch 75 - val: epoch loss = 553.7121
+2022-11-17 12:32:02,833 - main - INFO - Saved the best model at epoch 75.
+2022-11-17 12:32:02,834 - main - INFO - Epoch 76/700
+2022-11-17 12:32:02,835 - main - INFO - ----------------------------
+2022-11-17 12:32:02,835 - main - INFO - training...
+2022-11-17 12:32:13,906 - main - INFO - Epoch 76 - train: epoch loss = 648.8482
+2022-11-17 12:32:13,906 - main - INFO - validating...
+2022-11-17 12:32:17,652 - main - INFO - Epoch 76 - val: epoch loss = 548.8882
+2022-11-17 12:32:17,918 - main - INFO - Saved the best model at epoch 76.
+2022-11-17 12:32:17,918 - main - INFO - Epoch 77/700
+2022-11-17 12:32:17,918 - main - INFO - ----------------------------
+2022-11-17 12:32:17,918 - main - INFO - training...
+2022-11-17 12:32:28,946 - main - INFO - Epoch 77 - train: epoch loss = 643.1222
+2022-11-17 12:32:28,946 - main - INFO - validating...
+2022-11-17 12:32:32,679 - main - INFO - Epoch 77 - val: epoch loss = 543.9657
+2022-11-17 12:32:32,944 - main - INFO - Saved the best model at epoch 77.
+2022-11-17 12:32:32,944 - main - INFO - Epoch 78/700
+2022-11-17 12:32:32,945 - main - INFO - ----------------------------
+2022-11-17 12:32:32,946 - main - INFO - training...
+2022-11-17 12:32:43,979 - main - INFO - Epoch 78 - train: epoch loss = 638.1855
+2022-11-17 12:32:43,979 - main - INFO - validating...
+2022-11-17 12:32:47,709 - main - INFO - Epoch 78 - val: epoch loss = 539.8073
+2022-11-17 12:32:47,959 - main - INFO - Saved the best model at epoch 78.
+2022-11-17 12:32:47,960 - main - INFO - Epoch 79/700
+2022-11-17 12:32:47,960 - main - INFO - ----------------------------
+2022-11-17 12:32:47,961 - main - INFO - training...
+2022-11-17 12:32:58,999 - main - INFO - Epoch 79 - train: epoch loss = 633.0316
+2022-11-17 12:32:58,999 - main - INFO - validating...
+2022-11-17 12:33:02,735 - main - INFO - Epoch 79 - val: epoch loss = 535.2617
+2022-11-17 12:33:02,987 - main - INFO - Saved the best model at epoch 79.
+2022-11-17 12:33:02,988 - main - INFO - Epoch 80/700
+2022-11-17 12:33:02,989 - main - INFO - ----------------------------
+2022-11-17 12:33:02,989 - main - INFO - training...
+2022-11-17 12:33:14,102 - main - INFO - Epoch 80 - train: epoch loss = 627.9579
+2022-11-17 12:33:14,102 - main - INFO - validating...
+2022-11-17 12:33:17,842 - main - INFO - Epoch 80 - val: epoch loss = 530.8920
+2022-11-17 12:33:18,109 - main - INFO - Saved the best model at epoch 80.
+2022-11-17 12:33:18,109 - main - INFO - Epoch 81/700
+2022-11-17 12:33:18,109 - main - INFO - ----------------------------
+2022-11-17 12:33:18,115 - main - INFO - training...
+2022-11-17 12:33:29,216 - main - INFO - Epoch 81 - train: epoch loss = 623.3076
+2022-11-17 12:33:29,216 - main - INFO - validating...
+2022-11-17 12:33:32,948 - main - INFO - Epoch 81 - val: epoch loss = 526.1488
+2022-11-17 12:33:33,200 - main - INFO - Saved the best model at epoch 81.
+2022-11-17 12:33:33,200 - main - INFO - Epoch 82/700
+2022-11-17 12:33:33,207 - main - INFO - ----------------------------
+2022-11-17 12:33:33,209 - main - INFO - training...
+2022-11-17 12:33:44,382 - main - INFO - Epoch 82 - train: epoch loss = 618.0795
+2022-11-17 12:33:44,382 - main - INFO - validating...
+2022-11-17 12:33:48,052 - main - INFO - Epoch 82 - val: epoch loss = 521.9804
+2022-11-17 12:33:48,307 - main - INFO - Saved the best model at epoch 82.
+2022-11-17 12:33:48,308 - main - INFO - Epoch 83/700
+2022-11-17 12:33:48,308 - main - INFO - ----------------------------
+2022-11-17 12:33:48,309 - main - INFO - training...
+2022-11-17 12:33:59,396 - main - INFO - Epoch 83 - train: epoch loss = 613.4823
+2022-11-17 12:33:59,396 - main - INFO - validating...
+2022-11-17 12:34:03,144 - main - INFO - Epoch 83 - val: epoch loss = 518.0279
+2022-11-17 12:34:03,419 - main - INFO - Saved the best model at epoch 83.
+2022-11-17 12:34:03,419 - main - INFO - Epoch 84/700
+2022-11-17 12:34:03,424 - main - INFO - ----------------------------
+2022-11-17 12:34:03,424 - main - INFO - training...
+2022-11-17 12:34:14,525 - main - INFO - Epoch 84 - train: epoch loss = 609.0288
+2022-11-17 12:34:14,525 - main - INFO - validating...
+2022-11-17 12:34:18,244 - main - INFO - Epoch 84 - val: epoch loss = 514.6876
+2022-11-17 12:34:18,482 - main - INFO - Saved the best model at epoch 84.
+2022-11-17 12:34:18,482 - main - INFO - Epoch 85/700
+2022-11-17 12:34:18,487 - main - INFO - ----------------------------
+2022-11-17 12:34:18,487 - main - INFO - training...
+2022-11-17 12:34:29,611 - main - INFO - Epoch 85 - train: epoch loss = 605.1788
+2022-11-17 12:34:29,611 - main - INFO - validating...
+2022-11-17 12:34:33,338 - main - INFO - Epoch 85 - val: epoch loss = 511.1901
+2022-11-17 12:34:33,593 - main - INFO - Saved the best model at epoch 85.
+2022-11-17 12:34:33,594 - main - INFO - Epoch 86/700
+2022-11-17 12:34:33,595 - main - INFO - ----------------------------
+2022-11-17 12:34:33,596 - main - INFO - training...
+2022-11-17 12:34:44,741 - main - INFO - Epoch 86 - train: epoch loss = 600.2694
+2022-11-17 12:34:44,741 - main - INFO - validating...
+2022-11-17 12:34:48,380 - main - INFO - Epoch 86 - val: epoch loss = 506.4765
+2022-11-17 12:34:48,656 - main - INFO - Saved the best model at epoch 86.
+2022-11-17 12:34:48,656 - main - INFO - Epoch 87/700
+2022-11-17 12:34:48,656 - main - INFO - ----------------------------
+2022-11-17 12:34:48,657 - main - INFO - training...
+2022-11-17 12:34:59,811 - main - INFO - Epoch 87 - train: epoch loss = 596.0563
+2022-11-17 12:34:59,821 - main - INFO - validating...
+2022-11-17 12:35:03,573 - main - INFO - Epoch 87 - val: epoch loss = 502.5575
+2022-11-17 12:35:03,811 - main - INFO - Saved the best model at epoch 87.
+2022-11-17 12:35:03,811 - main - INFO - Epoch 88/700
+2022-11-17 12:35:03,820 - main - INFO - ----------------------------
+2022-11-17 12:35:03,821 - main - INFO - training...
+2022-11-17 12:35:14,977 - main - INFO - Epoch 88 - train: epoch loss = 591.7301
+2022-11-17 12:35:14,977 - main - INFO - validating...
+2022-11-17 12:35:18,717 - main - INFO - Epoch 88 - val: epoch loss = 497.9792
+2022-11-17 12:35:18,884 - main - INFO - Saved the best model at epoch 88.
+2022-11-17 12:35:18,884 - main - INFO - Epoch 89/700
+2022-11-17 12:35:18,885 - main - INFO - ----------------------------
+2022-11-17 12:35:18,886 - main - INFO - training...
+2022-11-17 12:35:30,059 - main - INFO - Epoch 89 - train: epoch loss = 588.3216
+2022-11-17 12:35:30,059 - main - INFO - validating...
+2022-11-17 12:35:33,827 - main - INFO - Epoch 89 - val: epoch loss = 494.9329
+2022-11-17 12:35:34,002 - main - INFO - Saved the best model at epoch 89.
+2022-11-17 12:35:34,003 - main - INFO - Epoch 90/700
+2022-11-17 12:35:34,004 - main - INFO - ----------------------------
+2022-11-17 12:35:34,005 - main - INFO - training...
+2022-11-17 12:35:45,159 - main - INFO - Epoch 90 - train: epoch loss = 583.9129
+2022-11-17 12:35:45,159 - main - INFO - validating...
+2022-11-17 12:35:48,825 - main - INFO - Epoch 90 - val: epoch loss = 491.6518
+2022-11-17 12:35:49,081 - main - INFO - Saved the best model at epoch 90.
+2022-11-17 12:35:49,081 - main - INFO - Epoch 91/700
+2022-11-17 12:35:49,084 - main - INFO - ----------------------------
+2022-11-17 12:35:49,085 - main - INFO - training...
+2022-11-17 12:36:00,259 - main - INFO - Epoch 91 - train: epoch loss = 579.7929
+2022-11-17 12:36:00,259 - main - INFO - validating...
+2022-11-17 12:36:03,990 - main - INFO - Epoch 91 - val: epoch loss = 487.5253
+2022-11-17 12:36:04,234 - main - INFO - Saved the best model at epoch 91.
+2022-11-17 12:36:04,234 - main - INFO - Epoch 92/700
+2022-11-17 12:36:04,237 - main - INFO - ----------------------------
+2022-11-17 12:36:04,237 - main - INFO - training...
+2022-11-17 12:36:15,402 - main - INFO - Epoch 92 - train: epoch loss = 576.5700
+2022-11-17 12:36:15,402 - main - INFO - validating...
+2022-11-17 12:36:19,080 - main - INFO - Epoch 92 - val: epoch loss = 483.9673
+2022-11-17 12:36:19,348 - main - INFO - Saved the best model at epoch 92.
+2022-11-17 12:36:19,348 - main - INFO - Epoch 93/700
+2022-11-17 12:36:19,352 - main - INFO - ----------------------------
+2022-11-17 12:36:19,352 - main - INFO - training...
+2022-11-17 12:36:30,483 - main - INFO - Epoch 93 - train: epoch loss = 572.5677
+2022-11-17 12:36:30,493 - main - INFO - validating...
+2022-11-17 12:36:34,246 - main - INFO - Epoch 93 - val: epoch loss = 480.8061
+2022-11-17 12:36:34,484 - main - INFO - Saved the best model at epoch 93.
+2022-11-17 12:36:34,484 - main - INFO - Epoch 94/700
+2022-11-17 12:36:34,484 - main - INFO - ----------------------------
+2022-11-17 12:36:34,488 - main - INFO - training...
+2022-11-17 12:36:45,643 - main - INFO - Epoch 94 - train: epoch loss = 569.2948
+2022-11-17 12:36:45,643 - main - INFO - validating...
+2022-11-17 12:36:49,362 - main - INFO - Epoch 94 - val: epoch loss = 478.1561
+2022-11-17 12:36:49,603 - main - INFO - Saved the best model at epoch 94.
+2022-11-17 12:36:49,603 - main - INFO - Epoch 95/700
+2022-11-17 12:36:49,606 - main - INFO - ----------------------------
+2022-11-17 12:36:49,607 - main - INFO - training...
+2022-11-17 12:37:00,779 - main - INFO - Epoch 95 - train: epoch loss = 565.3580
+2022-11-17 12:37:00,789 - main - INFO - validating...
+2022-11-17 12:37:04,510 - main - INFO - Epoch 95 - val: epoch loss = 475.3566
+2022-11-17 12:37:04,682 - main - INFO - Saved the best model at epoch 95.
+2022-11-17 12:37:04,683 - main - INFO - Epoch 96/700
+2022-11-17 12:37:04,683 - main - INFO - ----------------------------
+2022-11-17 12:37:04,684 - main - INFO - training...
+2022-11-17 12:37:15,849 - main - INFO - Epoch 96 - train: epoch loss = 562.3998
+2022-11-17 12:37:15,849 - main - INFO - validating...
+2022-11-17 12:37:19,484 - main - INFO - Epoch 96 - val: epoch loss = 472.0296
+2022-11-17 12:37:19,747 - main - INFO - Saved the best model at epoch 96.
+2022-11-17 12:37:19,747 - main - INFO - Epoch 97/700
+2022-11-17 12:37:19,751 - main - INFO - ----------------------------
+2022-11-17 12:37:19,753 - main - INFO - training...
+2022-11-17 12:37:30,826 - main - INFO - Epoch 97 - train: epoch loss = 558.8238
+2022-11-17 12:37:30,826 - main - INFO - validating...
+2022-11-17 12:37:34,577 - main - INFO - Epoch 97 - val: epoch loss = 468.7254
+2022-11-17 12:37:34,750 - main - INFO - Saved the best model at epoch 97.
+2022-11-17 12:37:34,751 - main - INFO - Epoch 98/700
+2022-11-17 12:37:34,751 - main - INFO - ----------------------------
+2022-11-17 12:37:34,752 - main - INFO - training...
+2022-11-17 12:37:45,908 - main - INFO - Epoch 98 - train: epoch loss = 555.8860
+2022-11-17 12:37:45,908 - main - INFO - validating...
+2022-11-17 12:37:49,550 - main - INFO - Epoch 98 - val: epoch loss = 465.0732
+2022-11-17 12:37:49,822 - main - INFO - Saved the best model at epoch 98.
+2022-11-17 12:37:49,822 - main - INFO - Epoch 99/700
+2022-11-17 12:37:49,823 - main - INFO - ----------------------------
+2022-11-17 12:37:49,824 - main - INFO - training...
+2022-11-17 12:38:01,011 - main - INFO - Epoch 99 - train: epoch loss = 552.4048
+2022-11-17 12:38:01,011 - main - INFO - validating...
+2022-11-17 12:38:04,673 - main - INFO - Epoch 99 - val: epoch loss = 462.5363
+2022-11-17 12:38:04,943 - main - INFO - Saved the best model at epoch 99.
+2022-11-17 12:38:04,943 - main - INFO - Epoch 100/700
+2022-11-17 12:38:04,945 - main - INFO - ----------------------------
+2022-11-17 12:38:04,945 - main - INFO - training...
+2022-11-17 12:38:16,809 - main - INFO - Epoch 100 - train: epoch loss = 549.2161
+2022-11-17 12:38:16,809 - main - INFO - validating...
+2022-11-17 12:38:20,698 - main - INFO - Epoch 100 - val: epoch loss = 460.3413
+2022-11-17 12:38:20,953 - main - INFO - Saved the model at epoch 100.
+2022-11-17 12:38:21,140 - main - INFO - Saved the best model at epoch 100.
+2022-11-17 12:38:21,141 - main - INFO - Epoch 101/700
+2022-11-17 12:38:21,141 - main - INFO - ----------------------------
+2022-11-17 12:38:21,142 - main - INFO - training...
+2022-11-17 12:38:32,436 - main - INFO - Epoch 101 - train: epoch loss = 546.2060
+2022-11-17 12:38:32,437 - main - INFO - validating...
+2022-11-17 12:38:36,293 - main - INFO - Epoch 101 - val: epoch loss = 457.9948
+2022-11-17 12:38:36,490 - main - INFO - Saved the best model at epoch 101.
+2022-11-17 12:38:36,490 - main - INFO - Epoch 102/700
+2022-11-17 12:38:36,491 - main - INFO - ----------------------------
+2022-11-17 12:38:36,491 - main - INFO - training...
+2022-11-17 12:38:48,088 - main - INFO - Epoch 102 - train: epoch loss = 543.2141
+2022-11-17 12:38:48,089 - main - INFO - validating...
+2022-11-17 12:38:52,114 - main - INFO - Epoch 102 - val: epoch loss = 454.8460
+2022-11-17 12:38:52,296 - main - INFO - Saved the best model at epoch 102.
+2022-11-17 12:38:52,297 - main - INFO - Epoch 103/700
+2022-11-17 12:38:52,297 - main - INFO - ----------------------------
+2022-11-17 12:38:52,298 - main - INFO - training...
+2022-11-17 12:39:03,524 - main - INFO - Epoch 103 - train: epoch loss = 540.7094
+2022-11-17 12:39:03,524 - main - INFO - validating...
+2022-11-17 12:39:07,212 - main - INFO - Epoch 103 - val: epoch loss = 451.9122
+2022-11-17 12:39:07,489 - main - INFO - Saved the best model at epoch 103.
+2022-11-17 12:39:07,490 - main - INFO - Epoch 104/700
+2022-11-17 12:39:07,491 - main - INFO - ----------------------------
+2022-11-17 12:39:07,492 - main - INFO - training...
+2022-11-17 12:39:18,928 - main - INFO - Epoch 104 - train: epoch loss = 537.5093
+2022-11-17 12:39:18,929 - main - INFO - validating...
+2022-11-17 12:39:23,337 - main - INFO - Epoch 104 - val: epoch loss = 448.6214
+2022-11-17 12:39:23,664 - main - INFO - Saved the best model at epoch 104.
+2022-11-17 12:39:23,665 - main - INFO - Epoch 105/700
+2022-11-17 12:39:23,665 - main - INFO - ----------------------------
+2022-11-17 12:39:23,666 - main - INFO - training...
+2022-11-17 12:39:35,668 - main - INFO - Epoch 105 - train: epoch loss = 534.1900
+2022-11-17 12:39:35,669 - main - INFO - validating...
+2022-11-17 12:39:39,463 - main - INFO - Epoch 105 - val: epoch loss = 446.0664
+2022-11-17 12:39:39,720 - main - INFO - Saved the best model at epoch 105.
+2022-11-17 12:39:39,721 - main - INFO - Epoch 106/700
+2022-11-17 12:39:39,721 - main - INFO - ----------------------------
+2022-11-17 12:39:39,722 - main - INFO - training...
+2022-11-17 12:39:51,354 - main - INFO - Epoch 106 - train: epoch loss = 532.4734
+2022-11-17 12:39:51,355 - main - INFO - validating...
+2022-11-17 12:39:55,150 - main - INFO - Epoch 106 - val: epoch loss = 445.0060
+2022-11-17 12:39:55,564 - main - INFO - Saved the best model at epoch 106.
+2022-11-17 12:39:55,571 - main - INFO - Epoch 107/700
+2022-11-17 12:39:55,571 - main - INFO - ----------------------------
+2022-11-17 12:39:55,572 - main - INFO - training...
+2022-11-17 12:40:06,764 - main - INFO - Epoch 107 - train: epoch loss = 529.2294
+2022-11-17 12:40:06,764 - main - INFO - validating...
+2022-11-17 12:40:10,529 - main - INFO - Epoch 107 - val: epoch loss = 441.4924
+2022-11-17 12:40:10,694 - main - INFO - Saved the best model at epoch 107.
+2022-11-17 12:40:10,694 - main - INFO - Epoch 108/700
+2022-11-17 12:40:10,701 - main - INFO - ----------------------------
+2022-11-17 12:40:10,701 - main - INFO - training...
+2022-11-17 12:40:21,959 - main - INFO - Epoch 108 - train: epoch loss = 526.6497
+2022-11-17 12:40:21,959 - main - INFO - validating...
+2022-11-17 12:40:27,394 - main - INFO - Epoch 108 - val: epoch loss = 439.3396
+2022-11-17 12:40:27,586 - main - INFO - Saved the best model at epoch 108.
+2022-11-17 12:40:27,586 - main - INFO - Epoch 109/700
+2022-11-17 12:40:27,596 - main - INFO - ----------------------------
+2022-11-17 12:40:27,597 - main - INFO - training...
+2022-11-17 12:40:39,163 - main - INFO - Epoch 109 - train: epoch loss = 523.9203
+2022-11-17 12:40:39,163 - main - INFO - validating...
+2022-11-17 12:40:43,154 - main - INFO - Epoch 109 - val: epoch loss = 437.5025
+2022-11-17 12:40:43,337 - main - INFO - Saved the best model at epoch 109.
+2022-11-17 12:40:43,337 - main - INFO - Epoch 110/700
+2022-11-17 12:40:43,345 - main - INFO - ----------------------------
+2022-11-17 12:40:43,346 - main - INFO - training...
+2022-11-17 12:40:55,087 - main - INFO - Epoch 110 - train: epoch loss = 520.9425
+2022-11-17 12:40:55,087 - main - INFO - validating...
+2022-11-17 12:40:59,720 - main - INFO - Epoch 110 - val: epoch loss = 435.0530
+2022-11-17 12:40:59,902 - main - INFO - Saved the best model at epoch 110.
+2022-11-17 12:40:59,902 - main - INFO - Epoch 111/700
+2022-11-17 12:40:59,903 - main - INFO - ----------------------------
+2022-11-17 12:40:59,904 - main - INFO - training...
+2022-11-17 12:41:11,253 - main - INFO - Epoch 111 - train: epoch loss = 518.4238
+2022-11-17 12:41:11,253 - main - INFO - validating...
+2022-11-17 12:41:14,973 - main - INFO - Epoch 111 - val: epoch loss = 432.7706
+2022-11-17 12:41:15,205 - main - INFO - Saved the best model at epoch 111.
+2022-11-17 12:41:15,206 - main - INFO - Epoch 112/700
+2022-11-17 12:41:15,207 - main - INFO - ----------------------------
+2022-11-17 12:41:15,208 - main - INFO - training...
+2022-11-17 12:41:26,293 - main - INFO - Epoch 112 - train: epoch loss = 516.0001
+2022-11-17 12:41:26,293 - main - INFO - validating...
+2022-11-17 12:41:30,252 - main - INFO - Epoch 112 - val: epoch loss = 430.1501
+2022-11-17 12:41:30,412 - main - INFO - Saved the best model at epoch 112.
+2022-11-17 12:41:30,412 - main - INFO - Epoch 113/700
+2022-11-17 12:41:30,420 - main - INFO - ----------------------------
+2022-11-17 12:41:30,421 - main - INFO - training...
+2022-11-17 12:41:41,870 - main - INFO - Epoch 113 - train: epoch loss = 514.2978
+2022-11-17 12:41:41,870 - main - INFO - validating...
+2022-11-17 12:41:45,665 - main - INFO - Epoch 113 - val: epoch loss = 428.1717
+2022-11-17 12:41:45,829 - main - INFO - Saved the best model at epoch 113.
+2022-11-17 12:41:45,829 - main - INFO - Epoch 114/700
+2022-11-17 12:41:45,831 - main - INFO - ----------------------------
+2022-11-17 12:41:45,831 - main - INFO - training...
+2022-11-17 12:41:57,224 - main - INFO - Epoch 114 - train: epoch loss = 511.4186
+2022-11-17 12:41:57,225 - main - INFO - validating...
+2022-11-17 12:42:01,097 - main - INFO - Epoch 114 - val: epoch loss = 425.7313
+2022-11-17 12:42:01,277 - main - INFO - Saved the best model at epoch 114.
+2022-11-17 12:42:01,278 - main - INFO - Epoch 115/700
+2022-11-17 12:42:01,278 - main - INFO - ----------------------------
+2022-11-17 12:42:01,279 - main - INFO - training...
+2022-11-17 12:42:13,015 - main - INFO - Epoch 115 - train: epoch loss = 509.0554
+2022-11-17 12:42:13,016 - main - INFO - validating...
+2022-11-17 12:42:16,749 - main - INFO - Epoch 115 - val: epoch loss = 424.4671
+2022-11-17 12:42:17,020 - main - INFO - Saved the best model at epoch 115.
+2022-11-17 12:42:17,021 - main - INFO - Epoch 116/700
+2022-11-17 12:42:17,021 - main - INFO - ----------------------------
+2022-11-17 12:42:17,022 - main - INFO - training...
+2022-11-17 12:42:28,322 - main - INFO - Epoch 116 - train: epoch loss = 506.5018
+2022-11-17 12:42:28,323 - main - INFO - validating...
+2022-11-17 12:42:32,535 - main - INFO - Epoch 116 - val: epoch loss = 421.5249
+2022-11-17 12:42:32,717 - main - INFO - Saved the best model at epoch 116.
+2022-11-17 12:42:32,717 - main - INFO - Epoch 117/700
+2022-11-17 12:42:32,721 - main - INFO - ----------------------------
+2022-11-17 12:42:32,722 - main - INFO - training...
+2022-11-17 12:42:44,149 - main - INFO - Epoch 117 - train: epoch loss = 504.7459
+2022-11-17 12:42:44,150 - main - INFO - validating...
+2022-11-17 12:42:48,306 - main - INFO - Epoch 117 - val: epoch loss = 419.2983
+2022-11-17 12:42:48,474 - main - INFO - Saved the best model at epoch 117.
+2022-11-17 12:42:48,474 - main - INFO - Epoch 118/700
+2022-11-17 12:42:48,480 - main - INFO - ----------------------------
+2022-11-17 12:42:48,481 - main - INFO - training...
+2022-11-17 12:42:59,768 - main - INFO - Epoch 118 - train: epoch loss = 502.5005
+2022-11-17 12:42:59,768 - main - INFO - validating...
+2022-11-17 12:43:03,543 - main - INFO - Epoch 118 - val: epoch loss = 418.2820
+2022-11-17 12:43:03,727 - main - INFO - Saved the best model at epoch 118.
+2022-11-17 12:43:03,728 - main - INFO - Epoch 119/700
+2022-11-17 12:43:03,729 - main - INFO - ----------------------------
+2022-11-17 12:43:03,730 - main - INFO - training...
+2022-11-17 12:43:15,118 - main - INFO - Epoch 119 - train: epoch loss = 500.0153
+2022-11-17 12:43:15,118 - main - INFO - validating...
+2022-11-17 12:43:19,067 - main - INFO - Epoch 119 - val: epoch loss = 415.7511
+2022-11-17 12:43:19,234 - main - INFO - Saved the best model at epoch 119.
+2022-11-17 12:43:19,234 - main - INFO - Epoch 120/700
+2022-11-17 12:43:19,234 - main - INFO - ----------------------------
+2022-11-17 12:43:19,242 - main - INFO - training...
+2022-11-17 12:43:30,733 - main - INFO - Epoch 120 - train: epoch loss = 497.6555
+2022-11-17 12:43:30,733 - main - INFO - validating...
+2022-11-17 12:43:34,690 - main - INFO - Epoch 120 - val: epoch loss = 413.5384
+2022-11-17 12:43:34,861 - main - INFO - Saved the best model at epoch 120.
+2022-11-17 12:43:34,861 - main - INFO - Epoch 121/700
+2022-11-17 12:43:34,867 - main - INFO - ----------------------------
+2022-11-17 12:43:34,868 - main - INFO - training...
+2022-11-17 12:43:45,926 - main - INFO - Epoch 121 - train: epoch loss = 495.9648
+2022-11-17 12:43:45,926 - main - INFO - validating...
+2022-11-17 12:43:49,671 - main - INFO - Epoch 121 - val: epoch loss = 411.9397
+2022-11-17 12:43:49,843 - main - INFO - Saved the best model at epoch 121.
+2022-11-17 12:43:49,843 - main - INFO - Epoch 122/700
+2022-11-17 12:43:49,848 - main - INFO - ----------------------------
+2022-11-17 12:43:49,849 - main - INFO - training...
+2022-11-17 12:44:01,040 - main - INFO - Epoch 122 - train: epoch loss = 494.0160
+2022-11-17 12:44:01,040 - main - INFO - validating...
+2022-11-17 12:44:04,901 - main - INFO - Epoch 122 - val: epoch loss = 409.9725
+2022-11-17 12:44:05,166 - main - INFO - Saved the best model at epoch 122.
+2022-11-17 12:44:05,176 - main - INFO - Epoch 123/700
+2022-11-17 12:44:05,177 - main - INFO - ----------------------------
+2022-11-17 12:44:05,178 - main - INFO - training...
+2022-11-17 12:44:16,469 - main - INFO - Epoch 123 - train: epoch loss = 491.8088
+2022-11-17 12:44:16,469 - main - INFO - validating...
+2022-11-17 12:44:20,162 - main - INFO - Epoch 123 - val: epoch loss = 407.6776
+2022-11-17 12:44:20,416 - main - INFO - Saved the best model at epoch 123.
+2022-11-17 12:44:20,427 - main - INFO - Epoch 124/700
+2022-11-17 12:44:20,438 - main - INFO - ----------------------------
+2022-11-17 12:44:20,440 - main - INFO - training...
+2022-11-17 12:44:31,915 - main - INFO - Epoch 124 - train: epoch loss = 489.8366
+2022-11-17 12:44:31,915 - main - INFO - validating...
+2022-11-17 12:44:35,804 - main - INFO - Epoch 124 - val: epoch loss = 405.7972
+2022-11-17 12:44:36,040 - main - INFO - Saved the best model at epoch 124.
+2022-11-17 12:44:36,040 - main - INFO - Epoch 125/700
+2022-11-17 12:44:36,046 - main - INFO - ----------------------------
+2022-11-17 12:44:36,047 - main - INFO - training...
+2022-11-17 12:44:48,190 - main - INFO - Epoch 125 - train: epoch loss = 488.3699
+2022-11-17 12:44:48,190 - main - INFO - validating...
+2022-11-17 12:44:52,165 - main - INFO - Epoch 125 - val: epoch loss = 404.3701
+2022-11-17 12:44:52,343 - main - INFO - Saved the best model at epoch 125.
+2022-11-17 12:44:52,343 - main - INFO - Epoch 126/700
+2022-11-17 12:44:52,345 - main - INFO - ----------------------------
+2022-11-17 12:44:52,346 - main - INFO - training...
+2022-11-17 12:45:03,555 - main - INFO - Epoch 126 - train: epoch loss = 485.6042
+2022-11-17 12:45:03,555 - main - INFO - validating...
+2022-11-17 12:45:07,526 - main - INFO - Epoch 126 - val: epoch loss = 402.5332
+2022-11-17 12:45:07,783 - main - INFO - Saved the best model at epoch 126.
+2022-11-17 12:45:07,783 - main - INFO - Epoch 127/700
+2022-11-17 12:45:07,791 - main - INFO - ----------------------------
+2022-11-17 12:45:07,791 - main - INFO - training...
+2022-11-17 12:45:18,942 - main - INFO - Epoch 127 - train: epoch loss = 484.1775
+2022-11-17 12:45:18,942 - main - INFO - validating...
+2022-11-17 12:45:22,612 - main - INFO - Epoch 127 - val: epoch loss = 401.0513
+2022-11-17 12:45:22,869 - main - INFO - Saved the best model at epoch 127.
+2022-11-17 12:45:22,869 - main - INFO - Epoch 128/700
+2022-11-17 12:45:22,879 - main - INFO - ----------------------------
+2022-11-17 12:45:22,880 - main - INFO - training...
+2022-11-17 12:45:34,154 - main - INFO - Epoch 128 - train: epoch loss = 482.4761
+2022-11-17 12:45:34,155 - main - INFO - validating...
+2022-11-17 12:45:37,915 - main - INFO - Epoch 128 - val: epoch loss = 399.6817
+2022-11-17 12:45:38,085 - main - INFO - Saved the best model at epoch 128.
+2022-11-17 12:45:38,085 - main - INFO - Epoch 129/700
+2022-11-17 12:45:38,089 - main - INFO - ----------------------------
+2022-11-17 12:45:38,090 - main - INFO - training...
+2022-11-17 12:45:49,296 - main - INFO - Epoch 129 - train: epoch loss = 480.7352
+2022-11-17 12:45:49,296 - main - INFO - validating...
+2022-11-17 12:45:53,115 - main - INFO - Epoch 129 - val: epoch loss = 398.1115
+2022-11-17 12:45:53,288 - main - INFO - Saved the best model at epoch 129.
+2022-11-17 12:45:53,297 - main - INFO - Epoch 130/700
+2022-11-17 12:45:53,297 - main - INFO - ----------------------------
+2022-11-17 12:45:53,298 - main - INFO - training...
+2022-11-17 12:46:04,525 - main - INFO - Epoch 130 - train: epoch loss = 478.8334
+2022-11-17 12:46:04,535 - main - INFO - validating...
+2022-11-17 12:46:08,235 - main - INFO - Epoch 130 - val: epoch loss = 396.6805
+2022-11-17 12:46:08,408 - main - INFO - Saved the best model at epoch 130.
+2022-11-17 12:46:08,408 - main - INFO - Epoch 131/700
+2022-11-17 12:46:08,408 - main - INFO - ----------------------------
+2022-11-17 12:46:08,416 - main - INFO - training...
+2022-11-17 12:46:19,615 - main - INFO - Epoch 131 - train: epoch loss = 476.7749
+2022-11-17 12:46:19,615 - main - INFO - validating...
+2022-11-17 12:46:23,305 - main - INFO - Epoch 131 - val: epoch loss = 395.4049
+2022-11-17 12:46:23,472 - main - INFO - Saved the best model at epoch 131.
+2022-11-17 12:46:23,482 - main - INFO - Epoch 132/700
+2022-11-17 12:46:23,483 - main - INFO - ----------------------------
+2022-11-17 12:46:23,485 - main - INFO - training...
+2022-11-17 12:46:34,734 - main - INFO - Epoch 132 - train: epoch loss = 475.0683
+2022-11-17 12:46:34,734 - main - INFO - validating...
+2022-11-17 12:46:38,402 - main - INFO - Epoch 132 - val: epoch loss = 392.7904
+2022-11-17 12:46:38,672 - main - INFO - Saved the best model at epoch 132.
+2022-11-17 12:46:38,673 - main - INFO - Epoch 133/700
+2022-11-17 12:46:38,674 - main - INFO - ----------------------------
+2022-11-17 12:46:38,675 - main - INFO - training...
+2022-11-17 12:46:49,863 - main - INFO - Epoch 133 - train: epoch loss = 473.6415
+2022-11-17 12:46:49,863 - main - INFO - validating...
+2022-11-17 12:46:53,534 - main - INFO - Epoch 133 - val: epoch loss = 391.2881
+2022-11-17 12:46:53,705 - main - INFO - Saved the best model at epoch 133.
+2022-11-17 12:46:53,705 - main - INFO - Epoch 134/700
+2022-11-17 12:46:53,714 - main - INFO - ----------------------------
+2022-11-17 12:46:53,715 - main - INFO - training...
+2022-11-17 12:47:04,971 - main - INFO - Epoch 134 - train: epoch loss = 471.7525
+2022-11-17 12:47:04,971 - main - INFO - validating...
+2022-11-17 12:47:08,744 - main - INFO - Epoch 134 - val: epoch loss = 389.3978
+2022-11-17 12:47:08,991 - main - INFO - Saved the best model at epoch 134.
+2022-11-17 12:47:09,001 - main - INFO - Epoch 135/700
+2022-11-17 12:47:09,002 - main - INFO - ----------------------------
+2022-11-17 12:47:09,002 - main - INFO - training...
+2022-11-17 12:47:20,224 - main - INFO - Epoch 135 - train: epoch loss = 470.1841
+2022-11-17 12:47:20,224 - main - INFO - validating...
+2022-11-17 12:47:23,894 - main - INFO - Epoch 135 - val: epoch loss = 388.0135
+2022-11-17 12:47:24,144 - main - INFO - Saved the best model at epoch 135.
+2022-11-17 12:47:24,144 - main - INFO - Epoch 136/700
+2022-11-17 12:47:24,147 - main - INFO - ----------------------------
+2022-11-17 12:47:24,148 - main - INFO - training...
+2022-11-17 12:47:35,742 - main - INFO - Epoch 136 - train: epoch loss = 469.1549
+2022-11-17 12:47:35,752 - main - INFO - validating...
+2022-11-17 12:47:39,677 - main - INFO - Epoch 136 - val: epoch loss = 386.5406
+2022-11-17 12:47:39,857 - main - INFO - Saved the best model at epoch 136.
+2022-11-17 12:47:39,868 - main - INFO - Epoch 137/700
+2022-11-17 12:47:39,880 - main - INFO - ----------------------------
+2022-11-17 12:47:39,881 - main - INFO - training...
+2022-11-17 12:47:51,794 - main - INFO - Epoch 137 - train: epoch loss = 466.8057
+2022-11-17 12:47:51,804 - main - INFO - validating...
+2022-11-17 12:47:55,701 - main - INFO - Epoch 137 - val: epoch loss = 385.0005
+2022-11-17 12:47:56,009 - main - INFO - Saved the best model at epoch 137.
+2022-11-17 12:47:56,010 - main - INFO - Epoch 138/700
+2022-11-17 12:47:56,010 - main - INFO - ----------------------------
+2022-11-17 12:47:56,011 - main - INFO - training...
+2022-11-17 12:48:07,287 - main - INFO - Epoch 138 - train: epoch loss = 465.5033
+2022-11-17 12:48:07,287 - main - INFO - validating...
+2022-11-17 12:48:11,217 - main - INFO - Epoch 138 - val: epoch loss = 383.7448
+2022-11-17 12:48:11,422 - main - INFO - Saved the best model at epoch 138.
+2022-11-17 12:48:11,432 - main - INFO - Epoch 139/700
+2022-11-17 12:48:11,433 - main - INFO - ----------------------------
+2022-11-17 12:48:11,434 - main - INFO - training...
+2022-11-17 12:48:23,308 - main - INFO - Epoch 139 - train: epoch loss = 463.9477
+2022-11-17 12:48:23,309 - main - INFO - validating...
+2022-11-17 12:48:27,112 - main - INFO - Epoch 139 - val: epoch loss = 381.8670
+2022-11-17 12:48:27,289 - main - INFO - Saved the best model at epoch 139.
+2022-11-17 12:48:27,290 - main - INFO - Epoch 140/700
+2022-11-17 12:48:27,291 - main - INFO - ----------------------------
+2022-11-17 12:48:27,291 - main - INFO - training...
+2022-11-17 12:48:38,466 - main - INFO - Epoch 140 - train: epoch loss = 462.3714
+2022-11-17 12:48:38,466 - main - INFO - validating...
+2022-11-17 12:48:42,331 - main - INFO - Epoch 140 - val: epoch loss = 380.9536
+2022-11-17 12:48:42,592 - main - INFO - Saved the best model at epoch 140.
+2022-11-17 12:48:42,592 - main - INFO - Epoch 141/700
+2022-11-17 12:48:42,592 - main - INFO - ----------------------------
+2022-11-17 12:48:42,592 - main - INFO - training...
+2022-11-17 12:48:53,798 - main - INFO - Epoch 141 - train: epoch loss = 460.9092
+2022-11-17 12:48:53,798 - main - INFO - validating...
+2022-11-17 12:48:57,418 - main - INFO - Epoch 141 - val: epoch loss = 379.6954
+2022-11-17 12:48:57,659 - main - INFO - Saved the best model at epoch 141.
+2022-11-17 12:48:57,662 - main - INFO - Epoch 142/700
+2022-11-17 12:48:57,662 - main - INFO - ----------------------------
+2022-11-17 12:48:57,663 - main - INFO - training...
+2022-11-17 12:49:09,206 - main - INFO - Epoch 142 - train: epoch loss = 459.2225
+2022-11-17 12:49:09,207 - main - INFO - validating...
+2022-11-17 12:49:13,111 - main - INFO - Epoch 142 - val: epoch loss = 378.2619
+2022-11-17 12:49:13,288 - main - INFO - Saved the best model at epoch 142.
+2022-11-17 12:49:13,288 - main - INFO - Epoch 143/700
+2022-11-17 12:49:13,295 - main - INFO - ----------------------------
+2022-11-17 12:49:13,296 - main - INFO - training...
+2022-11-17 12:49:26,230 - main - INFO - Epoch 143 - train: epoch loss = 457.7268
+2022-11-17 12:49:26,231 - main - INFO - validating...
+2022-11-17 12:49:31,303 - main - INFO - Epoch 143 - val: epoch loss = 376.2157
+2022-11-17 12:49:31,512 - main - INFO - Saved the best model at epoch 143.
+2022-11-17 12:49:31,513 - main - INFO - Epoch 144/700
+2022-11-17 12:49:31,514 - main - INFO - ----------------------------
+2022-11-17 12:49:31,515 - main - INFO - training...
+2022-11-17 12:49:43,255 - main - INFO - Epoch 144 - train: epoch loss = 456.1959
+2022-11-17 12:49:43,256 - main - INFO - validating...
+2022-11-17 12:49:47,119 - main - INFO - Epoch 144 - val: epoch loss = 375.6012
+2022-11-17 12:49:47,386 - main - INFO - Saved the best model at epoch 144.
+2022-11-17 12:49:47,386 - main - INFO - Epoch 145/700
+2022-11-17 12:49:47,387 - main - INFO - ----------------------------
+2022-11-17 12:49:47,388 - main - INFO - training...
+2022-11-17 12:49:58,730 - main - INFO - Epoch 145 - train: epoch loss = 455.2522
+2022-11-17 12:49:58,731 - main - INFO - validating...
+2022-11-17 12:50:02,822 - main - INFO - Epoch 145 - val: epoch loss = 374.2275
+2022-11-17 12:50:03,091 - main - INFO - Saved the best model at epoch 145.
+2022-11-17 12:50:03,094 - main - INFO - Epoch 146/700
+2022-11-17 12:50:03,094 - main - INFO - ----------------------------
+2022-11-17 12:50:03,095 - main - INFO - training...
+2022-11-17 12:50:14,831 - main - INFO - Epoch 146 - train: epoch loss = 453.7252
+2022-11-17 12:50:14,831 - main - INFO - validating...
+2022-11-17 12:50:18,805 - main - INFO - Epoch 146 - val: epoch loss = 372.8262
+2022-11-17 12:50:18,982 - main - INFO - Saved the best model at epoch 146.
+2022-11-17 12:50:18,983 - main - INFO - Epoch 147/700
+2022-11-17 12:50:18,983 - main - INFO - ----------------------------
+2022-11-17 12:50:18,985 - main - INFO - training...
+2022-11-17 12:50:30,383 - main - INFO - Epoch 147 - train: epoch loss = 452.3659
+2022-11-17 12:50:30,384 - main - INFO - validating...
+2022-11-17 12:50:34,421 - main - INFO - Epoch 147 - val: epoch loss = 372.0247
+2022-11-17 12:50:34,630 - main - INFO - Saved the best model at epoch 147.
+2022-11-17 12:50:34,631 - main - INFO - Epoch 148/700
+2022-11-17 12:50:34,632 - main - INFO - ----------------------------
+2022-11-17 12:50:34,633 - main - INFO - training...
+2022-11-17 12:50:47,462 - main - INFO - Epoch 148 - train: epoch loss = 450.6702
+2022-11-17 12:50:47,463 - main - INFO - validating...
+2022-11-17 12:50:51,456 - main - INFO - Epoch 148 - val: epoch loss = 371.0738
+2022-11-17 12:50:51,754 - main - INFO - Saved the best model at epoch 148.
+2022-11-17 12:50:51,755 - main - INFO - Epoch 149/700
+2022-11-17 12:50:51,755 - main - INFO - ----------------------------
+2022-11-17 12:50:51,756 - main - INFO - training...
+2022-11-17 12:51:03,758 - main - INFO - Epoch 149 - train: epoch loss = 449.8041
+2022-11-17 12:51:03,759 - main - INFO - validating...
+2022-11-17 12:51:07,621 - main - INFO - Epoch 149 - val: epoch loss = 369.5194
+2022-11-17 12:51:07,913 - main - INFO - Saved the best model at epoch 149.
+2022-11-17 12:51:07,914 - main - INFO - Epoch 150/700
+2022-11-17 12:51:07,914 - main - INFO - ----------------------------
+2022-11-17 12:51:07,918 - main - INFO - training...
+2022-11-17 12:51:19,671 - main - INFO - Epoch 150 - train: epoch loss = 448.0872
+2022-11-17 12:51:19,672 - main - INFO - validating...
+2022-11-17 12:51:23,539 - main - INFO - Epoch 150 - val: epoch loss = 368.3305
+2022-11-17 12:51:23,703 - main - INFO - Saved the best model at epoch 150.
+2022-11-17 12:51:23,703 - main - INFO - Epoch 151/700
+2022-11-17 12:51:23,705 - main - INFO - ----------------------------
+2022-11-17 12:51:23,705 - main - INFO - training...
+2022-11-17 12:51:36,153 - main - INFO - Epoch 151 - train: epoch loss = 447.0944
+2022-11-17 12:51:36,154 - main - INFO - validating...
+2022-11-17 12:51:40,267 - main - INFO - Epoch 151 - val: epoch loss = 366.9951
+2022-11-17 12:51:40,570 - main - INFO - Saved the best model at epoch 151.
+2022-11-17 12:51:40,570 - main - INFO - Epoch 152/700
+2022-11-17 12:51:40,570 - main - INFO - ----------------------------
+2022-11-17 12:51:40,571 - main - INFO - training...
+2022-11-17 12:51:52,043 - main - INFO - Epoch 152 - train: epoch loss = 445.6338
+2022-11-17 12:51:52,043 - main - INFO - validating...
+2022-11-17 12:51:56,026 - main - INFO - Epoch 152 - val: epoch loss = 365.7878
+2022-11-17 12:51:56,309 - main - INFO - Saved the best model at epoch 152.
+2022-11-17 12:51:56,310 - main - INFO - Epoch 153/700
+2022-11-17 12:51:56,311 - main - INFO - ----------------------------
+2022-11-17 12:51:56,317 - main - INFO - training...
+2022-11-17 12:52:08,514 - main - INFO - Epoch 153 - train: epoch loss = 444.4210
+2022-11-17 12:52:08,514 - main - INFO - validating...
+2022-11-17 12:52:12,418 - main - INFO - Epoch 153 - val: epoch loss = 364.5117
+2022-11-17 12:52:12,701 - main - INFO - Saved the best model at epoch 153.
+2022-11-17 12:52:12,702 - main - INFO - Epoch 154/700
+2022-11-17 12:52:12,702 - main - INFO - ----------------------------
+2022-11-17 12:52:12,704 - main - INFO - training...
+2022-11-17 12:52:26,456 - main - INFO - Epoch 154 - train: epoch loss = 443.7661
+2022-11-17 12:52:26,457 - main - INFO - validating...
+2022-11-17 12:52:30,545 - main - INFO - Epoch 154 - val: epoch loss = 363.5319
+2022-11-17 12:52:30,786 - main - INFO - Saved the best model at epoch 154.
+2022-11-17 12:52:30,787 - main - INFO - Epoch 155/700
+2022-11-17 12:52:30,787 - main - INFO - ----------------------------
+2022-11-17 12:52:30,788 - main - INFO - training...
+2022-11-17 12:52:42,500 - main - INFO - Epoch 155 - train: epoch loss = 442.3695
+2022-11-17 12:52:42,501 - main - INFO - validating...
+2022-11-17 12:52:46,520 - main - INFO - Epoch 155 - val: epoch loss = 362.1465
+2022-11-17 12:52:46,701 - main - INFO - Saved the best model at epoch 155.
+2022-11-17 12:52:46,702 - main - INFO - Epoch 156/700
+2022-11-17 12:52:46,703 - main - INFO - ----------------------------
+2022-11-17 12:52:46,703 - main - INFO - training...
+2022-11-17 12:52:58,302 - main - INFO - Epoch 156 - train: epoch loss = 440.6405
+2022-11-17 12:52:58,302 - main - INFO - validating...
+2022-11-17 12:53:02,200 - main - INFO - Epoch 156 - val: epoch loss = 361.2931
+2022-11-17 12:53:02,387 - main - INFO - Saved the best model at epoch 156.
+2022-11-17 12:53:02,388 - main - INFO - Epoch 157/700
+2022-11-17 12:53:02,389 - main - INFO - ----------------------------
+2022-11-17 12:53:02,390 - main - INFO - training...
+2022-11-17 12:53:13,995 - main - INFO - Epoch 157 - train: epoch loss = 440.0648
+2022-11-17 12:53:13,996 - main - INFO - validating...
+2022-11-17 12:53:17,904 - main - INFO - Epoch 157 - val: epoch loss = 360.4033
+2022-11-17 12:53:18,194 - main - INFO - Saved the best model at epoch 157.
+2022-11-17 12:53:18,195 - main - INFO - Epoch 158/700
+2022-11-17 12:53:18,195 - main - INFO - ----------------------------
+2022-11-17 12:53:18,196 - main - INFO - training...
+2022-11-17 12:53:29,689 - main - INFO - Epoch 158 - train: epoch loss = 438.4051
+2022-11-17 12:53:29,690 - main - INFO - validating...
+2022-11-17 12:53:33,676 - main - INFO - Epoch 158 - val: epoch loss = 358.7122
+2022-11-17 12:53:33,853 - main - INFO - Saved the best model at epoch 158.
+2022-11-17 12:53:33,854 - main - INFO - Epoch 159/700
+2022-11-17 12:53:33,854 - main - INFO - ----------------------------
+2022-11-17 12:53:33,855 - main - INFO - training...
+2022-11-17 12:53:45,363 - main - INFO - Epoch 159 - train: epoch loss = 437.4881
+2022-11-17 12:53:45,363 - main - INFO - validating...
+2022-11-17 12:53:49,387 - main - INFO - Epoch 159 - val: epoch loss = 357.8678
+2022-11-17 12:53:49,561 - main - INFO - Saved the best model at epoch 159.
+2022-11-17 12:53:49,562 - main - INFO - Epoch 160/700
+2022-11-17 12:53:49,563 - main - INFO - ----------------------------
+2022-11-17 12:53:49,565 - main - INFO - training...
+2022-11-17 12:54:01,184 - main - INFO - Epoch 160 - train: epoch loss = 436.3390
+2022-11-17 12:54:01,185 - main - INFO - validating...
+2022-11-17 12:54:05,085 - main - INFO - Epoch 160 - val: epoch loss = 356.4872
+2022-11-17 12:54:05,267 - main - INFO - Saved the best model at epoch 160.
+2022-11-17 12:54:05,268 - main - INFO - Epoch 161/700
+2022-11-17 12:54:05,268 - main - INFO - ----------------------------
+2022-11-17 12:54:05,270 - main - INFO - training...
+2022-11-17 12:54:16,886 - main - INFO - Epoch 161 - train: epoch loss = 435.1806
+2022-11-17 12:54:16,886 - main - INFO - validating...
+2022-11-17 12:54:20,779 - main - INFO - Epoch 161 - val: epoch loss = 355.8427
+2022-11-17 12:54:20,960 - main - INFO - Saved the best model at epoch 161.
+2022-11-17 12:54:20,961 - main - INFO - Epoch 162/700
+2022-11-17 12:54:20,961 - main - INFO - ----------------------------
+2022-11-17 12:54:20,962 - main - INFO - training...
+2022-11-17 12:54:32,609 - main - INFO - Epoch 162 - train: epoch loss = 433.7032
+2022-11-17 12:54:32,610 - main - INFO - validating...
+2022-11-17 12:54:36,512 - main - INFO - Epoch 162 - val: epoch loss = 354.5304
+2022-11-17 12:54:36,693 - main - INFO - Saved the best model at epoch 162.
+2022-11-17 12:54:36,694 - main - INFO - Epoch 163/700
+2022-11-17 12:54:36,694 - main - INFO - ----------------------------
+2022-11-17 12:54:36,696 - main - INFO - training...
+2022-11-17 12:54:48,301 - main - INFO - Epoch 163 - train: epoch loss = 433.4559
+2022-11-17 12:54:48,302 - main - INFO - validating...
+2022-11-17 12:54:52,275 - main - INFO - Epoch 163 - val: epoch loss = 353.6932
+2022-11-17 12:54:52,458 - main - INFO - Saved the best model at epoch 163.
+2022-11-17 12:54:52,459 - main - INFO - Epoch 164/700
+2022-11-17 12:54:52,459 - main - INFO - ----------------------------
+2022-11-17 12:54:52,461 - main - INFO - training...
+2022-11-17 12:55:04,150 - main - INFO - Epoch 164 - train: epoch loss = 432.1778
+2022-11-17 12:55:04,151 - main - INFO - validating...
+2022-11-17 12:55:08,155 - main - INFO - Epoch 164 - val: epoch loss = 353.0894
+2022-11-17 12:55:08,339 - main - INFO - Saved the best model at epoch 164.
+2022-11-17 12:55:08,340 - main - INFO - Epoch 165/700
+2022-11-17 12:55:08,341 - main - INFO - ----------------------------
+2022-11-17 12:55:08,342 - main - INFO - training...
+2022-11-17 12:55:19,918 - main - INFO - Epoch 165 - train: epoch loss = 430.8790
+2022-11-17 12:55:19,919 - main - INFO - validating...
+2022-11-17 12:55:23,819 - main - INFO - Epoch 165 - val: epoch loss = 351.9203
+2022-11-17 12:55:24,002 - main - INFO - Saved the best model at epoch 165.
+2022-11-17 12:55:24,003 - main - INFO - Epoch 166/700
+2022-11-17 12:55:24,004 - main - INFO - ----------------------------
+2022-11-17 12:55:24,004 - main - INFO - training...
+2022-11-17 12:55:35,598 - main - INFO - Epoch 166 - train: epoch loss = 429.9917
+2022-11-17 12:55:35,600 - main - INFO - validating...
+2022-11-17 12:55:39,503 - main - INFO - Epoch 166 - val: epoch loss = 351.4847
+2022-11-17 12:55:39,682 - main - INFO - Saved the best model at epoch 166.
+2022-11-17 12:55:39,683 - main - INFO - Epoch 167/700
+2022-11-17 12:55:39,683 - main - INFO - ----------------------------
+2022-11-17 12:55:39,684 - main - INFO - training...
+2022-11-17 12:55:51,310 - main - INFO - Epoch 167 - train: epoch loss = 428.8476
+2022-11-17 12:55:51,311 - main - INFO - validating...
+2022-11-17 12:55:55,228 - main - INFO - Epoch 167 - val: epoch loss = 349.9813
+2022-11-17 12:55:55,506 - main - INFO - Saved the best model at epoch 167.
+2022-11-17 12:55:55,507 - main - INFO - Epoch 168/700
+2022-11-17 12:55:55,507 - main - INFO - ----------------------------
+2022-11-17 12:55:55,509 - main - INFO - training...
+2022-11-17 12:56:07,014 - main - INFO - Epoch 168 - train: epoch loss = 427.7708
+2022-11-17 12:56:07,015 - main - INFO - validating...
+2022-11-17 12:56:11,020 - main - INFO - Epoch 168 - val: epoch loss = 349.0888
+2022-11-17 12:56:11,205 - main - INFO - Saved the best model at epoch 168.
+2022-11-17 12:56:11,205 - main - INFO - Epoch 169/700
+2022-11-17 12:56:11,206 - main - INFO - ----------------------------
+2022-11-17 12:56:11,207 - main - INFO - training...
+2022-11-17 12:56:22,722 - main - INFO - Epoch 169 - train: epoch loss = 426.4262
+2022-11-17 12:56:22,722 - main - INFO - validating...
+2022-11-17 12:56:26,714 - main - INFO - Epoch 169 - val: epoch loss = 347.5637
+2022-11-17 12:56:26,891 - main - INFO - Saved the best model at epoch 169.
+2022-11-17 12:56:26,892 - main - INFO - Epoch 170/700
+2022-11-17 12:56:26,893 - main - INFO - ----------------------------
+2022-11-17 12:56:26,894 - main - INFO - training...
+2022-11-17 12:56:38,347 - main - INFO - Epoch 170 - train: epoch loss = 425.6447
+2022-11-17 12:56:38,347 - main - INFO - validating...
+2022-11-17 12:56:42,137 - main - INFO - Epoch 170 - val: epoch loss = 346.4386
+2022-11-17 12:56:42,316 - main - INFO - Saved the best model at epoch 170.
+2022-11-17 12:56:42,317 - main - INFO - Epoch 171/700
+2022-11-17 12:56:42,317 - main - INFO - ----------------------------
+2022-11-17 12:56:42,318 - main - INFO - training...
+2022-11-17 12:56:53,568 - main - INFO - Epoch 171 - train: epoch loss = 424.9403
+2022-11-17 12:56:53,578 - main - INFO - validating...
+2022-11-17 12:56:57,273 - main - INFO - Epoch 171 - val: epoch loss = 346.1847
+2022-11-17 12:56:57,439 - main - INFO - Saved the best model at epoch 171.
+2022-11-17 12:56:57,439 - main - INFO - Epoch 172/700
+2022-11-17 12:56:57,448 - main - INFO - ----------------------------
+2022-11-17 12:56:57,449 - main - INFO - training...
+2022-11-17 12:57:08,600 - main - INFO - Epoch 172 - train: epoch loss = 423.9480
+2022-11-17 12:57:08,600 - main - INFO - validating...
+2022-11-17 12:57:12,283 - main - INFO - Epoch 172 - val: epoch loss = 345.6519
+2022-11-17 12:57:12,552 - main - INFO - Saved the best model at epoch 172.
+2022-11-17 12:57:12,552 - main - INFO - Epoch 173/700
+2022-11-17 12:57:12,559 - main - INFO - ----------------------------
+2022-11-17 12:57:12,560 - main - INFO - training...
+2022-11-17 12:57:23,687 - main - INFO - Epoch 173 - train: epoch loss = 423.2130
+2022-11-17 12:57:23,687 - main - INFO - validating...
+2022-11-17 12:57:27,470 - main - INFO - Epoch 173 - val: epoch loss = 345.5834
+2022-11-17 12:57:27,631 - main - INFO - Saved the best model at epoch 173.
+2022-11-17 12:57:27,631 - main - INFO - Epoch 174/700
+2022-11-17 12:57:27,631 - main - INFO - ----------------------------
+2022-11-17 12:57:27,631 - main - INFO - training...
+2022-11-17 12:57:38,751 - main - INFO - Epoch 174 - train: epoch loss = 422.1526
+2022-11-17 12:57:38,751 - main - INFO - validating...
+2022-11-17 12:57:42,531 - main - INFO - Epoch 174 - val: epoch loss = 344.5333
+2022-11-17 12:57:42,698 - main - INFO - Saved the best model at epoch 174.
+2022-11-17 12:57:42,698 - main - INFO - Epoch 175/700
+2022-11-17 12:57:42,702 - main - INFO - ----------------------------
+2022-11-17 12:57:42,703 - main - INFO - training...
+2022-11-17 12:57:53,870 - main - INFO - Epoch 175 - train: epoch loss = 420.9849
+2022-11-17 12:57:53,870 - main - INFO - validating...
+2022-11-17 12:57:57,633 - main - INFO - Epoch 175 - val: epoch loss = 343.0966
+2022-11-17 12:57:57,797 - main - INFO - Saved the best model at epoch 175.
+2022-11-17 12:57:57,797 - main - INFO - Epoch 176/700
+2022-11-17 12:57:57,806 - main - INFO - ----------------------------
+2022-11-17 12:57:57,807 - main - INFO - training...
+2022-11-17 12:58:09,007 - main - INFO - Epoch 176 - train: epoch loss = 420.2452
+2022-11-17 12:58:09,007 - main - INFO - validating...
+2022-11-17 12:58:12,706 - main - INFO - Epoch 176 - val: epoch loss = 341.7113
+2022-11-17 12:58:12,951 - main - INFO - Saved the best model at epoch 176.
+2022-11-17 12:58:12,951 - main - INFO - Epoch 177/700
+2022-11-17 12:58:12,953 - main - INFO - ----------------------------
+2022-11-17 12:58:12,953 - main - INFO - training...
+2022-11-17 12:58:24,099 - main - INFO - Epoch 177 - train: epoch loss = 419.0707
+2022-11-17 12:58:24,099 - main - INFO - validating...
+2022-11-17 12:58:27,796 - main - INFO - Epoch 177 - val: epoch loss = 341.1085
+2022-11-17 12:58:28,055 - main - INFO - Saved the best model at epoch 177.
+2022-11-17 12:58:28,059 - main - INFO - Epoch 178/700
+2022-11-17 12:58:28,059 - main - INFO - ----------------------------
+2022-11-17 12:58:28,061 - main - INFO - training...
+2022-11-17 12:58:39,466 - main - INFO - Epoch 178 - train: epoch loss = 418.2141
+2022-11-17 12:58:39,467 - main - INFO - validating...
+2022-11-17 12:58:43,719 - main - INFO - Epoch 178 - val: epoch loss = 340.1997
+2022-11-17 12:58:44,149 - main - INFO - Saved the best model at epoch 178.
+2022-11-17 12:58:44,150 - main - INFO - Epoch 179/700
+2022-11-17 12:58:44,150 - main - INFO - ----------------------------
+2022-11-17 12:58:44,155 - main - INFO - training...
+2022-11-17 12:58:58,173 - main - INFO - Epoch 179 - train: epoch loss = 417.6390
+2022-11-17 12:58:58,174 - main - INFO - validating...
+2022-11-17 12:59:02,326 - main - INFO - Epoch 179 - val: epoch loss = 339.4501
+2022-11-17 12:59:02,636 - main - INFO - Saved the best model at epoch 179.
+2022-11-17 12:59:02,637 - main - INFO - Epoch 180/700
+2022-11-17 12:59:02,638 - main - INFO - ----------------------------
+2022-11-17 12:59:02,638 - main - INFO - training...
+2022-11-17 12:59:14,596 - main - INFO - Epoch 180 - train: epoch loss = 416.5668
+2022-11-17 12:59:14,597 - main - INFO - validating...
+2022-11-17 12:59:19,872 - main - INFO - Epoch 180 - val: epoch loss = 338.9092
+2022-11-17 12:59:20,228 - main - INFO - Saved the best model at epoch 180.
+2022-11-17 12:59:20,229 - main - INFO - Epoch 181/700
+2022-11-17 12:59:20,229 - main - INFO - ----------------------------
+2022-11-17 12:59:20,231 - main - INFO - training...
+2022-11-17 12:59:31,434 - main - INFO - Epoch 181 - train: epoch loss = 415.7636
+2022-11-17 12:59:31,434 - main - INFO - validating...
+2022-11-17 12:59:35,384 - main - INFO - Epoch 181 - val: epoch loss = 338.0026
+2022-11-17 12:59:35,747 - main - INFO - Saved the best model at epoch 181.
+2022-11-17 12:59:35,748 - main - INFO - Epoch 182/700
+2022-11-17 12:59:35,748 - main - INFO - ----------------------------
+2022-11-17 12:59:35,750 - main - INFO - training...
+2022-11-17 12:59:47,973 - main - INFO - Epoch 182 - train: epoch loss = 415.0249
+2022-11-17 12:59:47,974 - main - INFO - validating...
+2022-11-17 12:59:53,113 - main - INFO - Epoch 182 - val: epoch loss = 336.9065
+2022-11-17 12:59:53,386 - main - INFO - Saved the best model at epoch 182.
+2022-11-17 12:59:53,387 - main - INFO - Epoch 183/700
+2022-11-17 12:59:53,388 - main - INFO - ----------------------------
+2022-11-17 12:59:53,388 - main - INFO - training...
+2022-11-17 13:00:04,760 - main - INFO - Epoch 183 - train: epoch loss = 413.9648
+2022-11-17 13:00:04,761 - main - INFO - validating...
+2022-11-17 13:00:08,922 - main - INFO - Epoch 183 - val: epoch loss = 335.9480
+2022-11-17 13:00:09,117 - main - INFO - Saved the best model at epoch 183.
+2022-11-17 13:00:09,117 - main - INFO - Epoch 184/700
+2022-11-17 13:00:09,118 - main - INFO - ----------------------------
+2022-11-17 13:00:09,119 - main - INFO - training...
+2022-11-17 13:00:21,043 - main - INFO - Epoch 184 - train: epoch loss = 413.2390
+2022-11-17 13:00:21,043 - main - INFO - validating...
+2022-11-17 13:00:24,747 - main - INFO - Epoch 184 - val: epoch loss = 335.5001
+2022-11-17 13:00:24,915 - main - INFO - Saved the best model at epoch 184.
+2022-11-17 13:00:24,915 - main - INFO - Epoch 185/700
+2022-11-17 13:00:24,915 - main - INFO - ----------------------------
+2022-11-17 13:00:24,918 - main - INFO - training...
+2022-11-17 13:00:36,586 - main - INFO - Epoch 185 - train: epoch loss = 412.2978
+2022-11-17 13:00:36,587 - main - INFO - validating...
+2022-11-17 13:00:40,318 - main - INFO - Epoch 185 - val: epoch loss = 334.8085
+2022-11-17 13:00:40,567 - main - INFO - Saved the best model at epoch 185.
+2022-11-17 13:00:40,568 - main - INFO - Epoch 186/700
+2022-11-17 13:00:40,568 - main - INFO - ----------------------------
+2022-11-17 13:00:40,569 - main - INFO - training...
+2022-11-17 13:00:51,664 - main - INFO - Epoch 186 - train: epoch loss = 411.2087
+2022-11-17 13:00:51,665 - main - INFO - validating...
+2022-11-17 13:00:55,422 - main - INFO - Epoch 186 - val: epoch loss = 334.2832
+2022-11-17 13:00:55,690 - main - INFO - Saved the best model at epoch 186.
+2022-11-17 13:00:55,691 - main - INFO - Epoch 187/700
+2022-11-17 13:00:55,692 - main - INFO - ----------------------------
+2022-11-17 13:00:55,693 - main - INFO - training...
+2022-11-17 13:01:06,921 - main - INFO - Epoch 187 - train: epoch loss = 410.8809
+2022-11-17 13:01:06,923 - main - INFO - validating...
+2022-11-17 13:01:10,596 - main - INFO - Epoch 187 - val: epoch loss = 333.0616
+2022-11-17 13:01:10,768 - main - INFO - Saved the best model at epoch 187.
+2022-11-17 13:01:10,769 - main - INFO - Epoch 188/700
+2022-11-17 13:01:10,769 - main - INFO - ----------------------------
+2022-11-17 13:01:10,771 - main - INFO - training...
+2022-11-17 13:01:22,002 - main - INFO - Epoch 188 - train: epoch loss = 409.7516
+2022-11-17 13:01:22,003 - main - INFO - validating...
+2022-11-17 13:01:25,739 - main - INFO - Epoch 188 - val: epoch loss = 332.6274
+2022-11-17 13:01:25,912 - main - INFO - Saved the best model at epoch 188.
+2022-11-17 13:01:25,912 - main - INFO - Epoch 189/700
+2022-11-17 13:01:25,913 - main - INFO - ----------------------------
+2022-11-17 13:01:25,914 - main - INFO - training...
+2022-11-17 13:01:37,091 - main - INFO - Epoch 189 - train: epoch loss = 409.1489
+2022-11-17 13:01:37,092 - main - INFO - validating...
+2022-11-17 13:01:40,838 - main - INFO - Epoch 189 - val: epoch loss = 331.9573
+2022-11-17 13:01:41,008 - main - INFO - Saved the best model at epoch 189.
+2022-11-17 13:01:41,008 - main - INFO - Epoch 190/700
+2022-11-17 13:01:41,009 - main - INFO - ----------------------------
+2022-11-17 13:01:41,010 - main - INFO - training...
+2022-11-17 13:01:52,166 - main - INFO - Epoch 190 - train: epoch loss = 408.3600
+2022-11-17 13:01:52,167 - main - INFO - validating...
+2022-11-17 13:01:55,912 - main - INFO - Epoch 190 - val: epoch loss = 330.9678
+2022-11-17 13:01:56,167 - main - INFO - Saved the best model at epoch 190.
+2022-11-17 13:01:56,168 - main - INFO - Epoch 191/700
+2022-11-17 13:01:56,169 - main - INFO - ----------------------------
+2022-11-17 13:01:56,170 - main - INFO - training...
+2022-11-17 13:02:07,351 - main - INFO - Epoch 191 - train: epoch loss = 407.4901
+2022-11-17 13:02:07,352 - main - INFO - validating...
+2022-11-17 13:02:11,021 - main - INFO - Epoch 191 - val: epoch loss = 330.0318
+2022-11-17 13:02:11,265 - main - INFO - Saved the best model at epoch 191.
+2022-11-17 13:02:11,266 - main - INFO - Epoch 192/700
+2022-11-17 13:02:11,266 - main - INFO - ----------------------------
+2022-11-17 13:02:11,268 - main - INFO - training...
+2022-11-17 13:02:22,441 - main - INFO - Epoch 192 - train: epoch loss = 406.8275
+2022-11-17 13:02:22,442 - main - INFO - validating...
+2022-11-17 13:02:26,173 - main - INFO - Epoch 192 - val: epoch loss = 329.2456
+2022-11-17 13:02:26,349 - main - INFO - Saved the best model at epoch 192.
+2022-11-17 13:02:26,350 - main - INFO - Epoch 193/700
+2022-11-17 13:02:26,350 - main - INFO - ----------------------------
+2022-11-17 13:02:26,351 - main - INFO - training...
+2022-11-17 13:02:37,527 - main - INFO - Epoch 193 - train: epoch loss = 406.3011
+2022-11-17 13:02:37,528 - main - INFO - validating...
+2022-11-17 13:02:41,269 - main - INFO - Epoch 193 - val: epoch loss = 328.5975
+2022-11-17 13:02:41,436 - main - INFO - Saved the best model at epoch 193.
+2022-11-17 13:02:41,437 - main - INFO - Epoch 194/700
+2022-11-17 13:02:41,437 - main - INFO - ----------------------------
+2022-11-17 13:02:41,438 - main - INFO - training...
+2022-11-17 13:02:52,630 - main - INFO - Epoch 194 - train: epoch loss = 405.3780
+2022-11-17 13:02:52,631 - main - INFO - validating...
+2022-11-17 13:02:56,412 - main - INFO - Epoch 194 - val: epoch loss = 328.1221
+2022-11-17 13:02:56,667 - main - INFO - Saved the best model at epoch 194.
+2022-11-17 13:02:56,668 - main - INFO - Epoch 195/700
+2022-11-17 13:02:56,668 - main - INFO - ----------------------------
+2022-11-17 13:02:56,669 - main - INFO - training...
+2022-11-17 13:03:07,820 - main - INFO - Epoch 195 - train: epoch loss = 404.6906
+2022-11-17 13:03:07,821 - main - INFO - validating...
+2022-11-17 13:03:11,490 - main - INFO - Epoch 195 - val: epoch loss = 327.4698
+2022-11-17 13:03:11,747 - main - INFO - Saved the best model at epoch 195.
+2022-11-17 13:03:11,747 - main - INFO - Epoch 196/700
+2022-11-17 13:03:11,748 - main - INFO - ----------------------------
+2022-11-17 13:03:11,749 - main - INFO - training...
+2022-11-17 13:03:22,901 - main - INFO - Epoch 196 - train: epoch loss = 404.2692
+2022-11-17 13:03:22,902 - main - INFO - validating...
+2022-11-17 13:03:26,569 - main - INFO - Epoch 196 - val: epoch loss = 327.0234
+2022-11-17 13:03:26,734 - main - INFO - Saved the best model at epoch 196.
+2022-11-17 13:03:26,735 - main - INFO - Epoch 197/700
+2022-11-17 13:03:26,735 - main - INFO - ----------------------------
+2022-11-17 13:03:26,736 - main - INFO - training...
+2022-11-17 13:03:37,892 - main - INFO - Epoch 197 - train: epoch loss = 402.9950
+2022-11-17 13:03:37,893 - main - INFO - validating...
+2022-11-17 13:03:41,633 - main - INFO - Epoch 197 - val: epoch loss = 326.9744
+2022-11-17 13:03:41,798 - main - INFO - Saved the best model at epoch 197.
+2022-11-17 13:03:41,798 - main - INFO - Epoch 198/700
+2022-11-17 13:03:41,799 - main - INFO - ----------------------------
+2022-11-17 13:03:41,800 - main - INFO - training...
+2022-11-17 13:03:52,986 - main - INFO - Epoch 198 - train: epoch loss = 402.7455
+2022-11-17 13:03:52,987 - main - INFO - validating...
+2022-11-17 13:03:56,645 - main - INFO - Epoch 198 - val: epoch loss = 325.5630
+2022-11-17 13:03:56,898 - main - INFO - Saved the best model at epoch 198.
+2022-11-17 13:03:56,899 - main - INFO - Epoch 199/700
+2022-11-17 13:03:56,899 - main - INFO - ----------------------------
+2022-11-17 13:03:56,900 - main - INFO - training...
+2022-11-17 13:04:08,056 - main - INFO - Epoch 199 - train: epoch loss = 401.7584
+2022-11-17 13:04:08,057 - main - INFO - validating...
+2022-11-17 13:04:11,722 - main - INFO - Epoch 199 - val: epoch loss = 325.4236
+2022-11-17 13:04:11,978 - main - INFO - Saved the best model at epoch 199.
+2022-11-17 13:04:11,978 - main - INFO - Epoch 200/700
+2022-11-17 13:04:11,978 - main - INFO - ----------------------------
+2022-11-17 13:04:11,978 - main - INFO - training...
+2022-11-17 13:04:23,170 - main - INFO - Epoch 200 - train: epoch loss = 401.0705
+2022-11-17 13:04:23,171 - main - INFO - validating...
+2022-11-17 13:04:26,908 - main - INFO - Epoch 200 - val: epoch loss = 324.9340
+2022-11-17 13:04:27,052 - main - INFO - Saved the model at epoch 200.
+2022-11-17 13:04:27,327 - main - INFO - Saved the best model at epoch 200.
+2022-11-17 13:04:27,328 - main - INFO - Epoch 201/700
+2022-11-17 13:04:27,328 - main - INFO - ----------------------------
+2022-11-17 13:04:27,329 - main - INFO - training...
+2022-11-17 13:04:38,485 - main - INFO - Epoch 201 - train: epoch loss = 400.5655
+2022-11-17 13:04:38,485 - main - INFO - validating...
+2022-11-17 13:04:42,224 - main - INFO - Epoch 201 - val: epoch loss = 323.7319
+2022-11-17 13:04:42,399 - main - INFO - Saved the best model at epoch 201.
+2022-11-17 13:04:42,400 - main - INFO - Epoch 202/700
+2022-11-17 13:04:42,400 - main - INFO - ----------------------------
+2022-11-17 13:04:42,401 - main - INFO - training...
+2022-11-17 13:04:53,584 - main - INFO - Epoch 202 - train: epoch loss = 399.8667
+2022-11-17 13:04:53,585 - main - INFO - validating...
+2022-11-17 13:04:57,343 - main - INFO - Epoch 202 - val: epoch loss = 323.3792
+2022-11-17 13:04:57,598 - main - INFO - Saved the best model at epoch 202.
+2022-11-17 13:04:57,599 - main - INFO - Epoch 203/700
+2022-11-17 13:04:57,599 - main - INFO - ----------------------------
+2022-11-17 13:04:57,600 - main - INFO - training...
+2022-11-17 13:05:08,781 - main - INFO - Epoch 203 - train: epoch loss = 399.0491
+2022-11-17 13:05:08,781 - main - INFO - validating...
+2022-11-17 13:05:12,450 - main - INFO - Epoch 203 - val: epoch loss = 322.5360
+2022-11-17 13:05:12,625 - main - INFO - Saved the best model at epoch 203.
+2022-11-17 13:05:12,626 - main - INFO - Epoch 204/700
+2022-11-17 13:05:12,627 - main - INFO - ----------------------------
+2022-11-17 13:05:12,627 - main - INFO - training...
+2022-11-17 13:05:23,808 - main - INFO - Epoch 204 - train: epoch loss = 398.6497
+2022-11-17 13:05:23,809 - main - INFO - validating...
+2022-11-17 13:05:27,565 - main - INFO - Epoch 204 - val: epoch loss = 321.9331
+2022-11-17 13:05:27,736 - main - INFO - Saved the best model at epoch 204.
+2022-11-17 13:05:27,737 - main - INFO - Epoch 205/700
+2022-11-17 13:05:27,738 - main - INFO - ----------------------------
+2022-11-17 13:05:27,739 - main - INFO - training...
+2022-11-17 13:05:38,942 - main - INFO - Epoch 205 - train: epoch loss = 397.7723
+2022-11-17 13:05:38,943 - main - INFO - validating...
+2022-11-17 13:05:42,648 - main - INFO - Epoch 205 - val: epoch loss = 321.2987
+2022-11-17 13:05:42,832 - main - INFO - Saved the best model at epoch 205.
+2022-11-17 13:05:42,833 - main - INFO - Epoch 206/700
+2022-11-17 13:05:42,834 - main - INFO - ----------------------------
+2022-11-17 13:05:42,836 - main - INFO - training...
+2022-11-17 13:05:54,058 - main - INFO - Epoch 206 - train: epoch loss = 396.9687
+2022-11-17 13:05:54,059 - main - INFO - validating...
+2022-11-17 13:05:57,847 - main - INFO - Epoch 206 - val: epoch loss = 321.1370
+2022-11-17 13:05:58,103 - main - INFO - Saved the best model at epoch 206.
+2022-11-17 13:05:58,105 - main - INFO - Epoch 207/700
+2022-11-17 13:05:58,107 - main - INFO - ----------------------------
+2022-11-17 13:05:58,118 - main - INFO - training...
+2022-11-17 13:06:09,210 - main - INFO - Epoch 207 - train: epoch loss = 396.5641
+2022-11-17 13:06:09,211 - main - INFO - validating...
+2022-11-17 13:06:13,000 - main - INFO - Epoch 207 - val: epoch loss = 320.0652
+2022-11-17 13:06:13,245 - main - INFO - Saved the best model at epoch 207.
+2022-11-17 13:06:13,246 - main - INFO - Epoch 208/700
+2022-11-17 13:06:13,246 - main - INFO - ----------------------------
+2022-11-17 13:06:13,247 - main - INFO - training...
+2022-11-17 13:06:24,455 - main - INFO - Epoch 208 - train: epoch loss = 395.8510
+2022-11-17 13:06:24,456 - main - INFO - validating...
+2022-11-17 13:06:28,134 - main - INFO - Epoch 208 - val: epoch loss = 318.8817
+2022-11-17 13:06:28,393 - main - INFO - Saved the best model at epoch 208.
+2022-11-17 13:06:28,394 - main - INFO - Epoch 209/700
+2022-11-17 13:06:28,394 - main - INFO - ----------------------------
+2022-11-17 13:06:28,395 - main - INFO - training...
+2022-11-17 13:06:39,591 - main - INFO - Epoch 209 - train: epoch loss = 395.5023
+2022-11-17 13:06:39,592 - main - INFO - validating...
+2022-11-17 13:06:43,340 - main - INFO - Epoch 209 - val: epoch loss = 318.3208
+2022-11-17 13:06:43,510 - main - INFO - Saved the best model at epoch 209.
+2022-11-17 13:06:43,511 - main - INFO - Epoch 210/700
+2022-11-17 13:06:43,512 - main - INFO - ----------------------------
+2022-11-17 13:06:43,513 - main - INFO - training...
+2022-11-17 13:06:54,721 - main - INFO - Epoch 210 - train: epoch loss = 394.6939
+2022-11-17 13:06:54,722 - main - INFO - validating...
+2022-11-17 13:06:58,504 - main - INFO - Epoch 210 - val: epoch loss = 318.2702
+2022-11-17 13:06:58,683 - main - INFO - Saved the best model at epoch 210.
+2022-11-17 13:06:58,684 - main - INFO - Epoch 211/700
+2022-11-17 13:06:58,684 - main - INFO - ----------------------------
+2022-11-17 13:06:58,685 - main - INFO - training...
+2022-11-17 13:07:09,851 - main - INFO - Epoch 211 - train: epoch loss = 394.2762
+2022-11-17 13:07:09,851 - main - INFO - validating...
+2022-11-17 13:07:13,538 - main - INFO - Epoch 211 - val: epoch loss = 318.2916
+2022-11-17 13:07:13,539 - main - INFO - Epoch 212/700
+2022-11-17 13:07:13,539 - main - INFO - ----------------------------
+2022-11-17 13:07:13,540 - main - INFO - training...
+2022-11-17 13:07:24,751 - main - INFO - Epoch 212 - train: epoch loss = 393.6013
+2022-11-17 13:07:24,752 - main - INFO - validating...
+2022-11-17 13:07:28,502 - main - INFO - Epoch 212 - val: epoch loss = 317.3591
+2022-11-17 13:07:28,776 - main - INFO - Saved the best model at epoch 212.
+2022-11-17 13:07:28,777 - main - INFO - Epoch 213/700
+2022-11-17 13:07:28,778 - main - INFO - ----------------------------
+2022-11-17 13:07:28,779 - main - INFO - training...
+2022-11-17 13:07:39,961 - main - INFO - Epoch 213 - train: epoch loss = 392.8185
+2022-11-17 13:07:39,962 - main - INFO - validating...
+2022-11-17 13:07:43,634 - main - INFO - Epoch 213 - val: epoch loss = 316.2118
+2022-11-17 13:07:43,887 - main - INFO - Saved the best model at epoch 213.
+2022-11-17 13:07:43,888 - main - INFO - Epoch 214/700
+2022-11-17 13:07:43,889 - main - INFO - ----------------------------
+2022-11-17 13:07:43,890 - main - INFO - training...
+2022-11-17 13:07:55,031 - main - INFO - Epoch 214 - train: epoch loss = 392.5187
+2022-11-17 13:07:55,032 - main - INFO - validating...
+2022-11-17 13:07:58,788 - main - INFO - Epoch 214 - val: epoch loss = 316.0958
+2022-11-17 13:07:58,955 - main - INFO - Saved the best model at epoch 214.
+2022-11-17 13:07:58,955 - main - INFO - Epoch 215/700
+2022-11-17 13:07:58,955 - main - INFO - ----------------------------
+2022-11-17 13:07:58,959 - main - INFO - training...
+2022-11-17 13:08:10,174 - main - INFO - Epoch 215 - train: epoch loss = 391.7228
+2022-11-17 13:08:10,175 - main - INFO - validating...
+2022-11-17 13:08:13,938 - main - INFO - Epoch 215 - val: epoch loss = 315.6116
+2022-11-17 13:08:14,111 - main - INFO - Saved the best model at epoch 215.
+2022-11-17 13:08:14,112 - main - INFO - Epoch 216/700
+2022-11-17 13:08:14,112 - main - INFO - ----------------------------
+2022-11-17 13:08:14,113 - main - INFO - training...
+2022-11-17 13:08:25,307 - main - INFO - Epoch 216 - train: epoch loss = 391.3882
+2022-11-17 13:08:25,308 - main - INFO - validating...
+2022-11-17 13:08:29,061 - main - INFO - Epoch 216 - val: epoch loss = 315.2309
+2022-11-17 13:08:29,236 - main - INFO - Saved the best model at epoch 216.
+2022-11-17 13:08:29,236 - main - INFO - Epoch 217/700
+2022-11-17 13:08:29,237 - main - INFO - ----------------------------
+2022-11-17 13:08:29,238 - main - INFO - training...
+2022-11-17 13:08:40,403 - main - INFO - Epoch 217 - train: epoch loss = 391.1062
+2022-11-17 13:08:40,404 - main - INFO - validating...
+2022-11-17 13:08:44,189 - main - INFO - Epoch 217 - val: epoch loss = 314.4955
+2022-11-17 13:08:44,367 - main - INFO - Saved the best model at epoch 217.
+2022-11-17 13:08:44,368 - main - INFO - Epoch 218/700
+2022-11-17 13:08:44,368 - main - INFO - ----------------------------
+2022-11-17 13:08:44,369 - main - INFO - training...
+2022-11-17 13:08:55,568 - main - INFO - Epoch 218 - train: epoch loss = 389.8723
+2022-11-17 13:08:55,568 - main - INFO - validating...
+2022-11-17 13:08:59,332 - main - INFO - Epoch 218 - val: epoch loss = 314.0519
+2022-11-17 13:08:59,614 - main - INFO - Saved the best model at epoch 218.
+2022-11-17 13:08:59,614 - main - INFO - Epoch 219/700
+2022-11-17 13:08:59,614 - main - INFO - ----------------------------
+2022-11-17 13:08:59,615 - main - INFO - training...
+2022-11-17 13:09:10,823 - main - INFO - Epoch 219 - train: epoch loss = 389.3977
+2022-11-17 13:09:10,823 - main - INFO - validating...
+2022-11-17 13:09:14,489 - main - INFO - Epoch 219 - val: epoch loss = 313.8439
+2022-11-17 13:09:14,671 - main - INFO - Saved the best model at epoch 219.
+2022-11-17 13:09:14,671 - main - INFO - Epoch 220/700
+2022-11-17 13:09:14,672 - main - INFO - ----------------------------
+2022-11-17 13:09:14,673 - main - INFO - training...
+2022-11-17 13:09:25,858 - main - INFO - Epoch 220 - train: epoch loss = 388.9401
+2022-11-17 13:09:25,859 - main - INFO - validating...
+2022-11-17 13:09:29,615 - main - INFO - Epoch 220 - val: epoch loss = 312.8021
+2022-11-17 13:09:29,865 - main - INFO - Saved the best model at epoch 220.
+2022-11-17 13:09:29,866 - main - INFO - Epoch 221/700
+2022-11-17 13:09:29,866 - main - INFO - ----------------------------
+2022-11-17 13:09:29,867 - main - INFO - training...
+2022-11-17 13:09:40,943 - main - INFO - Epoch 221 - train: epoch loss = 388.1361
+2022-11-17 13:09:40,943 - main - INFO - validating...
+2022-11-17 13:09:44,698 - main - INFO - Epoch 221 - val: epoch loss = 312.2952
+2022-11-17 13:09:44,956 - main - INFO - Saved the best model at epoch 221.
+2022-11-17 13:09:44,957 - main - INFO - Epoch 222/700
+2022-11-17 13:09:44,957 - main - INFO - ----------------------------
+2022-11-17 13:09:44,958 - main - INFO - training...
+2022-11-17 13:09:56,112 - main - INFO - Epoch 222 - train: epoch loss = 387.7301
+2022-11-17 13:09:56,112 - main - INFO - validating...
+2022-11-17 13:09:59,862 - main - INFO - Epoch 222 - val: epoch loss = 311.8685
+2022-11-17 13:10:00,044 - main - INFO - Saved the best model at epoch 222.
+2022-11-17 13:10:00,045 - main - INFO - Epoch 223/700
+2022-11-17 13:10:00,046 - main - INFO - ----------------------------
+2022-11-17 13:10:00,047 - main - INFO - training...
+2022-11-17 13:10:11,224 - main - INFO - Epoch 223 - train: epoch loss = 387.1850
+2022-11-17 13:10:11,224 - main - INFO - validating...
+2022-11-17 13:10:15,009 - main - INFO - Epoch 223 - val: epoch loss = 311.6190
+2022-11-17 13:10:15,187 - main - INFO - Saved the best model at epoch 223.
+2022-11-17 13:10:15,188 - main - INFO - Epoch 224/700
+2022-11-17 13:10:15,188 - main - INFO - ----------------------------
+2022-11-17 13:10:15,189 - main - INFO - training...
+2022-11-17 13:10:26,387 - main - INFO - Epoch 224 - train: epoch loss = 386.7648
+2022-11-17 13:10:26,388 - main - INFO - validating...
+2022-11-17 13:10:30,060 - main - INFO - Epoch 224 - val: epoch loss = 311.0120
+2022-11-17 13:10:30,301 - main - INFO - Saved the best model at epoch 224.
+2022-11-17 13:10:30,302 - main - INFO - Epoch 225/700
+2022-11-17 13:10:30,302 - main - INFO - ----------------------------
+2022-11-17 13:10:30,304 - main - INFO - training...
+2022-11-17 13:10:41,449 - main - INFO - Epoch 225 - train: epoch loss = 386.0620
+2022-11-17 13:10:41,450 - main - INFO - validating...
+2022-11-17 13:10:45,130 - main - INFO - Epoch 225 - val: epoch loss = 310.0669
+2022-11-17 13:10:45,381 - main - INFO - Saved the best model at epoch 225.
+2022-11-17 13:10:45,381 - main - INFO - Epoch 226/700
+2022-11-17 13:10:45,382 - main - INFO - ----------------------------
+2022-11-17 13:10:45,383 - main - INFO - training...
+2022-11-17 13:10:56,544 - main - INFO - Epoch 226 - train: epoch loss = 385.8647
+2022-11-17 13:10:56,545 - main - INFO - validating...
+2022-11-17 13:11:00,226 - main - INFO - Epoch 226 - val: epoch loss = 310.0989
+2022-11-17 13:11:00,227 - main - INFO - Epoch 227/700
+2022-11-17 13:11:00,227 - main - INFO - ----------------------------
+2022-11-17 13:11:00,228 - main - INFO - training...
+2022-11-17 13:11:11,427 - main - INFO - Epoch 227 - train: epoch loss = 385.2111
+2022-11-17 13:11:11,427 - main - INFO - validating...
+2022-11-17 13:11:15,185 - main - INFO - Epoch 227 - val: epoch loss = 309.5842
+2022-11-17 13:11:15,431 - main - INFO - Saved the best model at epoch 227.
+2022-11-17 13:11:15,432 - main - INFO - Epoch 228/700
+2022-11-17 13:11:15,433 - main - INFO - ----------------------------
+2022-11-17 13:11:15,434 - main - INFO - training...
+2022-11-17 13:11:26,490 - main - INFO - Epoch 228 - train: epoch loss = 384.4417
+2022-11-17 13:11:26,490 - main - INFO - validating...
+2022-11-17 13:11:30,250 - main - INFO - Epoch 228 - val: epoch loss = 309.1374
+2022-11-17 13:11:30,426 - main - INFO - Saved the best model at epoch 228.
+2022-11-17 13:11:30,427 - main - INFO - Epoch 229/700
+2022-11-17 13:11:30,428 - main - INFO - ----------------------------
+2022-11-17 13:11:30,429 - main - INFO - training...
+2022-11-17 13:11:41,580 - main - INFO - Epoch 229 - train: epoch loss = 384.1687
+2022-11-17 13:11:41,581 - main - INFO - validating...
+2022-11-17 13:11:45,257 - main - INFO - Epoch 229 - val: epoch loss = 308.7114
+2022-11-17 13:11:45,518 - main - INFO - Saved the best model at epoch 229.
+2022-11-17 13:11:45,519 - main - INFO - Epoch 230/700
+2022-11-17 13:11:45,520 - main - INFO - ----------------------------
+2022-11-17 13:11:45,521 - main - INFO - training...
+2022-11-17 13:11:56,639 - main - INFO - Epoch 230 - train: epoch loss = 383.9415
+2022-11-17 13:11:56,640 - main - INFO - validating...
+2022-11-17 13:12:00,396 - main - INFO - Epoch 230 - val: epoch loss = 308.3362
+2022-11-17 13:12:00,567 - main - INFO - Saved the best model at epoch 230.
+2022-11-17 13:12:00,568 - main - INFO - Epoch 231/700
+2022-11-17 13:12:00,569 - main - INFO - ----------------------------
+2022-11-17 13:12:00,570 - main - INFO - training...
+2022-11-17 13:12:11,663 - main - INFO - Epoch 231 - train: epoch loss = 383.2239
+2022-11-17 13:12:11,664 - main - INFO - validating...
+2022-11-17 13:12:15,434 - main - INFO - Epoch 231 - val: epoch loss = 307.4654
+2022-11-17 13:12:15,679 - main - INFO - Saved the best model at epoch 231.
+2022-11-17 13:12:15,679 - main - INFO - Epoch 232/700
+2022-11-17 13:12:15,680 - main - INFO - ----------------------------
+2022-11-17 13:12:15,681 - main - INFO - training...
+2022-11-17 13:12:26,818 - main - INFO - Epoch 232 - train: epoch loss = 382.7660
+2022-11-17 13:12:26,819 - main - INFO - validating...
+2022-11-17 13:12:30,493 - main - INFO - Epoch 232 - val: epoch loss = 307.3764
+2022-11-17 13:12:30,757 - main - INFO - Saved the best model at epoch 232.
+2022-11-17 13:12:30,758 - main - INFO - Epoch 233/700
+2022-11-17 13:12:30,759 - main - INFO - ----------------------------
+2022-11-17 13:12:30,760 - main - INFO - training...
+2022-11-17 13:12:41,941 - main - INFO - Epoch 233 - train: epoch loss = 382.3084
+2022-11-17 13:12:41,941 - main - INFO - validating...
+2022-11-17 13:12:45,612 - main - INFO - Epoch 233 - val: epoch loss = 306.9625
+2022-11-17 13:12:45,858 - main - INFO - Saved the best model at epoch 233.
+2022-11-17 13:12:45,859 - main - INFO - Epoch 234/700
+2022-11-17 13:12:45,860 - main - INFO - ----------------------------
+2022-11-17 13:12:45,861 - main - INFO - training...
+2022-11-17 13:12:57,055 - main - INFO - Epoch 234 - train: epoch loss = 381.7127
+2022-11-17 13:12:57,056 - main - INFO - validating...
+2022-11-17 13:13:00,813 - main - INFO - Epoch 234 - val: epoch loss = 306.0199
+2022-11-17 13:13:00,979 - main - INFO - Saved the best model at epoch 234.
+2022-11-17 13:13:00,980 - main - INFO - Epoch 235/700
+2022-11-17 13:13:00,980 - main - INFO - ----------------------------
+2022-11-17 13:13:00,981 - main - INFO - training...
+2022-11-17 13:13:12,171 - main - INFO - Epoch 235 - train: epoch loss = 381.1784
+2022-11-17 13:13:12,171 - main - INFO - validating...
+2022-11-17 13:13:15,912 - main - INFO - Epoch 235 - val: epoch loss = 305.6159
+2022-11-17 13:13:16,164 - main - INFO - Saved the best model at epoch 235.
+2022-11-17 13:13:16,164 - main - INFO - Epoch 236/700
+2022-11-17 13:13:16,165 - main - INFO - ----------------------------
+2022-11-17 13:13:16,166 - main - INFO - training...
+2022-11-17 13:13:27,367 - main - INFO - Epoch 236 - train: epoch loss = 381.1050
+2022-11-17 13:13:27,368 - main - INFO - validating...
+2022-11-17 13:13:31,032 - main - INFO - Epoch 236 - val: epoch loss = 305.0629
+2022-11-17 13:13:31,201 - main - INFO - Saved the best model at epoch 236.
+2022-11-17 13:13:31,202 - main - INFO - Epoch 237/700
+2022-11-17 13:13:31,202 - main - INFO - ----------------------------
+2022-11-17 13:13:31,204 - main - INFO - training...
+2022-11-17 13:13:42,411 - main - INFO - Epoch 237 - train: epoch loss = 380.2632
+2022-11-17 13:13:42,412 - main - INFO - validating...
+2022-11-17 13:13:46,152 - main - INFO - Epoch 237 - val: epoch loss = 304.3670
+2022-11-17 13:13:46,326 - main - INFO - Saved the best model at epoch 237.
+2022-11-17 13:13:46,327 - main - INFO - Epoch 238/700
+2022-11-17 13:13:46,328 - main - INFO - ----------------------------
+2022-11-17 13:13:46,329 - main - INFO - training...
+2022-11-17 13:13:57,497 - main - INFO - Epoch 238 - train: epoch loss = 379.8465
+2022-11-17 13:13:57,498 - main - INFO - validating...
+2022-11-17 13:14:01,283 - main - INFO - Epoch 238 - val: epoch loss = 304.2106
+2022-11-17 13:14:01,451 - main - INFO - Saved the best model at epoch 238.
+2022-11-17 13:14:01,452 - main - INFO - Epoch 239/700
+2022-11-17 13:14:01,452 - main - INFO - ----------------------------
+2022-11-17 13:14:01,453 - main - INFO - training...
+2022-11-17 13:14:12,650 - main - INFO - Epoch 239 - train: epoch loss = 379.6058
+2022-11-17 13:14:12,651 - main - INFO - validating...
+2022-11-17 13:14:16,385 - main - INFO - Epoch 239 - val: epoch loss = 304.1169
+2022-11-17 13:14:16,551 - main - INFO - Saved the best model at epoch 239.
+2022-11-17 13:14:16,552 - main - INFO - Epoch 240/700
+2022-11-17 13:14:16,552 - main - INFO - ----------------------------
+2022-11-17 13:14:16,553 - main - INFO - training...
+2022-11-17 13:14:27,723 - main - INFO - Epoch 240 - train: epoch loss = 378.8004
+2022-11-17 13:14:27,724 - main - INFO - validating...
+2022-11-17 13:14:31,387 - main - INFO - Epoch 240 - val: epoch loss = 303.5341
+2022-11-17 13:14:31,555 - main - INFO - Saved the best model at epoch 240.
+2022-11-17 13:14:31,556 - main - INFO - Epoch 241/700
+2022-11-17 13:14:31,556 - main - INFO - ----------------------------
+2022-11-17 13:14:31,558 - main - INFO - training...
+2022-11-17 13:14:42,773 - main - INFO - Epoch 241 - train: epoch loss = 378.5390
+2022-11-17 13:14:42,774 - main - INFO - validating...
+2022-11-17 13:14:46,424 - main - INFO - Epoch 241 - val: epoch loss = 302.9001
+2022-11-17 13:14:46,661 - main - INFO - Saved the best model at epoch 241.
+2022-11-17 13:14:46,662 - main - INFO - Epoch 242/700
+2022-11-17 13:14:46,663 - main - INFO - ----------------------------
+2022-11-17 13:14:46,664 - main - INFO - training...
+2022-11-17 13:14:57,832 - main - INFO - Epoch 242 - train: epoch loss = 377.9649
+2022-11-17 13:14:57,832 - main - INFO - validating...
+2022-11-17 13:15:01,580 - main - INFO - Epoch 242 - val: epoch loss = 302.4051
+2022-11-17 13:15:01,745 - main - INFO - Saved the best model at epoch 242.
+2022-11-17 13:15:01,746 - main - INFO - Epoch 243/700
+2022-11-17 13:15:01,746 - main - INFO - ----------------------------
+2022-11-17 13:15:01,748 - main - INFO - training...
+2022-11-17 13:15:12,962 - main - INFO - Epoch 243 - train: epoch loss = 377.7465
+2022-11-17 13:15:12,963 - main - INFO - validating...
+2022-11-17 13:15:16,708 - main - INFO - Epoch 243 - val: epoch loss = 302.3116
+2022-11-17 13:15:16,878 - main - INFO - Saved the best model at epoch 243.
+2022-11-17 13:15:16,879 - main - INFO - Epoch 244/700
+2022-11-17 13:15:16,879 - main - INFO - ----------------------------
+2022-11-17 13:15:16,881 - main - INFO - training...
+2022-11-17 13:15:28,052 - main - INFO - Epoch 244 - train: epoch loss = 377.3039
+2022-11-17 13:15:28,052 - main - INFO - validating...
+2022-11-17 13:15:31,804 - main - INFO - Epoch 244 - val: epoch loss = 302.1534
+2022-11-17 13:15:31,973 - main - INFO - Saved the best model at epoch 244.
+2022-11-17 13:15:31,974 - main - INFO - Epoch 245/700
+2022-11-17 13:15:31,974 - main - INFO - ----------------------------
+2022-11-17 13:15:31,976 - main - INFO - training...
+2022-11-17 13:15:43,192 - main - INFO - Epoch 245 - train: epoch loss = 376.8403
+2022-11-17 13:15:43,193 - main - INFO - validating...
+2022-11-17 13:15:46,846 - main - INFO - Epoch 245 - val: epoch loss = 301.2296
+2022-11-17 13:15:47,101 - main - INFO - Saved the best model at epoch 245.
+2022-11-17 13:15:47,102 - main - INFO - Epoch 246/700
+2022-11-17 13:15:47,103 - main - INFO - ----------------------------
+2022-11-17 13:15:47,104 - main - INFO - training...
+2022-11-17 13:15:58,278 - main - INFO - Epoch 246 - train: epoch loss = 376.2475
+2022-11-17 13:15:58,279 - main - INFO - validating...
+2022-11-17 13:16:01,938 - main - INFO - Epoch 246 - val: epoch loss = 300.7467
+2022-11-17 13:16:02,198 - main - INFO - Saved the best model at epoch 246.
+2022-11-17 13:16:02,198 - main - INFO - Epoch 247/700
+2022-11-17 13:16:02,199 - main - INFO - ----------------------------
+2022-11-17 13:16:02,200 - main - INFO - training...
+2022-11-17 13:16:13,366 - main - INFO - Epoch 247 - train: epoch loss = 375.7683
+2022-11-17 13:16:13,367 - main - INFO - validating...
+2022-11-17 13:16:17,110 - main - INFO - Epoch 247 - val: epoch loss = 300.4246
+2022-11-17 13:16:17,298 - main - INFO - Saved the best model at epoch 247.
+2022-11-17 13:16:17,299 - main - INFO - Epoch 248/700
+2022-11-17 13:16:17,299 - main - INFO - ----------------------------
+2022-11-17 13:16:17,300 - main - INFO - training...
+2022-11-17 13:16:28,494 - main - INFO - Epoch 248 - train: epoch loss = 375.4703
+2022-11-17 13:16:28,494 - main - INFO - validating...
+2022-11-17 13:16:32,241 - main - INFO - Epoch 248 - val: epoch loss = 300.0703
+2022-11-17 13:16:32,497 - main - INFO - Saved the best model at epoch 248.
+2022-11-17 13:16:32,498 - main - INFO - Epoch 249/700
+2022-11-17 13:16:32,499 - main - INFO - ----------------------------
+2022-11-17 13:16:32,500 - main - INFO - training...
+2022-11-17 13:16:43,644 - main - INFO - Epoch 249 - train: epoch loss = 375.1765
+2022-11-17 13:16:43,645 - main - INFO - validating...
+2022-11-17 13:16:47,386 - main - INFO - Epoch 249 - val: epoch loss = 299.7371
+2022-11-17 13:16:47,556 - main - INFO - Saved the best model at epoch 249.
+2022-11-17 13:16:47,556 - main - INFO - Epoch 250/700
+2022-11-17 13:16:47,557 - main - INFO - ----------------------------
+2022-11-17 13:16:47,558 - main - INFO - training...
+2022-11-17 13:16:58,732 - main - INFO - Epoch 250 - train: epoch loss = 374.5762
+2022-11-17 13:16:58,733 - main - INFO - validating...
+2022-11-17 13:17:02,500 - main - INFO - Epoch 250 - val: epoch loss = 299.7217
+2022-11-17 13:17:02,666 - main - INFO - Saved the best model at epoch 250.
+2022-11-17 13:17:02,667 - main - INFO - Epoch 251/700
+2022-11-17 13:17:02,668 - main - INFO - ----------------------------
+2022-11-17 13:17:02,669 - main - INFO - training...
+2022-11-17 13:17:13,838 - main - INFO - Epoch 251 - train: epoch loss = 374.2647
+2022-11-17 13:17:13,839 - main - INFO - validating...
+2022-11-17 13:17:17,579 - main - INFO - Epoch 251 - val: epoch loss = 299.3624
+2022-11-17 13:17:17,746 - main - INFO - Saved the best model at epoch 251.
+2022-11-17 13:17:17,747 - main - INFO - Epoch 252/700
+2022-11-17 13:17:17,747 - main - INFO - ----------------------------
+2022-11-17 13:17:17,749 - main - INFO - training...
+2022-11-17 13:17:28,931 - main - INFO - Epoch 252 - train: epoch loss = 374.0781
+2022-11-17 13:17:28,931 - main - INFO - validating...
+2022-11-17 13:17:32,592 - main - INFO - Epoch 252 - val: epoch loss = 299.1758
+2022-11-17 13:17:32,829 - main - INFO - Saved the best model at epoch 252.
+2022-11-17 13:17:32,830 - main - INFO - Epoch 253/700
+2022-11-17 13:17:32,831 - main - INFO - ----------------------------
+2022-11-17 13:17:32,832 - main - INFO - training...
+2022-11-17 13:17:43,997 - main - INFO - Epoch 253 - train: epoch loss = 373.3709
+2022-11-17 13:17:43,998 - main - INFO - validating...
+2022-11-17 13:17:47,751 - main - INFO - Epoch 253 - val: epoch loss = 298.4061
+2022-11-17 13:17:47,920 - main - INFO - Saved the best model at epoch 253.
+2022-11-17 13:17:47,921 - main - INFO - Epoch 254/700
+2022-11-17 13:17:47,922 - main - INFO - ----------------------------
+2022-11-17 13:17:47,923 - main - INFO - training...
+2022-11-17 13:17:59,115 - main - INFO - Epoch 254 - train: epoch loss = 372.8184
+2022-11-17 13:17:59,116 - main - INFO - validating...
+2022-11-17 13:18:02,890 - main - INFO - Epoch 254 - val: epoch loss = 297.8876
+2022-11-17 13:18:03,144 - main - INFO - Saved the best model at epoch 254.
+2022-11-17 13:18:03,145 - main - INFO - Epoch 255/700
+2022-11-17 13:18:03,145 - main - INFO - ----------------------------
+2022-11-17 13:18:03,146 - main - INFO - training...
+2022-11-17 13:18:14,303 - main - INFO - Epoch 255 - train: epoch loss = 372.8675
+2022-11-17 13:18:14,304 - main - INFO - validating...
+2022-11-17 13:18:17,969 - main - INFO - Epoch 255 - val: epoch loss = 297.4815
+2022-11-17 13:18:18,202 - main - INFO - Saved the best model at epoch 255.
+2022-11-17 13:18:18,203 - main - INFO - Epoch 256/700
+2022-11-17 13:18:18,204 - main - INFO - ----------------------------
+2022-11-17 13:18:18,205 - main - INFO - training...
+2022-11-17 13:18:29,405 - main - INFO - Epoch 256 - train: epoch loss = 372.5963
+2022-11-17 13:18:29,406 - main - INFO - validating...
+2022-11-17 13:18:33,078 - main - INFO - Epoch 256 - val: epoch loss = 297.4460
+2022-11-17 13:18:33,318 - main - INFO - Saved the best model at epoch 256.
+2022-11-17 13:18:33,319 - main - INFO - Epoch 257/700
+2022-11-17 13:18:33,319 - main - INFO - ----------------------------
+2022-11-17 13:18:33,321 - main - INFO - training...
+2022-11-17 13:18:44,504 - main - INFO - Epoch 257 - train: epoch loss = 371.8276
+2022-11-17 13:18:44,504 - main - INFO - validating...
+2022-11-17 13:18:48,166 - main - INFO - Epoch 257 - val: epoch loss = 296.7515
+2022-11-17 13:18:48,418 - main - INFO - Saved the best model at epoch 257.
+2022-11-17 13:18:48,419 - main - INFO - Epoch 258/700
+2022-11-17 13:18:48,419 - main - INFO - ----------------------------
+2022-11-17 13:18:48,420 - main - INFO - training...
+2022-11-17 13:18:59,480 - main - INFO - Epoch 258 - train: epoch loss = 371.4214
+2022-11-17 13:18:59,481 - main - INFO - validating...
+2022-11-17 13:19:03,223 - main - INFO - Epoch 258 - val: epoch loss = 296.1809
+2022-11-17 13:19:03,463 - main - INFO - Saved the best model at epoch 258.
+2022-11-17 13:19:03,464 - main - INFO - Epoch 259/700
+2022-11-17 13:19:03,464 - main - INFO - ----------------------------
+2022-11-17 13:19:03,465 - main - INFO - training...
+2022-11-17 13:19:14,551 - main - INFO - Epoch 259 - train: epoch loss = 371.3252
+2022-11-17 13:19:14,552 - main - INFO - validating...
+2022-11-17 13:19:18,300 - main - INFO - Epoch 259 - val: epoch loss = 296.0936
+2022-11-17 13:19:18,465 - main - INFO - Saved the best model at epoch 259.
+2022-11-17 13:19:18,465 - main - INFO - Epoch 260/700
+2022-11-17 13:19:18,466 - main - INFO - ----------------------------
+2022-11-17 13:19:18,466 - main - INFO - training...
+2022-11-17 13:19:29,532 - main - INFO - Epoch 260 - train: epoch loss = 370.6955
+2022-11-17 13:19:29,533 - main - INFO - validating...
+2022-11-17 13:19:33,281 - main - INFO - Epoch 260 - val: epoch loss = 295.5467
+2022-11-17 13:19:33,447 - main - INFO - Saved the best model at epoch 260.
+2022-11-17 13:19:33,447 - main - INFO - Epoch 261/700
+2022-11-17 13:19:33,448 - main - INFO - ----------------------------
+2022-11-17 13:19:33,449 - main - INFO - training...
+2022-11-17 13:19:44,615 - main - INFO - Epoch 261 - train: epoch loss = 370.5686
+2022-11-17 13:19:44,616 - main - INFO - validating...
+2022-11-17 13:19:48,274 - main - INFO - Epoch 261 - val: epoch loss = 295.1988
+2022-11-17 13:19:48,544 - main - INFO - Saved the best model at epoch 261.
+2022-11-17 13:19:48,545 - main - INFO - Epoch 262/700
+2022-11-17 13:19:48,546 - main - INFO - ----------------------------
+2022-11-17 13:19:48,547 - main - INFO - training...
+2022-11-17 13:19:59,701 - main - INFO - Epoch 262 - train: epoch loss = 370.2896
+2022-11-17 13:19:59,702 - main - INFO - validating...
+2022-11-17 13:20:03,457 - main - INFO - Epoch 262 - val: epoch loss = 294.9988
+2022-11-17 13:20:03,629 - main - INFO - Saved the best model at epoch 262.
+2022-11-17 13:20:03,630 - main - INFO - Epoch 263/700
+2022-11-17 13:20:03,631 - main - INFO - ----------------------------
+2022-11-17 13:20:03,632 - main - INFO - training...
+2022-11-17 13:20:14,877 - main - INFO - Epoch 263 - train: epoch loss = 369.6913
+2022-11-17 13:20:14,878 - main - INFO - validating...
+2022-11-17 13:20:18,611 - main - INFO - Epoch 263 - val: epoch loss = 295.0007
+2022-11-17 13:20:18,612 - main - INFO - Epoch 264/700
+2022-11-17 13:20:18,612 - main - INFO - ----------------------------
+2022-11-17 13:20:18,613 - main - INFO - training...
+2022-11-17 13:20:29,760 - main - INFO - Epoch 264 - train: epoch loss = 369.3847
+2022-11-17 13:20:29,761 - main - INFO - validating...
+2022-11-17 13:20:33,426 - main - INFO - Epoch 264 - val: epoch loss = 294.4634
+2022-11-17 13:20:33,691 - main - INFO - Saved the best model at epoch 264.
+2022-11-17 13:20:33,692 - main - INFO - Epoch 265/700
+2022-11-17 13:20:33,693 - main - INFO - ----------------------------
+2022-11-17 13:20:33,694 - main - INFO - training...
+2022-11-17 13:20:44,859 - main - INFO - Epoch 265 - train: epoch loss = 368.8995
+2022-11-17 13:20:44,859 - main - INFO - validating...
+2022-11-17 13:20:48,515 - main - INFO - Epoch 265 - val: epoch loss = 293.8216
+2022-11-17 13:20:48,679 - main - INFO - Saved the best model at epoch 265.
+2022-11-17 13:20:48,680 - main - INFO - Epoch 266/700
+2022-11-17 13:20:48,681 - main - INFO - ----------------------------
+2022-11-17 13:20:48,682 - main - INFO - training...
+2022-11-17 13:20:59,843 - main - INFO - Epoch 266 - train: epoch loss = 368.6718
+2022-11-17 13:20:59,844 - main - INFO - validating...
+2022-11-17 13:21:03,615 - main - INFO - Epoch 266 - val: epoch loss = 293.5958
+2022-11-17 13:21:03,782 - main - INFO - Saved the best model at epoch 266.
+2022-11-17 13:21:03,783 - main - INFO - Epoch 267/700
+2022-11-17 13:21:03,784 - main - INFO - ----------------------------
+2022-11-17 13:21:03,785 - main - INFO - training...
+2022-11-17 13:21:15,008 - main - INFO - Epoch 267 - train: epoch loss = 368.3642
+2022-11-17 13:21:15,009 - main - INFO - validating...
+2022-11-17 13:21:18,760 - main - INFO - Epoch 267 - val: epoch loss = 293.0302
+2022-11-17 13:21:19,022 - main - INFO - Saved the best model at epoch 267.
+2022-11-17 13:21:19,023 - main - INFO - Epoch 268/700
+2022-11-17 13:21:19,023 - main - INFO - ----------------------------
+2022-11-17 13:21:19,024 - main - INFO - training...
+2022-11-17 13:21:30,142 - main - INFO - Epoch 268 - train: epoch loss = 367.9086
+2022-11-17 13:21:30,143 - main - INFO - validating...
+2022-11-17 13:21:33,894 - main - INFO - Epoch 268 - val: epoch loss = 292.8715
+2022-11-17 13:21:34,151 - main - INFO - Saved the best model at epoch 268.
+2022-11-17 13:21:34,152 - main - INFO - Epoch 269/700
+2022-11-17 13:21:34,153 - main - INFO - ----------------------------
+2022-11-17 13:21:34,154 - main - INFO - training...
+2022-11-17 13:21:45,335 - main - INFO - Epoch 269 - train: epoch loss = 367.4775
+2022-11-17 13:21:45,335 - main - INFO - validating...
+2022-11-17 13:21:49,009 - main - INFO - Epoch 269 - val: epoch loss = 292.9015
+2022-11-17 13:21:49,010 - main - INFO - Epoch 270/700
+2022-11-17 13:21:49,011 - main - INFO - ----------------------------
+2022-11-17 13:21:49,012 - main - INFO - training...
+2022-11-17 13:22:00,190 - main - INFO - Epoch 270 - train: epoch loss = 367.1208
+2022-11-17 13:22:00,191 - main - INFO - validating...
+2022-11-17 13:22:03,882 - main - INFO - Epoch 270 - val: epoch loss = 292.1582
+2022-11-17 13:22:04,129 - main - INFO - Saved the best model at epoch 270.
+2022-11-17 13:22:04,129 - main - INFO - Epoch 271/700
+2022-11-17 13:22:04,130 - main - INFO - ----------------------------
+2022-11-17 13:22:04,131 - main - INFO - training...
+2022-11-17 13:22:15,180 - main - INFO - Epoch 271 - train: epoch loss = 366.7165
+2022-11-17 13:22:15,181 - main - INFO - validating...
+2022-11-17 13:22:18,938 - main - INFO - Epoch 271 - val: epoch loss = 291.9550
+2022-11-17 13:22:19,202 - main - INFO - Saved the best model at epoch 271.
+2022-11-17 13:22:19,203 - main - INFO - Epoch 272/700
+2022-11-17 13:22:19,203 - main - INFO - ----------------------------
+2022-11-17 13:22:19,204 - main - INFO - training...
+2022-11-17 13:22:30,312 - main - INFO - Epoch 272 - train: epoch loss = 366.5904
+2022-11-17 13:22:30,313 - main - INFO - validating...
+2022-11-17 13:22:34,078 - main - INFO - Epoch 272 - val: epoch loss = 291.6742
+2022-11-17 13:22:34,246 - main - INFO - Saved the best model at epoch 272.
+2022-11-17 13:22:34,247 - main - INFO - Epoch 273/700
+2022-11-17 13:22:34,248 - main - INFO - ----------------------------
+2022-11-17 13:22:34,249 - main - INFO - training...
+2022-11-17 13:22:45,404 - main - INFO - Epoch 273 - train: epoch loss = 366.2468
+2022-11-17 13:22:45,405 - main - INFO - validating...
+2022-11-17 13:22:49,070 - main - INFO - Epoch 273 - val: epoch loss = 291.3451
+2022-11-17 13:22:49,329 - main - INFO - Saved the best model at epoch 273.
+2022-11-17 13:22:49,330 - main - INFO - Epoch 274/700
+2022-11-17 13:22:49,330 - main - INFO - ----------------------------
+2022-11-17 13:22:49,331 - main - INFO - training...
+2022-11-17 13:23:00,534 - main - INFO - Epoch 274 - train: epoch loss = 365.9681
+2022-11-17 13:23:00,535 - main - INFO - validating...
+2022-11-17 13:23:04,220 - main - INFO - Epoch 274 - val: epoch loss = 290.9974
+2022-11-17 13:23:04,484 - main - INFO - Saved the best model at epoch 274.
+2022-11-17 13:23:04,485 - main - INFO - Epoch 275/700
+2022-11-17 13:23:04,485 - main - INFO - ----------------------------
+2022-11-17 13:23:04,487 - main - INFO - training...
+2022-11-17 13:23:15,667 - main - INFO - Epoch 275 - train: epoch loss = 365.6995
+2022-11-17 13:23:15,668 - main - INFO - validating...
+2022-11-17 13:23:19,333 - main - INFO - Epoch 275 - val: epoch loss = 290.8193
+2022-11-17 13:23:19,506 - main - INFO - Saved the best model at epoch 275.
+2022-11-17 13:23:19,506 - main - INFO - Epoch 276/700
+2022-11-17 13:23:19,507 - main - INFO - ----------------------------
+2022-11-17 13:23:19,508 - main - INFO - training...
+2022-11-17 13:23:30,674 - main - INFO - Epoch 276 - train: epoch loss = 365.1655
+2022-11-17 13:23:30,675 - main - INFO - validating...
+2022-11-17 13:23:34,422 - main - INFO - Epoch 276 - val: epoch loss = 290.3593
+2022-11-17 13:23:34,591 - main - INFO - Saved the best model at epoch 276.
+2022-11-17 13:23:34,592 - main - INFO - Epoch 277/700
+2022-11-17 13:23:34,592 - main - INFO - ----------------------------
+2022-11-17 13:23:34,593 - main - INFO - training...
+2022-11-17 13:23:45,736 - main - INFO - Epoch 277 - train: epoch loss = 364.7651
+2022-11-17 13:23:45,737 - main - INFO - validating...
+2022-11-17 13:23:49,495 - main - INFO - Epoch 277 - val: epoch loss = 289.8976
+2022-11-17 13:23:49,762 - main - INFO - Saved the best model at epoch 277.
+2022-11-17 13:23:49,763 - main - INFO - Epoch 278/700
+2022-11-17 13:23:49,764 - main - INFO - ----------------------------
+2022-11-17 13:23:49,765 - main - INFO - training...
+2022-11-17 13:24:00,952 - main - INFO - Epoch 278 - train: epoch loss = 364.4681
+2022-11-17 13:24:00,953 - main - INFO - validating...
+2022-11-17 13:24:04,660 - main - INFO - Epoch 278 - val: epoch loss = 289.7325
+2022-11-17 13:24:04,828 - main - INFO - Saved the best model at epoch 278.
+2022-11-17 13:24:04,829 - main - INFO - Epoch 279/700
+2022-11-17 13:24:04,830 - main - INFO - ----------------------------
+2022-11-17 13:24:04,831 - main - INFO - training...
+2022-11-17 13:24:16,036 - main - INFO - Epoch 279 - train: epoch loss = 364.2319
+2022-11-17 13:24:16,037 - main - INFO - validating...
+2022-11-17 13:24:19,809 - main - INFO - Epoch 279 - val: epoch loss = 289.2338
+2022-11-17 13:24:19,979 - main - INFO - Saved the best model at epoch 279.
+2022-11-17 13:24:19,979 - main - INFO - Epoch 280/700
+2022-11-17 13:24:19,980 - main - INFO - ----------------------------
+2022-11-17 13:24:19,981 - main - INFO - training...
+2022-11-17 13:24:31,132 - main - INFO - Epoch 280 - train: epoch loss = 364.0866
+2022-11-17 13:24:31,133 - main - INFO - validating...
+2022-11-17 13:24:34,798 - main - INFO - Epoch 280 - val: epoch loss = 289.4983
+2022-11-17 13:24:34,799 - main - INFO - Epoch 281/700
+2022-11-17 13:24:34,799 - main - INFO - ----------------------------
+2022-11-17 13:24:34,800 - main - INFO - training...
+2022-11-17 13:24:45,997 - main - INFO - Epoch 281 - train: epoch loss = 363.6180
+2022-11-17 13:24:45,998 - main - INFO - validating...
+2022-11-17 13:24:49,742 - main - INFO - Epoch 281 - val: epoch loss = 288.9457
+2022-11-17 13:24:49,998 - main - INFO - Saved the best model at epoch 281.
+2022-11-17 13:24:49,998 - main - INFO - Epoch 282/700
+2022-11-17 13:24:49,998 - main - INFO - ----------------------------
+2022-11-17 13:24:49,999 - main - INFO - training...
+2022-11-17 13:25:01,097 - main - INFO - Epoch 282 - train: epoch loss = 363.2273
+2022-11-17 13:25:01,098 - main - INFO - validating...
+2022-11-17 13:25:04,905 - main - INFO - Epoch 282 - val: epoch loss = 288.8506
+2022-11-17 13:25:05,078 - main - INFO - Saved the best model at epoch 282.
+2022-11-17 13:25:05,078 - main - INFO - Epoch 283/700
+2022-11-17 13:25:05,080 - main - INFO - ----------------------------
+2022-11-17 13:25:05,081 - main - INFO - training...
+2022-11-17 13:25:16,244 - main - INFO - Epoch 283 - train: epoch loss = 363.0472
+2022-11-17 13:25:16,245 - main - INFO - validating...
+2022-11-17 13:25:19,995 - main - INFO - Epoch 283 - val: epoch loss = 288.5795
+2022-11-17 13:25:20,164 - main - INFO - Saved the best model at epoch 283.
+2022-11-17 13:25:20,165 - main - INFO - Epoch 284/700
+2022-11-17 13:25:20,166 - main - INFO - ----------------------------
+2022-11-17 13:25:20,167 - main - INFO - training...
+2022-11-17 13:25:31,332 - main - INFO - Epoch 284 - train: epoch loss = 362.5475
+2022-11-17 13:25:31,333 - main - INFO - validating...
+2022-11-17 13:25:35,073 - main - INFO - Epoch 284 - val: epoch loss = 287.9596
+2022-11-17 13:25:35,243 - main - INFO - Saved the best model at epoch 284.
+2022-11-17 13:25:35,244 - main - INFO - Epoch 285/700
+2022-11-17 13:25:35,245 - main - INFO - ----------------------------
+2022-11-17 13:25:35,246 - main - INFO - training...
+2022-11-17 13:25:46,393 - main - INFO - Epoch 285 - train: epoch loss = 362.1328
+2022-11-17 13:25:46,394 - main - INFO - validating...
+2022-11-17 13:25:50,144 - main - INFO - Epoch 285 - val: epoch loss = 287.6122
+2022-11-17 13:25:50,321 - main - INFO - Saved the best model at epoch 285.
+2022-11-17 13:25:50,322 - main - INFO - Epoch 286/700
+2022-11-17 13:25:50,322 - main - INFO - ----------------------------
+2022-11-17 13:25:50,323 - main - INFO - training...
+2022-11-17 13:26:01,498 - main - INFO - Epoch 286 - train: epoch loss = 362.2161
+2022-11-17 13:26:01,499 - main - INFO - validating...
+2022-11-17 13:26:05,163 - main - INFO - Epoch 286 - val: epoch loss = 287.5782
+2022-11-17 13:26:05,419 - main - INFO - Saved the best model at epoch 286.
+2022-11-17 13:26:05,420 - main - INFO - Epoch 287/700
+2022-11-17 13:26:05,420 - main - INFO - ----------------------------
+2022-11-17 13:26:05,421 - main - INFO - training...
+2022-11-17 13:26:16,599 - main - INFO - Epoch 287 - train: epoch loss = 361.9331
+2022-11-17 13:26:16,600 - main - INFO - validating...
+2022-11-17 13:26:20,333 - main - INFO - Epoch 287 - val: epoch loss = 287.3056
+2022-11-17 13:26:20,497 - main - INFO - Saved the best model at epoch 287.
+2022-11-17 13:26:20,498 - main - INFO - Epoch 288/700
+2022-11-17 13:26:20,498 - main - INFO - ----------------------------
+2022-11-17 13:26:20,500 - main - INFO - training...
+2022-11-17 13:26:31,713 - main - INFO - Epoch 288 - train: epoch loss = 361.4210
+2022-11-17 13:26:31,713 - main - INFO - validating...
+2022-11-17 13:26:35,459 - main - INFO - Epoch 288 - val: epoch loss = 287.1362
+2022-11-17 13:26:35,712 - main - INFO - Saved the best model at epoch 288.
+2022-11-17 13:26:35,713 - main - INFO - Epoch 289/700
+2022-11-17 13:26:35,713 - main - INFO - ----------------------------
+2022-11-17 13:26:35,714 - main - INFO - training...
+2022-11-17 13:26:47,586 - main - INFO - Epoch 289 - train: epoch loss = 361.1219
+2022-11-17 13:26:47,586 - main - INFO - validating...
+2022-11-17 13:26:51,253 - main - INFO - Epoch 289 - val: epoch loss = 286.9581
+2022-11-17 13:26:51,418 - main - INFO - Saved the best model at epoch 289.
+2022-11-17 13:26:51,418 - main - INFO - Epoch 290/700
+2022-11-17 13:26:51,422 - main - INFO - ----------------------------
+2022-11-17 13:26:51,422 - main - INFO - training...
+2022-11-17 13:27:02,557 - main - INFO - Epoch 290 - train: epoch loss = 360.8150
+2022-11-17 13:27:02,557 - main - INFO - validating...
+2022-11-17 13:27:06,320 - main - INFO - Epoch 290 - val: epoch loss = 286.4343
+2022-11-17 13:27:06,575 - main - INFO - Saved the best model at epoch 290.
+2022-11-17 13:27:06,576 - main - INFO - Epoch 291/700
+2022-11-17 13:27:06,577 - main - INFO - ----------------------------
+2022-11-17 13:27:06,578 - main - INFO - training...
+2022-11-17 13:27:17,713 - main - INFO - Epoch 291 - train: epoch loss = 360.6426
+2022-11-17 13:27:17,714 - main - INFO - validating...
+2022-11-17 13:27:21,484 - main - INFO - Epoch 291 - val: epoch loss = 286.4530
+2022-11-17 13:27:21,484 - main - INFO - Epoch 292/700
+2022-11-17 13:27:21,484 - main - INFO - ----------------------------
+2022-11-17 13:27:21,487 - main - INFO - training...
+2022-11-17 13:27:32,722 - main - INFO - Epoch 292 - train: epoch loss = 360.1569
+2022-11-17 13:27:32,723 - main - INFO - validating...
+2022-11-17 13:27:36,483 - main - INFO - Epoch 292 - val: epoch loss = 285.6704
+2022-11-17 13:27:36,665 - main - INFO - Saved the best model at epoch 292.
+2022-11-17 13:27:36,665 - main - INFO - Epoch 293/700
+2022-11-17 13:27:36,672 - main - INFO - ----------------------------
+2022-11-17 13:27:36,672 - main - INFO - training...
+2022-11-17 13:27:47,910 - main - INFO - Epoch 293 - train: epoch loss = 359.8964
+2022-11-17 13:27:47,910 - main - INFO - validating...
+2022-11-17 13:27:51,579 - main - INFO - Epoch 293 - val: epoch loss = 285.4384
+2022-11-17 13:27:51,848 - main - INFO - Saved the best model at epoch 293.
+2022-11-17 13:27:51,849 - main - INFO - Epoch 294/700
+2022-11-17 13:27:51,850 - main - INFO - ----------------------------
+2022-11-17 13:27:51,851 - main - INFO - training...
+2022-11-17 13:28:02,979 - main - INFO - Epoch 294 - train: epoch loss = 359.7189
+2022-11-17 13:28:02,979 - main - INFO - validating...
+2022-11-17 13:28:06,752 - main - INFO - Epoch 294 - val: epoch loss = 285.5013
+2022-11-17 13:28:06,752 - main - INFO - Epoch 295/700
+2022-11-17 13:28:06,752 - main - INFO - ----------------------------
+2022-11-17 13:28:06,761 - main - INFO - training...
+2022-11-17 13:28:18,019 - main - INFO - Epoch 295 - train: epoch loss = 359.2311
+2022-11-17 13:28:18,019 - main - INFO - validating...
+2022-11-17 13:28:21,792 - main - INFO - Epoch 295 - val: epoch loss = 284.8606
+2022-11-17 13:28:21,979 - main - INFO - Saved the best model at epoch 295.
+2022-11-17 13:28:21,979 - main - INFO - Epoch 296/700
+2022-11-17 13:28:21,980 - main - INFO - ----------------------------
+2022-11-17 13:28:21,980 - main - INFO - training...
+2022-11-17 13:28:33,212 - main - INFO - Epoch 296 - train: epoch loss = 359.2618
+2022-11-17 13:28:33,213 - main - INFO - validating...
+2022-11-17 13:28:36,899 - main - INFO - Epoch 296 - val: epoch loss = 284.5225
+2022-11-17 13:28:37,154 - main - INFO - Saved the best model at epoch 296.
+2022-11-17 13:28:37,155 - main - INFO - Epoch 297/700
+2022-11-17 13:28:37,156 - main - INFO - ----------------------------
+2022-11-17 13:28:37,156 - main - INFO - training...
+2022-11-17 13:28:48,314 - main - INFO - Epoch 297 - train: epoch loss = 358.9715
+2022-11-17 13:28:48,315 - main - INFO - validating...
+2022-11-17 13:28:52,121 - main - INFO - Epoch 297 - val: epoch loss = 284.4132
+2022-11-17 13:28:52,365 - main - INFO - Saved the best model at epoch 297.
+2022-11-17 13:28:52,366 - main - INFO - Epoch 298/700
+2022-11-17 13:28:52,367 - main - INFO - ----------------------------
+2022-11-17 13:28:52,368 - main - INFO - training...
+2022-11-17 13:29:03,498 - main - INFO - Epoch 298 - train: epoch loss = 358.7134
+2022-11-17 13:29:03,498 - main - INFO - validating...
+2022-11-17 13:29:07,248 - main - INFO - Epoch 298 - val: epoch loss = 284.1655
+2022-11-17 13:29:07,519 - main - INFO - Saved the best model at epoch 298.
+2022-11-17 13:29:07,520 - main - INFO - Epoch 299/700
+2022-11-17 13:29:07,521 - main - INFO - ----------------------------
+2022-11-17 13:29:07,521 - main - INFO - training...
+2022-11-17 13:29:18,758 - main - INFO - Epoch 299 - train: epoch loss = 358.4464
+2022-11-17 13:29:18,768 - main - INFO - validating...
+2022-11-17 13:29:22,528 - main - INFO - Epoch 299 - val: epoch loss = 283.7899
+2022-11-17 13:29:22,785 - main - INFO - Saved the best model at epoch 299.
+2022-11-17 13:29:22,786 - main - INFO - Epoch 300/700
+2022-11-17 13:29:22,787 - main - INFO - ----------------------------
+2022-11-17 13:29:22,788 - main - INFO - training...
+2022-11-17 13:29:34,018 - main - INFO - Epoch 300 - train: epoch loss = 358.1025
+2022-11-17 13:29:34,018 - main - INFO - validating...
+2022-11-17 13:29:37,703 - main - INFO - Epoch 300 - val: epoch loss = 283.4853
+2022-11-17 13:29:37,931 - main - INFO - Saved the model at epoch 300.
+2022-11-17 13:29:38,125 - main - INFO - Saved the best model at epoch 300.
+2022-11-17 13:29:38,125 - main - INFO - Epoch 301/700
+2022-11-17 13:29:38,126 - main - INFO - ----------------------------
+2022-11-17 13:29:38,127 - main - INFO - training...
+2022-11-17 13:29:49,374 - main - INFO - Epoch 301 - train: epoch loss = 357.5947
+2022-11-17 13:29:49,374 - main - INFO - validating...
+2022-11-17 13:29:53,064 - main - INFO - Epoch 301 - val: epoch loss = 283.2373
+2022-11-17 13:29:53,330 - main - INFO - Saved the best model at epoch 301.
+2022-11-17 13:29:53,330 - main - INFO - Epoch 302/700
+2022-11-17 13:29:53,340 - main - INFO - ----------------------------
+2022-11-17 13:29:53,341 - main - INFO - training...
+2022-11-17 13:30:04,497 - main - INFO - Epoch 302 - train: epoch loss = 357.5805
+2022-11-17 13:30:04,497 - main - INFO - validating...
+2022-11-17 13:30:08,287 - main - INFO - Epoch 302 - val: epoch loss = 283.0132
+2022-11-17 13:30:08,468 - main - INFO - Saved the best model at epoch 302.
+2022-11-17 13:30:08,468 - main - INFO - Epoch 303/700
+2022-11-17 13:30:08,469 - main - INFO - ----------------------------
+2022-11-17 13:30:08,470 - main - INFO - training...
+2022-11-17 13:30:19,673 - main - INFO - Epoch 303 - train: epoch loss = 357.4181
+2022-11-17 13:30:19,673 - main - INFO - validating...
+2022-11-17 13:30:23,357 - main - INFO - Epoch 303 - val: epoch loss = 282.6911
+2022-11-17 13:30:23,623 - main - INFO - Saved the best model at epoch 303.
+2022-11-17 13:30:23,633 - main - INFO - Epoch 304/700
+2022-11-17 13:30:23,634 - main - INFO - ----------------------------
+2022-11-17 13:30:23,634 - main - INFO - training...
+2022-11-17 13:30:34,873 - main - INFO - Epoch 304 - train: epoch loss = 356.9788
+2022-11-17 13:30:34,874 - main - INFO - validating...
+2022-11-17 13:30:38,560 - main - INFO - Epoch 304 - val: epoch loss = 282.4562
+2022-11-17 13:30:38,824 - main - INFO - Saved the best model at epoch 304.
+2022-11-17 13:30:38,827 - main - INFO - Epoch 305/700
+2022-11-17 13:30:38,827 - main - INFO - ----------------------------
+2022-11-17 13:30:38,829 - main - INFO - training...
+2022-11-17 13:30:50,057 - main - INFO - Epoch 305 - train: epoch loss = 356.7920
+2022-11-17 13:30:50,057 - main - INFO - validating...
+2022-11-17 13:30:53,807 - main - INFO - Epoch 305 - val: epoch loss = 282.4366
+2022-11-17 13:30:54,064 - main - INFO - Saved the best model at epoch 305.
+2022-11-17 13:30:54,064 - main - INFO - Epoch 306/700
+2022-11-17 13:30:54,070 - main - INFO - ----------------------------
+2022-11-17 13:30:54,071 - main - INFO - training...
+2022-11-17 13:31:05,246 - main - INFO - Epoch 306 - train: epoch loss = 356.5331
+2022-11-17 13:31:05,246 - main - INFO - validating...
+2022-11-17 13:31:08,943 - main - INFO - Epoch 306 - val: epoch loss = 282.4988
+2022-11-17 13:31:08,943 - main - INFO - Epoch 307/700
+2022-11-17 13:31:08,945 - main - INFO - ----------------------------
+2022-11-17 13:31:08,945 - main - INFO - training...
+2022-11-17 13:31:20,126 - main - INFO - Epoch 307 - train: epoch loss = 356.4193
+2022-11-17 13:31:20,136 - main - INFO - validating...
+2022-11-17 13:31:23,926 - main - INFO - Epoch 307 - val: epoch loss = 282.2027
+2022-11-17 13:31:24,108 - main - INFO - Saved the best model at epoch 307.
+2022-11-17 13:31:24,109 - main - INFO - Epoch 308/700
+2022-11-17 13:31:24,110 - main - INFO - ----------------------------
+2022-11-17 13:31:24,110 - main - INFO - training...
+2022-11-17 13:31:35,312 - main - INFO - Epoch 308 - train: epoch loss = 356.3789
+2022-11-17 13:31:35,312 - main - INFO - validating...
+2022-11-17 13:31:39,001 - main - INFO - Epoch 308 - val: epoch loss = 281.9686
+2022-11-17 13:31:39,262 - main - INFO - Saved the best model at epoch 308.
+2022-11-17 13:31:39,263 - main - INFO - Epoch 309/700
+2022-11-17 13:31:39,264 - main - INFO - ----------------------------
+2022-11-17 13:31:39,265 - main - INFO - training...
+2022-11-17 13:31:50,386 - main - INFO - Epoch 309 - train: epoch loss = 356.1885
+2022-11-17 13:31:50,386 - main - INFO - validating...
+2022-11-17 13:31:54,162 - main - INFO - Epoch 309 - val: epoch loss = 281.6933
+2022-11-17 13:31:54,429 - main - INFO - Saved the best model at epoch 309.
+2022-11-17 13:31:54,429 - main - INFO - Epoch 310/700
+2022-11-17 13:31:54,433 - main - INFO - ----------------------------
+2022-11-17 13:31:54,433 - main - INFO - training...
+2022-11-17 13:32:05,933 - main - INFO - Epoch 310 - train: epoch loss = 355.5436
+2022-11-17 13:32:05,933 - main - INFO - validating...
+2022-11-17 13:32:10,393 - main - INFO - Epoch 310 - val: epoch loss = 281.2347
+2022-11-17 13:32:10,646 - main - INFO - Saved the best model at epoch 310.
+2022-11-17 13:32:10,646 - main - INFO - Epoch 311/700
+2022-11-17 13:32:10,647 - main - INFO - ----------------------------
+2022-11-17 13:32:10,648 - main - INFO - training...
+2022-11-17 13:32:21,774 - main - INFO - Epoch 311 - train: epoch loss = 355.1874
+2022-11-17 13:32:21,775 - main - INFO - validating...
+2022-11-17 13:32:25,676 - main - INFO - Epoch 311 - val: epoch loss = 280.8180
+2022-11-17 13:32:25,926 - main - INFO - Saved the best model at epoch 311.
+2022-11-17 13:32:25,928 - main - INFO - Epoch 312/700
+2022-11-17 13:32:25,929 - main - INFO - ----------------------------
+2022-11-17 13:32:25,930 - main - INFO - training...
+2022-11-17 13:32:37,175 - main - INFO - Epoch 312 - train: epoch loss = 354.9545
+2022-11-17 13:32:37,176 - main - INFO - validating...
+2022-11-17 13:32:41,227 - main - INFO - Epoch 312 - val: epoch loss = 280.6440
+2022-11-17 13:32:41,719 - main - INFO - Saved the best model at epoch 312.
+2022-11-17 13:32:41,720 - main - INFO - Epoch 313/700
+2022-11-17 13:32:41,721 - main - INFO - ----------------------------
+2022-11-17 13:32:41,721 - main - INFO - training...
+2022-11-17 13:32:52,978 - main - INFO - Epoch 313 - train: epoch loss = 354.6551
+2022-11-17 13:32:52,978 - main - INFO - validating...
+2022-11-17 13:32:56,648 - main - INFO - Epoch 313 - val: epoch loss = 280.4795
+2022-11-17 13:32:56,896 - main - INFO - Saved the best model at epoch 313.
+2022-11-17 13:32:56,898 - main - INFO - Epoch 314/700
+2022-11-17 13:32:56,898 - main - INFO - ----------------------------
+2022-11-17 13:32:56,899 - main - INFO - training...
+2022-11-17 13:33:08,243 - main - INFO - Epoch 314 - train: epoch loss = 354.4022
+2022-11-17 13:33:08,254 - main - INFO - validating...
+2022-11-17 13:33:12,070 - main - INFO - Epoch 314 - val: epoch loss = 280.3925
+2022-11-17 13:33:12,334 - main - INFO - Saved the best model at epoch 314.
+2022-11-17 13:33:12,335 - main - INFO - Epoch 315/700
+2022-11-17 13:33:12,336 - main - INFO - ----------------------------
+2022-11-17 13:33:12,336 - main - INFO - training...
+2022-11-17 14:26:04,760 - main - INFO - NewCSRNet-w015-Epochs-700_BatchSize-32_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-11-17 14:26:08,420 - main - INFO - Epoch 1/700
+2022-11-17 14:26:08,420 - main - INFO - ----------------------------
+2022-11-17 14:26:08,420 - main - INFO - training...
+2022-11-17 14:26:56,616 - main - INFO - NewCSRNet-w015-Epochs-700_BatchSize-32_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-11-17 14:27:00,187 - main - INFO - Epoch 1/700
+2022-11-17 14:27:00,187 - main - INFO - ----------------------------
+2022-11-17 14:27:00,187 - main - INFO - training...
+2022-11-17 14:28:12,350 - main - INFO - NewCSRNet-w015-Epochs-700_BatchSize-32_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2022-11-17 14:28:16,211 - main - INFO - Epoch 1/700
+2022-11-17 14:28:16,211 - main - INFO - ----------------------------
+2022-11-17 14:28:16,215 - main - INFO - training...

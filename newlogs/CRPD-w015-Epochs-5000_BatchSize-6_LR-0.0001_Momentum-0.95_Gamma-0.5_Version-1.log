@@ -1,0 +1,1949 @@
+2023-01-06 23:57:41,865 - main - INFO - CRPD-w015-Epochs-5000_BatchSize-6_LR-0.0001_Momentum-0.95_Gamma-0.5_Version-1
+2023-01-06 23:57:45,639 - main - INFO - Epoch 1/5000
+2023-01-06 23:57:45,639 - main - INFO - ----------------------------
+2023-01-06 23:57:45,640 - main - INFO - training...
+2023-01-07 00:05:47,635 - main - DEBUG - Batch 500: running loss = 424859.7440
+2023-01-07 00:06:41,750 - main - INFO - Epoch 1 - train: epoch loss = 796.8367
+2023-01-07 00:06:41,751 - main - INFO - validating...
+2023-01-07 00:09:27,173 - main - INFO - Epoch 1 - val: epoch loss = 312.4969
+2023-01-07 00:09:27,351 - main - INFO - Saved the best model at epoch 1.
+2023-01-07 00:09:27,352 - main - INFO - Epoch 2/5000
+2023-01-07 00:09:27,353 - main - INFO - ----------------------------
+2023-01-07 00:09:27,354 - main - INFO - training...
+2023-01-07 00:16:59,802 - main - DEBUG - Batch 500: running loss = 114828.3186
+2023-01-07 00:17:49,516 - main - INFO - Epoch 2 - train: epoch loss = 223.6658
+2023-01-07 00:17:49,516 - main - INFO - validating...
+2023-01-07 00:20:23,231 - main - INFO - Epoch 2 - val: epoch loss = 170.5931
+2023-01-07 00:20:23,414 - main - INFO - Saved the best model at epoch 2.
+2023-01-07 00:20:23,414 - main - INFO - Epoch 3/5000
+2023-01-07 00:20:23,419 - main - INFO - ----------------------------
+2023-01-07 00:20:23,420 - main - INFO - training...
+2023-01-07 00:27:53,341 - main - DEBUG - Batch 500: running loss = 71468.9111
+2023-01-07 00:28:43,280 - main - INFO - Epoch 3 - train: epoch loss = 140.7454
+2023-01-07 00:28:43,280 - main - INFO - validating...
+2023-01-07 00:31:16,688 - main - INFO - Epoch 3 - val: epoch loss = 124.2907
+2023-01-07 00:31:16,855 - main - INFO - Saved the best model at epoch 3.
+2023-01-07 00:31:16,855 - main - INFO - Epoch 4/5000
+2023-01-07 00:31:16,860 - main - INFO - ----------------------------
+2023-01-07 00:31:16,862 - main - INFO - training...
+2023-01-07 00:38:44,405 - main - DEBUG - Batch 500: running loss = 54456.3591
+2023-01-07 00:39:34,584 - main - INFO - Epoch 4 - train: epoch loss = 107.7540
+2023-01-07 00:39:34,585 - main - INFO - validating...
+2023-01-07 00:42:08,035 - main - INFO - Epoch 4 - val: epoch loss = 101.7946
+2023-01-07 00:42:08,202 - main - INFO - Saved the best model at epoch 4.
+2023-01-07 00:42:08,202 - main - INFO - Epoch 5/5000
+2023-01-07 00:42:08,212 - main - INFO - ----------------------------
+2023-01-07 00:42:08,213 - main - INFO - training...
+2023-01-07 00:49:35,412 - main - DEBUG - Batch 500: running loss = 45474.5629
+2023-01-07 00:50:25,471 - main - INFO - Epoch 5 - train: epoch loss = 90.2735
+2023-01-07 00:50:25,471 - main - INFO - validating...
+2023-01-07 00:52:59,219 - main - INFO - Epoch 5 - val: epoch loss = 89.1334
+2023-01-07 00:52:59,386 - main - INFO - Saved the best model at epoch 5.
+2023-01-07 00:52:59,386 - main - INFO - Epoch 6/5000
+2023-01-07 00:52:59,391 - main - INFO - ----------------------------
+2023-01-07 00:52:59,392 - main - INFO - training...
+2023-01-07 01:00:26,868 - main - DEBUG - Batch 500: running loss = 40052.9725
+2023-01-07 01:01:16,879 - main - INFO - Epoch 6 - train: epoch loss = 79.6221
+2023-01-07 01:01:16,879 - main - INFO - validating...
+2023-01-07 01:03:50,260 - main - INFO - Epoch 6 - val: epoch loss = 81.6053
+2023-01-07 01:03:50,427 - main - INFO - Saved the best model at epoch 6.
+2023-01-07 01:03:50,427 - main - INFO - Epoch 7/5000
+2023-01-07 01:03:50,432 - main - INFO - ----------------------------
+2023-01-07 01:03:50,433 - main - INFO - training...
+2023-01-07 01:11:17,877 - main - DEBUG - Batch 500: running loss = 36395.3769
+2023-01-07 01:12:08,063 - main - INFO - Epoch 7 - train: epoch loss = 72.5313
+2023-01-07 01:12:08,063 - main - INFO - validating...
+2023-01-07 01:14:41,750 - main - INFO - Epoch 7 - val: epoch loss = 75.8603
+2023-01-07 01:14:41,907 - main - INFO - Saved the best model at epoch 7.
+2023-01-07 01:14:41,907 - main - INFO - Epoch 8/5000
+2023-01-07 01:14:41,918 - main - INFO - ----------------------------
+2023-01-07 01:14:41,919 - main - INFO - training...
+2023-01-07 01:22:09,411 - main - DEBUG - Batch 500: running loss = 33865.3350
+2023-01-07 01:22:59,210 - main - INFO - Epoch 8 - train: epoch loss = 67.4933
+2023-01-07 01:22:59,210 - main - INFO - validating...
+2023-01-07 01:25:32,524 - main - INFO - Epoch 8 - val: epoch loss = 71.4749
+2023-01-07 01:25:32,691 - main - INFO - Saved the best model at epoch 8.
+2023-01-07 01:25:32,691 - main - INFO - Epoch 9/5000
+2023-01-07 01:25:32,695 - main - INFO - ----------------------------
+2023-01-07 01:25:32,696 - main - INFO - training...
+2023-01-07 01:33:01,641 - main - DEBUG - Batch 500: running loss = 32030.1019
+2023-01-07 01:33:51,650 - main - INFO - Epoch 9 - train: epoch loss = 63.7776
+2023-01-07 01:33:51,657 - main - INFO - validating...
+2023-01-07 01:36:25,382 - main - INFO - Epoch 9 - val: epoch loss = 68.4838
+2023-01-07 01:36:25,549 - main - INFO - Saved the best model at epoch 9.
+2023-01-07 01:36:25,549 - main - INFO - Epoch 10/5000
+2023-01-07 01:36:25,552 - main - INFO - ----------------------------
+2023-01-07 01:36:25,552 - main - INFO - training...
+2023-01-07 01:43:52,492 - main - DEBUG - Batch 500: running loss = 30558.8478
+2023-01-07 01:44:42,798 - main - INFO - Epoch 10 - train: epoch loss = 60.9208
+2023-01-07 01:44:42,798 - main - INFO - validating...
+2023-01-07 01:47:16,179 - main - INFO - Epoch 10 - val: epoch loss = 65.9707
+2023-01-07 01:47:16,346 - main - INFO - Saved the best model at epoch 10.
+2023-01-07 01:47:16,354 - main - INFO - Epoch 11/5000
+2023-01-07 01:47:16,354 - main - INFO - ----------------------------
+2023-01-07 01:47:16,356 - main - INFO - training...
+2023-01-07 01:54:43,366 - main - DEBUG - Batch 500: running loss = 29401.0252
+2023-01-07 01:55:33,688 - main - INFO - Epoch 11 - train: epoch loss = 58.7035
+2023-01-07 01:55:33,696 - main - INFO - validating...
+2023-01-07 01:58:07,653 - main - INFO - Epoch 11 - val: epoch loss = 64.0737
+2023-01-07 01:58:07,830 - main - INFO - Saved the best model at epoch 11.
+2023-01-07 01:58:07,832 - main - INFO - Epoch 12/5000
+2023-01-07 01:58:07,832 - main - INFO - ----------------------------
+2023-01-07 01:58:07,833 - main - INFO - training...
+2023-01-07 02:05:35,230 - main - DEBUG - Batch 500: running loss = 28537.0669
+2023-01-07 02:06:25,246 - main - INFO - Epoch 12 - train: epoch loss = 56.9023
+2023-01-07 02:06:25,246 - main - INFO - validating...
+2023-01-07 02:08:58,743 - main - INFO - Epoch 12 - val: epoch loss = 62.6929
+2023-01-07 02:08:58,910 - main - INFO - Saved the best model at epoch 12.
+2023-01-07 02:08:58,910 - main - INFO - Epoch 13/5000
+2023-01-07 02:08:58,920 - main - INFO - ----------------------------
+2023-01-07 02:08:58,921 - main - INFO - training...
+2023-01-07 02:16:26,770 - main - DEBUG - Batch 500: running loss = 27831.1744
+2023-01-07 02:17:16,753 - main - INFO - Epoch 13 - train: epoch loss = 55.4449
+2023-01-07 02:17:16,763 - main - INFO - validating...
+2023-01-07 02:19:50,327 - main - INFO - Epoch 13 - val: epoch loss = 61.4551
+2023-01-07 02:19:50,501 - main - INFO - Saved the best model at epoch 13.
+2023-01-07 02:19:50,501 - main - INFO - Epoch 14/5000
+2023-01-07 02:19:50,506 - main - INFO - ----------------------------
+2023-01-07 02:19:50,506 - main - INFO - training...
+2023-01-07 02:27:40,237 - main - DEBUG - Batch 500: running loss = 27234.6110
+2023-01-07 02:28:34,253 - main - INFO - Epoch 14 - train: epoch loss = 54.2493
+2023-01-07 02:28:34,254 - main - INFO - validating...
+2023-01-07 02:31:20,634 - main - INFO - Epoch 14 - val: epoch loss = 60.2026
+2023-01-07 02:31:20,801 - main - INFO - Saved the best model at epoch 14.
+2023-01-07 02:31:20,801 - main - INFO - Epoch 15/5000
+2023-01-07 02:31:20,809 - main - INFO - ----------------------------
+2023-01-07 02:31:20,811 - main - INFO - training...
+2023-01-07 02:38:56,844 - main - DEBUG - Batch 500: running loss = 26595.3511
+2023-01-07 02:39:47,810 - main - INFO - Epoch 15 - train: epoch loss = 53.2011
+2023-01-07 02:39:47,817 - main - INFO - validating...
+2023-01-07 02:42:21,657 - main - INFO - Epoch 15 - val: epoch loss = 59.3955
+2023-01-07 02:42:21,825 - main - INFO - Saved the best model at epoch 15.
+2023-01-07 02:42:21,825 - main - INFO - Epoch 16/5000
+2023-01-07 02:42:21,826 - main - INFO - ----------------------------
+2023-01-07 02:42:21,828 - main - INFO - training...
+2023-01-07 02:49:49,241 - main - DEBUG - Batch 500: running loss = 26221.5487
+2023-01-07 02:50:39,034 - main - INFO - Epoch 16 - train: epoch loss = 52.3232
+2023-01-07 02:50:39,034 - main - INFO - validating...
+2023-01-07 02:53:12,888 - main - INFO - Epoch 16 - val: epoch loss = 58.7683
+2023-01-07 02:53:13,055 - main - INFO - Saved the best model at epoch 16.
+2023-01-07 02:53:13,055 - main - INFO - Epoch 17/5000
+2023-01-07 02:53:13,066 - main - INFO - ----------------------------
+2023-01-07 02:53:13,068 - main - INFO - training...
+2023-01-07 03:00:40,682 - main - DEBUG - Batch 500: running loss = 25849.2912
+2023-01-07 03:01:30,841 - main - INFO - Epoch 17 - train: epoch loss = 51.5948
+2023-01-07 03:01:30,848 - main - INFO - validating...
+2023-01-07 03:04:04,245 - main - INFO - Epoch 17 - val: epoch loss = 58.0199
+2023-01-07 03:04:04,419 - main - INFO - Saved the best model at epoch 17.
+2023-01-07 03:04:04,420 - main - INFO - Epoch 18/5000
+2023-01-07 03:04:04,421 - main - INFO - ----------------------------
+2023-01-07 03:04:04,422 - main - INFO - training...
+2023-01-07 03:11:32,198 - main - DEBUG - Batch 500: running loss = 25463.1125
+2023-01-07 03:12:22,265 - main - INFO - Epoch 18 - train: epoch loss = 50.9497
+2023-01-07 03:12:22,265 - main - INFO - validating...
+2023-01-07 03:14:56,112 - main - INFO - Epoch 18 - val: epoch loss = 57.3537
+2023-01-07 03:14:56,286 - main - INFO - Saved the best model at epoch 18.
+2023-01-07 03:14:56,288 - main - INFO - Epoch 19/5000
+2023-01-07 03:14:56,288 - main - INFO - ----------------------------
+2023-01-07 03:14:56,289 - main - INFO - training...
+2023-01-07 03:22:23,223 - main - DEBUG - Batch 500: running loss = 25261.0006
+2023-01-07 03:23:13,394 - main - INFO - Epoch 19 - train: epoch loss = 50.3964
+2023-01-07 03:23:13,395 - main - INFO - validating...
+2023-01-07 03:25:47,170 - main - INFO - Epoch 19 - val: epoch loss = 56.9136
+2023-01-07 03:25:47,337 - main - INFO - Saved the best model at epoch 19.
+2023-01-07 03:25:47,339 - main - INFO - Epoch 20/5000
+2023-01-07 03:25:47,339 - main - INFO - ----------------------------
+2023-01-07 03:25:47,340 - main - INFO - training...
+2023-01-07 03:33:14,713 - main - DEBUG - Batch 500: running loss = 25012.9461
+2023-01-07 03:34:05,162 - main - INFO - Epoch 20 - train: epoch loss = 49.9153
+2023-01-07 03:34:05,162 - main - INFO - validating...
+2023-01-07 03:36:38,784 - main - INFO - Epoch 20 - val: epoch loss = 56.4594
+2023-01-07 03:36:38,951 - main - INFO - Saved the best model at epoch 20.
+2023-01-07 03:36:38,961 - main - INFO - Epoch 21/5000
+2023-01-07 03:36:38,962 - main - INFO - ----------------------------
+2023-01-07 03:36:38,963 - main - INFO - training...
+2023-01-07 03:44:06,311 - main - DEBUG - Batch 500: running loss = 24780.9752
+2023-01-07 03:44:56,434 - main - INFO - Epoch 21 - train: epoch loss = 49.4945
+2023-01-07 03:44:56,435 - main - INFO - validating...
+2023-01-07 03:47:30,091 - main - INFO - Epoch 21 - val: epoch loss = 56.0654
+2023-01-07 03:47:30,258 - main - INFO - Saved the best model at epoch 21.
+2023-01-07 03:47:30,259 - main - INFO - Epoch 22/5000
+2023-01-07 03:47:30,259 - main - INFO - ----------------------------
+2023-01-07 03:47:30,261 - main - INFO - training...
+2023-01-07 03:54:58,078 - main - DEBUG - Batch 500: running loss = 24544.0931
+2023-01-07 03:55:47,949 - main - INFO - Epoch 22 - train: epoch loss = 49.0961
+2023-01-07 03:55:47,950 - main - INFO - validating...
+2023-01-07 03:58:21,591 - main - INFO - Epoch 22 - val: epoch loss = 55.6402
+2023-01-07 03:58:21,758 - main - INFO - Saved the best model at epoch 22.
+2023-01-07 03:58:21,761 - main - INFO - Epoch 23/5000
+2023-01-07 03:58:21,761 - main - INFO - ----------------------------
+2023-01-07 03:58:21,762 - main - INFO - training...
+2023-01-07 04:05:49,185 - main - DEBUG - Batch 500: running loss = 24373.8200
+2023-01-07 04:06:39,429 - main - INFO - Epoch 23 - train: epoch loss = 48.7779
+2023-01-07 04:06:39,430 - main - INFO - validating...
+2023-01-07 04:09:13,248 - main - INFO - Epoch 23 - val: epoch loss = 55.4326
+2023-01-07 04:09:13,417 - main - INFO - Saved the best model at epoch 23.
+2023-01-07 04:09:13,419 - main - INFO - Epoch 24/5000
+2023-01-07 04:09:13,421 - main - INFO - ----------------------------
+2023-01-07 04:09:13,424 - main - INFO - training...
+2023-01-07 04:16:41,059 - main - DEBUG - Batch 500: running loss = 24256.5553
+2023-01-07 04:17:31,115 - main - INFO - Epoch 24 - train: epoch loss = 48.4526
+2023-01-07 04:17:31,115 - main - INFO - validating...
+2023-01-07 04:20:04,539 - main - INFO - Epoch 24 - val: epoch loss = 55.1957
+2023-01-07 04:20:04,706 - main - INFO - Saved the best model at epoch 24.
+2023-01-07 04:20:04,708 - main - INFO - Epoch 25/5000
+2023-01-07 04:20:04,708 - main - INFO - ----------------------------
+2023-01-07 04:20:04,709 - main - INFO - training...
+2023-01-07 04:27:32,466 - main - DEBUG - Batch 500: running loss = 24085.3868
+2023-01-07 04:28:22,222 - main - INFO - Epoch 25 - train: epoch loss = 48.1533
+2023-01-07 04:28:22,225 - main - INFO - validating...
+2023-01-07 04:30:56,196 - main - INFO - Epoch 25 - val: epoch loss = 54.9036
+2023-01-07 04:30:56,368 - main - INFO - Saved the best model at epoch 25.
+2023-01-07 04:30:56,369 - main - INFO - Epoch 26/5000
+2023-01-07 04:30:56,370 - main - INFO - ----------------------------
+2023-01-07 04:30:56,371 - main - INFO - training...
+2023-01-07 04:38:23,996 - main - DEBUG - Batch 500: running loss = 24043.0221
+2023-01-07 04:39:13,789 - main - INFO - Epoch 26 - train: epoch loss = 47.9176
+2023-01-07 04:39:13,789 - main - INFO - validating...
+2023-01-07 04:41:47,227 - main - INFO - Epoch 26 - val: epoch loss = 54.7311
+2023-01-07 04:41:47,394 - main - INFO - Saved the best model at epoch 26.
+2023-01-07 04:41:47,400 - main - INFO - Epoch 27/5000
+2023-01-07 04:41:47,400 - main - INFO - ----------------------------
+2023-01-07 04:41:47,402 - main - INFO - training...
+2023-01-07 04:49:16,004 - main - DEBUG - Batch 500: running loss = 23850.6029
+2023-01-07 04:50:05,986 - main - INFO - Epoch 27 - train: epoch loss = 47.6749
+2023-01-07 04:50:05,986 - main - INFO - validating...
+2023-01-07 04:52:39,634 - main - INFO - Epoch 27 - val: epoch loss = 54.4301
+2023-01-07 04:52:39,801 - main - INFO - Saved the best model at epoch 27.
+2023-01-07 04:52:39,803 - main - INFO - Epoch 28/5000
+2023-01-07 04:52:39,803 - main - INFO - ----------------------------
+2023-01-07 04:52:39,804 - main - INFO - training...
+2023-01-07 05:00:07,237 - main - DEBUG - Batch 500: running loss = 23759.7684
+2023-01-07 05:00:57,087 - main - INFO - Epoch 28 - train: epoch loss = 47.4869
+2023-01-07 05:00:57,087 - main - INFO - validating...
+2023-01-07 05:03:30,884 - main - INFO - Epoch 28 - val: epoch loss = 54.3936
+2023-01-07 05:03:31,051 - main - INFO - Saved the best model at epoch 28.
+2023-01-07 05:03:31,058 - main - INFO - Epoch 29/5000
+2023-01-07 05:03:31,059 - main - INFO - ----------------------------
+2023-01-07 05:03:31,062 - main - INFO - training...
+2023-01-07 05:10:58,785 - main - DEBUG - Batch 500: running loss = 23645.2617
+2023-01-07 05:11:49,160 - main - INFO - Epoch 29 - train: epoch loss = 47.2791
+2023-01-07 05:11:49,160 - main - INFO - validating...
+2023-01-07 05:14:22,848 - main - INFO - Epoch 29 - val: epoch loss = 54.1853
+2023-01-07 05:14:23,015 - main - INFO - Saved the best model at epoch 29.
+2023-01-07 05:14:23,015 - main - INFO - Epoch 30/5000
+2023-01-07 05:14:23,021 - main - INFO - ----------------------------
+2023-01-07 05:14:23,022 - main - INFO - training...
+2023-01-07 05:21:50,685 - main - DEBUG - Batch 500: running loss = 23645.6866
+2023-01-07 05:22:40,858 - main - INFO - Epoch 30 - train: epoch loss = 47.1217
+2023-01-07 05:22:40,858 - main - INFO - validating...
+2023-01-07 05:25:14,499 - main - INFO - Epoch 30 - val: epoch loss = 53.9219
+2023-01-07 05:25:14,656 - main - INFO - Saved the best model at epoch 30.
+2023-01-07 05:25:14,666 - main - INFO - Epoch 31/5000
+2023-01-07 05:25:14,666 - main - INFO - ----------------------------
+2023-01-07 05:25:14,668 - main - INFO - training...
+2023-01-07 05:32:41,742 - main - DEBUG - Batch 500: running loss = 23492.4166
+2023-01-07 05:33:31,825 - main - INFO - Epoch 31 - train: epoch loss = 46.9672
+2023-01-07 05:33:31,825 - main - INFO - validating...
+2023-01-07 05:36:05,229 - main - INFO - Epoch 31 - val: epoch loss = 53.9178
+2023-01-07 05:36:05,406 - main - INFO - Saved the best model at epoch 31.
+2023-01-07 05:36:05,413 - main - INFO - Epoch 32/5000
+2023-01-07 05:36:05,414 - main - INFO - ----------------------------
+2023-01-07 05:36:05,415 - main - INFO - training...
+2023-01-07 05:43:32,823 - main - DEBUG - Batch 500: running loss = 23439.4389
+2023-01-07 05:44:22,655 - main - INFO - Epoch 32 - train: epoch loss = 46.8369
+2023-01-07 05:44:22,655 - main - INFO - validating...
+2023-01-07 05:46:56,486 - main - INFO - Epoch 32 - val: epoch loss = 53.7097
+2023-01-07 05:46:56,653 - main - INFO - Saved the best model at epoch 32.
+2023-01-07 05:46:56,657 - main - INFO - Epoch 33/5000
+2023-01-07 05:46:56,657 - main - INFO - ----------------------------
+2023-01-07 05:46:56,658 - main - INFO - training...
+2023-01-07 05:54:23,547 - main - DEBUG - Batch 500: running loss = 23368.7310
+2023-01-07 05:55:13,589 - main - INFO - Epoch 33 - train: epoch loss = 46.6792
+2023-01-07 05:55:13,589 - main - INFO - validating...
+2023-01-07 05:57:47,060 - main - INFO - Epoch 33 - val: epoch loss = 53.6185
+2023-01-07 05:57:47,227 - main - INFO - Saved the best model at epoch 33.
+2023-01-07 05:57:47,237 - main - INFO - Epoch 34/5000
+2023-01-07 05:57:47,237 - main - INFO - ----------------------------
+2023-01-07 05:57:47,239 - main - INFO - training...
+2023-01-07 06:05:14,730 - main - DEBUG - Batch 500: running loss = 23303.5467
+2023-01-07 06:06:05,047 - main - INFO - Epoch 34 - train: epoch loss = 46.5352
+2023-01-07 06:06:05,047 - main - INFO - validating...
+2023-01-07 06:08:38,401 - main - INFO - Epoch 34 - val: epoch loss = 53.4546
+2023-01-07 06:08:38,568 - main - INFO - Saved the best model at epoch 34.
+2023-01-07 06:08:38,568 - main - INFO - Epoch 35/5000
+2023-01-07 06:08:38,573 - main - INFO - ----------------------------
+2023-01-07 06:08:38,574 - main - INFO - training...
+2023-01-07 06:16:05,941 - main - DEBUG - Batch 500: running loss = 23193.7418
+2023-01-07 06:16:56,144 - main - INFO - Epoch 35 - train: epoch loss = 46.4337
+2023-01-07 06:16:56,144 - main - INFO - validating...
+2023-01-07 06:19:29,908 - main - INFO - Epoch 35 - val: epoch loss = 53.4110
+2023-01-07 06:19:30,075 - main - INFO - Saved the best model at epoch 35.
+2023-01-07 06:19:30,084 - main - INFO - Epoch 36/5000
+2023-01-07 06:19:30,085 - main - INFO - ----------------------------
+2023-01-07 06:19:30,086 - main - INFO - training...
+2023-01-07 06:26:57,685 - main - DEBUG - Batch 500: running loss = 23188.9912
+2023-01-07 06:27:47,925 - main - INFO - Epoch 36 - train: epoch loss = 46.3275
+2023-01-07 06:27:47,927 - main - INFO - validating...
+2023-01-07 06:30:21,215 - main - INFO - Epoch 36 - val: epoch loss = 53.3197
+2023-01-07 06:30:21,382 - main - INFO - Saved the best model at epoch 36.
+2023-01-07 06:30:21,382 - main - INFO - Epoch 37/5000
+2023-01-07 06:30:21,390 - main - INFO - ----------------------------
+2023-01-07 06:30:21,393 - main - INFO - training...
+2023-01-07 06:37:48,402 - main - DEBUG - Batch 500: running loss = 23145.5558
+2023-01-07 06:38:38,468 - main - INFO - Epoch 37 - train: epoch loss = 46.2184
+2023-01-07 06:38:38,468 - main - INFO - validating...
+2023-01-07 06:41:12,006 - main - INFO - Epoch 37 - val: epoch loss = 53.1756
+2023-01-07 06:41:12,173 - main - INFO - Saved the best model at epoch 37.
+2023-01-07 06:41:12,183 - main - INFO - Epoch 38/5000
+2023-01-07 06:41:12,183 - main - INFO - ----------------------------
+2023-01-07 06:41:12,185 - main - INFO - training...
+2023-01-07 06:48:39,349 - main - DEBUG - Batch 500: running loss = 23100.2414
+2023-01-07 06:49:29,265 - main - INFO - Epoch 38 - train: epoch loss = 46.1683
+2023-01-07 06:49:29,274 - main - INFO - validating...
+2023-01-07 06:52:02,596 - main - INFO - Epoch 38 - val: epoch loss = 53.0883
+2023-01-07 06:52:02,764 - main - INFO - Saved the best model at epoch 38.
+2023-01-07 06:52:02,774 - main - INFO - Epoch 39/5000
+2023-01-07 06:52:02,775 - main - INFO - ----------------------------
+2023-01-07 06:52:02,776 - main - INFO - training...
+2023-01-07 06:59:30,467 - main - DEBUG - Batch 500: running loss = 23102.2427
+2023-01-07 07:00:20,189 - main - INFO - Epoch 39 - train: epoch loss = 46.0242
+2023-01-07 07:00:20,199 - main - INFO - validating...
+2023-01-07 07:02:53,737 - main - INFO - Epoch 39 - val: epoch loss = 53.0519
+2023-01-07 07:02:53,904 - main - INFO - Saved the best model at epoch 39.
+2023-01-07 07:02:53,907 - main - INFO - Epoch 40/5000
+2023-01-07 07:02:53,907 - main - INFO - ----------------------------
+2023-01-07 07:02:53,909 - main - INFO - training...
+2023-01-07 07:10:21,147 - main - DEBUG - Batch 500: running loss = 22993.4111
+2023-01-07 07:11:11,290 - main - INFO - Epoch 40 - train: epoch loss = 45.9850
+2023-01-07 07:11:11,290 - main - INFO - validating...
+2023-01-07 07:13:44,949 - main - INFO - Epoch 40 - val: epoch loss = 52.9828
+2023-01-07 07:13:45,111 - main - INFO - Saved the best model at epoch 40.
+2023-01-07 07:13:45,119 - main - INFO - Epoch 41/5000
+2023-01-07 07:13:45,119 - main - INFO - ----------------------------
+2023-01-07 07:13:45,121 - main - INFO - training...
+2023-01-07 07:21:12,255 - main - DEBUG - Batch 500: running loss = 22925.3931
+2023-01-07 07:22:02,404 - main - INFO - Epoch 41 - train: epoch loss = 45.8754
+2023-01-07 07:22:02,404 - main - INFO - validating...
+2023-01-07 07:24:35,851 - main - INFO - Epoch 41 - val: epoch loss = 52.8596
+2023-01-07 07:24:36,035 - main - INFO - Saved the best model at epoch 41.
+2023-01-07 07:24:36,046 - main - INFO - Epoch 42/5000
+2023-01-07 07:24:36,046 - main - INFO - ----------------------------
+2023-01-07 07:24:36,047 - main - INFO - training...
+2023-01-07 07:32:03,128 - main - DEBUG - Batch 500: running loss = 22976.6426
+2023-01-07 07:32:53,307 - main - INFO - Epoch 42 - train: epoch loss = 45.8150
+2023-01-07 07:32:53,307 - main - INFO - validating...
+2023-01-07 07:35:26,960 - main - INFO - Epoch 42 - val: epoch loss = 52.8172
+2023-01-07 07:35:27,125 - main - INFO - Saved the best model at epoch 42.
+2023-01-07 07:35:27,136 - main - INFO - Epoch 43/5000
+2023-01-07 07:35:27,136 - main - INFO - ----------------------------
+2023-01-07 07:35:27,137 - main - INFO - training...
+2023-01-07 07:42:55,102 - main - DEBUG - Batch 500: running loss = 22975.2117
+2023-01-07 07:43:44,923 - main - INFO - Epoch 43 - train: epoch loss = 45.7224
+2023-01-07 07:43:44,923 - main - INFO - validating...
+2023-01-07 07:46:18,342 - main - INFO - Epoch 43 - val: epoch loss = 52.7579
+2023-01-07 07:46:18,509 - main - INFO - Saved the best model at epoch 43.
+2023-01-07 07:46:18,517 - main - INFO - Epoch 44/5000
+2023-01-07 07:46:18,517 - main - INFO - ----------------------------
+2023-01-07 07:46:18,520 - main - INFO - training...
+2023-01-07 07:53:45,976 - main - DEBUG - Batch 500: running loss = 22884.6529
+2023-01-07 07:54:36,252 - main - INFO - Epoch 44 - train: epoch loss = 45.6579
+2023-01-07 07:54:36,252 - main - INFO - validating...
+2023-01-07 07:57:10,023 - main - INFO - Epoch 44 - val: epoch loss = 52.7222
+2023-01-07 07:57:10,190 - main - INFO - Saved the best model at epoch 44.
+2023-01-07 07:57:10,199 - main - INFO - Epoch 45/5000
+2023-01-07 07:57:10,200 - main - INFO - ----------------------------
+2023-01-07 07:57:10,201 - main - INFO - training...
+2023-01-07 08:04:38,050 - main - DEBUG - Batch 500: running loss = 22780.4515
+2023-01-07 08:05:28,109 - main - INFO - Epoch 45 - train: epoch loss = 45.6130
+2023-01-07 08:05:28,109 - main - INFO - validating...
+2023-01-07 08:08:01,830 - main - INFO - Epoch 45 - val: epoch loss = 52.6698
+2023-01-07 08:08:02,014 - main - INFO - Saved the best model at epoch 45.
+2023-01-07 08:08:02,016 - main - INFO - Epoch 46/5000
+2023-01-07 08:08:02,016 - main - INFO - ----------------------------
+2023-01-07 08:08:02,017 - main - INFO - training...
+2023-01-07 08:15:29,762 - main - DEBUG - Batch 500: running loss = 22872.5691
+2023-01-07 08:16:19,733 - main - INFO - Epoch 46 - train: epoch loss = 45.6015
+2023-01-07 08:16:19,740 - main - INFO - validating...
+2023-01-07 08:18:53,554 - main - INFO - Epoch 46 - val: epoch loss = 52.6132
+2023-01-07 08:18:53,721 - main - INFO - Saved the best model at epoch 46.
+2023-01-07 08:18:53,721 - main - INFO - Epoch 47/5000
+2023-01-07 08:18:53,726 - main - INFO - ----------------------------
+2023-01-07 08:18:53,728 - main - INFO - training...
+2023-01-07 08:26:21,397 - main - DEBUG - Batch 500: running loss = 22813.1591
+2023-01-07 08:27:11,347 - main - INFO - Epoch 47 - train: epoch loss = 45.4760
+2023-01-07 08:27:11,351 - main - INFO - validating...
+2023-01-07 08:29:44,794 - main - INFO - Epoch 47 - val: epoch loss = 52.5282
+2023-01-07 08:29:44,962 - main - INFO - Saved the best model at epoch 47.
+2023-01-07 08:29:44,962 - main - INFO - Epoch 48/5000
+2023-01-07 08:29:44,972 - main - INFO - ----------------------------
+2023-01-07 08:29:44,975 - main - INFO - training...
+2023-01-07 08:37:13,442 - main - DEBUG - Batch 500: running loss = 22677.7060
+2023-01-07 08:38:03,747 - main - INFO - Epoch 48 - train: epoch loss = 45.4456
+2023-01-07 08:38:03,747 - main - INFO - validating...
+2023-01-07 08:40:37,395 - main - INFO - Epoch 48 - val: epoch loss = 52.4646
+2023-01-07 08:40:37,562 - main - INFO - Saved the best model at epoch 48.
+2023-01-07 08:40:37,562 - main - INFO - Epoch 49/5000
+2023-01-07 08:40:37,566 - main - INFO - ----------------------------
+2023-01-07 08:40:37,568 - main - INFO - training...
+2023-01-07 08:48:04,578 - main - DEBUG - Batch 500: running loss = 22686.3234
+2023-01-07 08:48:54,491 - main - INFO - Epoch 49 - train: epoch loss = 45.3767
+2023-01-07 08:48:54,492 - main - INFO - validating...
+2023-01-07 08:51:28,402 - main - INFO - Epoch 49 - val: epoch loss = 52.4343
+2023-01-07 08:51:28,569 - main - INFO - Saved the best model at epoch 49.
+2023-01-07 08:51:28,574 - main - INFO - Epoch 50/5000
+2023-01-07 08:51:28,574 - main - INFO - ----------------------------
+2023-01-07 08:51:28,576 - main - INFO - training...
+2023-01-07 08:58:56,295 - main - DEBUG - Batch 500: running loss = 22753.2157
+2023-01-07 08:59:46,051 - main - INFO - Epoch 50 - train: epoch loss = 45.3514
+2023-01-07 08:59:46,051 - main - INFO - validating...
+2023-01-07 09:02:19,632 - main - INFO - Epoch 50 - val: epoch loss = 52.3800
+2023-01-07 09:02:19,809 - main - INFO - Saved the best model at epoch 50.
+2023-01-07 09:02:19,809 - main - INFO - Epoch 51/5000
+2023-01-07 09:02:19,813 - main - INFO - ----------------------------
+2023-01-07 09:02:19,814 - main - INFO - training...
+2023-01-07 09:09:47,193 - main - DEBUG - Batch 500: running loss = 22633.8405
+2023-01-07 09:10:37,018 - main - INFO - Epoch 51 - train: epoch loss = 45.2831
+2023-01-07 09:10:37,018 - main - INFO - validating...
+2023-01-07 09:13:10,840 - main - INFO - Epoch 51 - val: epoch loss = 52.2955
+2023-01-07 09:13:11,016 - main - INFO - Saved the best model at epoch 51.
+2023-01-07 09:13:11,016 - main - INFO - Epoch 52/5000
+2023-01-07 09:13:11,019 - main - INFO - ----------------------------
+2023-01-07 09:13:11,021 - main - INFO - training...
+2023-01-07 09:20:38,510 - main - DEBUG - Batch 500: running loss = 22546.2480
+2023-01-07 09:21:28,577 - main - INFO - Epoch 52 - train: epoch loss = 45.2299
+2023-01-07 09:21:28,578 - main - INFO - validating...
+2023-01-07 09:24:02,030 - main - INFO - Epoch 52 - val: epoch loss = 52.3014
+2023-01-07 09:24:02,030 - main - INFO - Epoch 53/5000
+2023-01-07 09:24:02,038 - main - INFO - ----------------------------
+2023-01-07 09:24:02,038 - main - INFO - training...
+2023-01-07 09:31:29,157 - main - DEBUG - Batch 500: running loss = 22600.7958
+2023-01-07 09:32:19,457 - main - INFO - Epoch 53 - train: epoch loss = 45.1911
+2023-01-07 09:32:19,466 - main - INFO - validating...
+2023-01-07 09:34:53,264 - main - INFO - Epoch 53 - val: epoch loss = 52.2197
+2023-01-07 09:34:53,441 - main - INFO - Saved the best model at epoch 53.
+2023-01-07 09:34:53,442 - main - INFO - Epoch 54/5000
+2023-01-07 09:34:53,443 - main - INFO - ----------------------------
+2023-01-07 09:34:53,443 - main - INFO - training...
+2023-01-07 09:42:20,774 - main - DEBUG - Batch 500: running loss = 22604.3929
+2023-01-07 09:43:10,557 - main - INFO - Epoch 54 - train: epoch loss = 45.1624
+2023-01-07 09:43:10,557 - main - INFO - validating...
+2023-01-07 09:45:43,794 - main - INFO - Epoch 54 - val: epoch loss = 52.1967
+2023-01-07 09:45:43,974 - main - INFO - Saved the best model at epoch 54.
+2023-01-07 09:45:43,975 - main - INFO - Epoch 55/5000
+2023-01-07 09:45:43,975 - main - INFO - ----------------------------
+2023-01-07 09:45:43,976 - main - INFO - training...
+2023-01-07 09:53:11,348 - main - DEBUG - Batch 500: running loss = 22535.6238
+2023-01-07 09:54:01,504 - main - INFO - Epoch 55 - train: epoch loss = 45.0952
+2023-01-07 09:54:01,504 - main - INFO - validating...
+2023-01-07 09:56:35,135 - main - INFO - Epoch 55 - val: epoch loss = 52.1495
+2023-01-07 09:56:35,302 - main - INFO - Saved the best model at epoch 55.
+2023-01-07 09:56:35,302 - main - INFO - Epoch 56/5000
+2023-01-07 09:56:35,304 - main - INFO - ----------------------------
+2023-01-07 09:56:35,306 - main - INFO - training...
+2023-01-07 10:04:02,528 - main - DEBUG - Batch 500: running loss = 22565.7355
+2023-01-07 10:04:52,538 - main - INFO - Epoch 56 - train: epoch loss = 45.0548
+2023-01-07 10:04:52,538 - main - INFO - validating...
+2023-01-07 10:07:26,342 - main - INFO - Epoch 56 - val: epoch loss = 52.1209
+2023-01-07 10:07:26,509 - main - INFO - Saved the best model at epoch 56.
+2023-01-07 10:07:26,520 - main - INFO - Epoch 57/5000
+2023-01-07 10:07:26,520 - main - INFO - ----------------------------
+2023-01-07 10:07:26,521 - main - INFO - training...
+2023-01-07 10:14:54,586 - main - DEBUG - Batch 500: running loss = 22460.9734
+2023-01-07 10:15:44,752 - main - INFO - Epoch 57 - train: epoch loss = 45.0458
+2023-01-07 10:15:44,752 - main - INFO - validating...
+2023-01-07 10:18:18,083 - main - INFO - Epoch 57 - val: epoch loss = 52.0770
+2023-01-07 10:18:18,259 - main - INFO - Saved the best model at epoch 57.
+2023-01-07 10:18:18,259 - main - INFO - Epoch 58/5000
+2023-01-07 10:18:18,263 - main - INFO - ----------------------------
+2023-01-07 10:18:18,265 - main - INFO - training...
+2023-01-07 10:25:45,593 - main - DEBUG - Batch 500: running loss = 22479.3388
+2023-01-07 10:26:35,859 - main - INFO - Epoch 58 - train: epoch loss = 44.9996
+2023-01-07 10:26:35,859 - main - INFO - validating...
+2023-01-07 10:29:09,516 - main - INFO - Epoch 58 - val: epoch loss = 52.0329
+2023-01-07 10:29:09,673 - main - INFO - Saved the best model at epoch 58.
+2023-01-07 10:29:09,684 - main - INFO - Epoch 59/5000
+2023-01-07 10:29:09,684 - main - INFO - ----------------------------
+2023-01-07 10:29:09,686 - main - INFO - training...
+2023-01-07 10:36:37,860 - main - DEBUG - Batch 500: running loss = 22519.4279
+2023-01-07 10:37:27,776 - main - INFO - Epoch 59 - train: epoch loss = 44.9650
+2023-01-07 10:37:27,783 - main - INFO - validating...
+2023-01-07 10:40:01,197 - main - INFO - Epoch 59 - val: epoch loss = 51.9916
+2023-01-07 10:40:01,364 - main - INFO - Saved the best model at epoch 59.
+2023-01-07 10:40:01,374 - main - INFO - Epoch 60/5000
+2023-01-07 10:40:01,375 - main - INFO - ----------------------------
+2023-01-07 10:40:01,376 - main - INFO - training...
+2023-01-07 10:47:29,207 - main - DEBUG - Batch 500: running loss = 22427.1953
+2023-01-07 10:48:19,083 - main - INFO - Epoch 60 - train: epoch loss = 44.9071
+2023-01-07 10:48:19,083 - main - INFO - validating...
+2023-01-07 10:50:52,920 - main - INFO - Epoch 60 - val: epoch loss = 51.9758
+2023-01-07 10:50:53,081 - main - INFO - Saved the best model at epoch 60.
+2023-01-07 10:50:53,081 - main - INFO - Epoch 61/5000
+2023-01-07 10:50:53,088 - main - INFO - ----------------------------
+2023-01-07 10:50:53,090 - main - INFO - training...
+2023-01-07 10:58:19,814 - main - DEBUG - Batch 500: running loss = 22450.7933
+2023-01-07 10:59:09,780 - main - INFO - Epoch 61 - train: epoch loss = 44.8969
+2023-01-07 10:59:09,780 - main - INFO - validating...
+2023-01-07 11:01:43,254 - main - INFO - Epoch 61 - val: epoch loss = 51.9505
+2023-01-07 11:01:43,426 - main - INFO - Saved the best model at epoch 61.
+2023-01-07 11:01:43,426 - main - INFO - Epoch 62/5000
+2023-01-07 11:01:43,429 - main - INFO - ----------------------------
+2023-01-07 11:01:43,431 - main - INFO - training...
+2023-01-07 11:09:11,215 - main - DEBUG - Batch 500: running loss = 22387.2544
+2023-01-07 11:10:01,247 - main - INFO - Epoch 62 - train: epoch loss = 44.8629
+2023-01-07 11:10:01,247 - main - INFO - validating...
+2023-01-07 11:12:34,943 - main - INFO - Epoch 62 - val: epoch loss = 51.9262
+2023-01-07 11:12:35,102 - main - INFO - Saved the best model at epoch 62.
+2023-01-07 11:12:35,102 - main - INFO - Epoch 63/5000
+2023-01-07 11:12:35,112 - main - INFO - ----------------------------
+2023-01-07 11:12:35,114 - main - INFO - training...
+2023-01-07 11:20:02,329 - main - DEBUG - Batch 500: running loss = 22393.7746
+2023-01-07 11:20:52,378 - main - INFO - Epoch 63 - train: epoch loss = 44.8015
+2023-01-07 11:20:52,378 - main - INFO - validating...
+2023-01-07 11:23:26,135 - main - INFO - Epoch 63 - val: epoch loss = 51.8667
+2023-01-07 11:23:26,309 - main - INFO - Saved the best model at epoch 63.
+2023-01-07 11:23:26,311 - main - INFO - Epoch 64/5000
+2023-01-07 11:23:26,311 - main - INFO - ----------------------------
+2023-01-07 11:23:26,313 - main - INFO - training...
+2023-01-07 11:30:53,969 - main - DEBUG - Batch 500: running loss = 22411.4013
+2023-01-07 11:31:43,795 - main - INFO - Epoch 64 - train: epoch loss = 44.7831
+2023-01-07 11:31:43,795 - main - INFO - validating...
+2023-01-07 11:34:17,316 - main - INFO - Epoch 64 - val: epoch loss = 51.8243
+2023-01-07 11:34:17,483 - main - INFO - Saved the best model at epoch 64.
+2023-01-07 11:34:17,490 - main - INFO - Epoch 65/5000
+2023-01-07 11:34:17,491 - main - INFO - ----------------------------
+2023-01-07 11:34:17,492 - main - INFO - training...
+2023-01-07 11:41:45,043 - main - DEBUG - Batch 500: running loss = 22436.9047
+2023-01-07 11:42:35,275 - main - INFO - Epoch 65 - train: epoch loss = 44.7441
+2023-01-07 11:42:35,275 - main - INFO - validating...
+2023-01-07 11:45:08,723 - main - INFO - Epoch 65 - val: epoch loss = 51.7921
+2023-01-07 11:45:08,890 - main - INFO - Saved the best model at epoch 65.
+2023-01-07 11:45:08,899 - main - INFO - Epoch 66/5000
+2023-01-07 11:45:08,900 - main - INFO - ----------------------------
+2023-01-07 11:45:08,903 - main - INFO - training...
+2023-01-07 11:52:36,317 - main - DEBUG - Batch 500: running loss = 22390.2170
+2023-01-07 11:53:26,266 - main - INFO - Epoch 66 - train: epoch loss = 44.7277
+2023-01-07 11:53:26,266 - main - INFO - validating...
+2023-01-07 11:55:59,614 - main - INFO - Epoch 66 - val: epoch loss = 51.7624
+2023-01-07 11:55:59,781 - main - INFO - Saved the best model at epoch 66.
+2023-01-07 11:55:59,783 - main - INFO - Epoch 67/5000
+2023-01-07 11:55:59,783 - main - INFO - ----------------------------
+2023-01-07 11:55:59,790 - main - INFO - training...
+2023-01-07 12:03:26,790 - main - DEBUG - Batch 500: running loss = 22271.6190
+2023-01-07 12:04:16,756 - main - INFO - Epoch 67 - train: epoch loss = 44.6524
+2023-01-07 12:04:16,756 - main - INFO - validating...
+2023-01-07 12:06:50,687 - main - INFO - Epoch 67 - val: epoch loss = 51.7632
+2023-01-07 12:06:50,687 - main - INFO - Epoch 68/5000
+2023-01-07 12:06:50,692 - main - INFO - ----------------------------
+2023-01-07 12:06:50,692 - main - INFO - training...
+2023-01-07 12:14:17,881 - main - DEBUG - Batch 500: running loss = 22333.5243
+2023-01-07 12:15:07,880 - main - INFO - Epoch 68 - train: epoch loss = 44.6652
+2023-01-07 12:15:07,880 - main - INFO - validating...
+2023-01-07 12:17:41,255 - main - INFO - Epoch 68 - val: epoch loss = 51.7352
+2023-01-07 12:17:41,425 - main - INFO - Saved the best model at epoch 68.
+2023-01-07 12:17:41,428 - main - INFO - Epoch 69/5000
+2023-01-07 12:17:41,429 - main - INFO - ----------------------------
+2023-01-07 12:17:41,430 - main - INFO - training...
+2023-01-07 12:25:09,138 - main - DEBUG - Batch 500: running loss = 22301.6558
+2023-01-07 12:25:59,337 - main - INFO - Epoch 69 - train: epoch loss = 44.6146
+2023-01-07 12:25:59,337 - main - INFO - validating...
+2023-01-07 12:28:33,118 - main - INFO - Epoch 69 - val: epoch loss = 51.7018
+2023-01-07 12:28:33,285 - main - INFO - Saved the best model at epoch 69.
+2023-01-07 12:28:33,296 - main - INFO - Epoch 70/5000
+2023-01-07 12:28:33,296 - main - INFO - ----------------------------
+2023-01-07 12:28:33,298 - main - INFO - training...
+2023-01-07 12:36:00,912 - main - DEBUG - Batch 500: running loss = 22289.2774
+2023-01-07 12:36:50,828 - main - INFO - Epoch 70 - train: epoch loss = 44.5951
+2023-01-07 12:36:50,828 - main - INFO - validating...
+2023-01-07 12:39:24,636 - main - INFO - Epoch 70 - val: epoch loss = 51.6657
+2023-01-07 12:39:24,803 - main - INFO - Saved the best model at epoch 70.
+2023-01-07 12:39:24,808 - main - INFO - Epoch 71/5000
+2023-01-07 12:39:24,809 - main - INFO - ----------------------------
+2023-01-07 12:39:24,811 - main - INFO - training...
+2023-01-07 12:46:52,603 - main - DEBUG - Batch 500: running loss = 22229.5805
+2023-01-07 12:47:42,495 - main - INFO - Epoch 71 - train: epoch loss = 44.5766
+2023-01-07 12:47:42,496 - main - INFO - validating...
+2023-01-07 12:50:15,993 - main - INFO - Epoch 71 - val: epoch loss = 51.6129
+2023-01-07 12:50:16,166 - main - INFO - Saved the best model at epoch 71.
+2023-01-07 12:50:16,166 - main - INFO - Epoch 72/5000
+2023-01-07 12:50:16,168 - main - INFO - ----------------------------
+2023-01-07 12:50:16,170 - main - INFO - training...
+2023-01-07 12:57:43,670 - main - DEBUG - Batch 500: running loss = 22337.0453
+2023-01-07 12:58:33,776 - main - INFO - Epoch 72 - train: epoch loss = 44.5606
+2023-01-07 12:58:33,786 - main - INFO - validating...
+2023-01-07 13:01:07,333 - main - INFO - Epoch 72 - val: epoch loss = 51.6131
+2023-01-07 13:01:07,333 - main - INFO - Epoch 73/5000
+2023-01-07 13:01:07,336 - main - INFO - ----------------------------
+2023-01-07 13:01:07,336 - main - INFO - training...
+2023-01-07 13:08:34,567 - main - DEBUG - Batch 500: running loss = 22294.5423
+2023-01-07 13:09:24,776 - main - INFO - Epoch 73 - train: epoch loss = 44.5185
+2023-01-07 13:09:24,776 - main - INFO - validating...
+2023-01-07 13:11:58,580 - main - INFO - Epoch 73 - val: epoch loss = 51.5904
+2023-01-07 13:11:58,741 - main - INFO - Saved the best model at epoch 73.
+2023-01-07 13:11:58,749 - main - INFO - Epoch 74/5000
+2023-01-07 13:11:58,749 - main - INFO - ----------------------------
+2023-01-07 13:11:58,750 - main - INFO - training...
+2023-01-07 13:19:26,374 - main - DEBUG - Batch 500: running loss = 22248.8767
+2023-01-07 13:20:16,833 - main - INFO - Epoch 74 - train: epoch loss = 44.4912
+2023-01-07 13:20:16,833 - main - INFO - validating...
+2023-01-07 13:22:50,714 - main - INFO - Epoch 74 - val: epoch loss = 51.5580
+2023-01-07 13:22:50,881 - main - INFO - Saved the best model at epoch 74.
+2023-01-07 13:22:50,881 - main - INFO - Epoch 75/5000
+2023-01-07 13:22:50,886 - main - INFO - ----------------------------
+2023-01-07 13:22:50,888 - main - INFO - training...
+2023-01-07 13:30:18,715 - main - DEBUG - Batch 500: running loss = 22326.0492
+2023-01-07 13:31:08,314 - main - INFO - Epoch 75 - train: epoch loss = 44.4647
+2023-01-07 13:31:08,314 - main - INFO - validating...
+2023-01-07 13:33:41,628 - main - INFO - Epoch 75 - val: epoch loss = 51.5383
+2023-01-07 13:33:41,795 - main - INFO - Saved the best model at epoch 75.
+2023-01-07 13:33:41,795 - main - INFO - Epoch 76/5000
+2023-01-07 13:33:41,806 - main - INFO - ----------------------------
+2023-01-07 13:33:41,807 - main - INFO - training...
+2023-01-07 13:41:09,436 - main - DEBUG - Batch 500: running loss = 22214.3234
+2023-01-07 13:41:59,038 - main - INFO - Epoch 76 - train: epoch loss = 44.4670
+2023-01-07 13:41:59,040 - main - INFO - validating...
+2023-01-07 13:44:32,819 - main - INFO - Epoch 76 - val: epoch loss = 51.5005
+2023-01-07 13:44:32,985 - main - INFO - Saved the best model at epoch 76.
+2023-01-07 13:44:32,993 - main - INFO - Epoch 77/5000
+2023-01-07 13:44:32,993 - main - INFO - ----------------------------
+2023-01-07 13:44:32,995 - main - INFO - training...
+2023-01-07 13:52:00,105 - main - DEBUG - Batch 500: running loss = 22166.6592
+2023-01-07 13:52:50,161 - main - INFO - Epoch 77 - train: epoch loss = 44.4377
+2023-01-07 13:52:50,161 - main - INFO - validating...
+2023-01-07 13:55:23,992 - main - INFO - Epoch 77 - val: epoch loss = 51.4693
+2023-01-07 13:55:24,169 - main - INFO - Saved the best model at epoch 77.
+2023-01-07 13:55:24,171 - main - INFO - Epoch 78/5000
+2023-01-07 13:55:24,171 - main - INFO - ----------------------------
+2023-01-07 13:55:24,172 - main - INFO - training...
+2023-01-07 14:02:51,813 - main - DEBUG - Batch 500: running loss = 22196.0192
+2023-01-07 14:03:41,745 - main - INFO - Epoch 78 - train: epoch loss = 44.3836
+2023-01-07 14:03:41,745 - main - INFO - validating...
+2023-01-07 14:06:15,176 - main - INFO - Epoch 78 - val: epoch loss = 51.4676
+2023-01-07 14:06:15,350 - main - INFO - Saved the best model at epoch 78.
+2023-01-07 14:06:15,361 - main - INFO - Epoch 79/5000
+2023-01-07 14:06:15,361 - main - INFO - ----------------------------
+2023-01-07 14:06:15,362 - main - INFO - training...
+2023-01-07 14:13:42,049 - main - DEBUG - Batch 500: running loss = 22188.0143
+2023-01-07 14:14:32,447 - main - INFO - Epoch 79 - train: epoch loss = 44.3785
+2023-01-07 14:14:32,447 - main - INFO - validating...
+2023-01-07 14:17:06,483 - main - INFO - Epoch 79 - val: epoch loss = 51.4159
+2023-01-07 14:17:06,650 - main - INFO - Saved the best model at epoch 79.
+2023-01-07 14:17:06,650 - main - INFO - Epoch 80/5000
+2023-01-07 14:17:06,658 - main - INFO - ----------------------------
+2023-01-07 14:17:06,659 - main - INFO - training...
+2023-01-07 14:24:34,452 - main - DEBUG - Batch 500: running loss = 22133.6705
+2023-01-07 14:25:24,483 - main - INFO - Epoch 80 - train: epoch loss = 44.3441
+2023-01-07 14:25:24,483 - main - INFO - validating...
+2023-01-07 14:27:57,840 - main - INFO - Epoch 80 - val: epoch loss = 51.4201
+2023-01-07 14:27:57,847 - main - INFO - Epoch 81/5000
+2023-01-07 14:27:57,848 - main - INFO - ----------------------------
+2023-01-07 14:27:57,848 - main - INFO - training...
+2023-01-07 14:35:48,274 - main - DEBUG - Batch 500: running loss = 22120.3010
+2023-01-07 14:36:42,100 - main - INFO - Epoch 81 - train: epoch loss = 44.3157
+2023-01-07 14:36:42,107 - main - INFO - validating...
+2023-01-07 14:39:28,933 - main - INFO - Epoch 81 - val: epoch loss = 51.3744
+2023-01-07 14:39:29,097 - main - INFO - Saved the best model at epoch 81.
+2023-01-07 14:39:29,097 - main - INFO - Epoch 82/5000
+2023-01-07 14:39:29,104 - main - INFO - ----------------------------
+2023-01-07 14:39:29,106 - main - INFO - training...
+2023-01-07 14:47:08,231 - main - DEBUG - Batch 500: running loss = 22251.2789
+2023-01-07 14:48:01,093 - main - INFO - Epoch 82 - train: epoch loss = 44.3074
+2023-01-07 14:48:01,094 - main - INFO - validating...
+2023-01-07 14:50:34,671 - main - INFO - Epoch 82 - val: epoch loss = 51.3304
+2023-01-07 14:50:34,838 - main - INFO - Saved the best model at epoch 82.
+2023-01-07 14:50:34,838 - main - INFO - Epoch 83/5000
+2023-01-07 14:50:34,844 - main - INFO - ----------------------------
+2023-01-07 14:50:34,846 - main - INFO - training...
+2023-01-07 14:58:02,650 - main - DEBUG - Batch 500: running loss = 22120.8739
+2023-01-07 14:58:52,604 - main - INFO - Epoch 83 - train: epoch loss = 44.2671
+2023-01-07 14:58:52,614 - main - INFO - validating...
+2023-01-07 15:01:26,061 - main - INFO - Epoch 83 - val: epoch loss = 51.3022
+2023-01-07 15:01:26,228 - main - INFO - Saved the best model at epoch 83.
+2023-01-07 15:01:26,232 - main - INFO - Epoch 84/5000
+2023-01-07 15:01:26,232 - main - INFO - ----------------------------
+2023-01-07 15:01:26,234 - main - INFO - training...
+2023-01-07 15:08:53,528 - main - DEBUG - Batch 500: running loss = 22142.5951
+2023-01-07 15:09:43,504 - main - INFO - Epoch 84 - train: epoch loss = 44.3030
+2023-01-07 15:09:43,511 - main - INFO - validating...
+2023-01-07 15:12:17,325 - main - INFO - Epoch 84 - val: epoch loss = 51.2893
+2023-01-07 15:12:17,502 - main - INFO - Saved the best model at epoch 84.
+2023-01-07 15:12:17,504 - main - INFO - Epoch 85/5000
+2023-01-07 15:12:17,504 - main - INFO - ----------------------------
+2023-01-07 15:12:17,505 - main - INFO - training...
+2023-01-07 15:19:45,552 - main - DEBUG - Batch 500: running loss = 22207.7431
+2023-01-07 15:20:35,251 - main - INFO - Epoch 85 - train: epoch loss = 44.2527
+2023-01-07 15:20:35,251 - main - INFO - validating...
+2023-01-07 15:23:08,626 - main - INFO - Epoch 85 - val: epoch loss = 51.2927
+2023-01-07 15:23:08,632 - main - INFO - Epoch 86/5000
+2023-01-07 15:23:08,633 - main - INFO - ----------------------------
+2023-01-07 15:23:08,633 - main - INFO - training...
+2023-01-07 15:30:37,742 - main - DEBUG - Batch 500: running loss = 22100.1209
+2023-01-07 15:31:27,608 - main - INFO - Epoch 86 - train: epoch loss = 44.2268
+2023-01-07 15:31:27,608 - main - INFO - validating...
+2023-01-07 15:34:01,366 - main - INFO - Epoch 86 - val: epoch loss = 51.2497
+2023-01-07 15:34:01,533 - main - INFO - Saved the best model at epoch 86.
+2023-01-07 15:34:01,540 - main - INFO - Epoch 87/5000
+2023-01-07 15:34:01,540 - main - INFO - ----------------------------
+2023-01-07 15:34:01,543 - main - INFO - training...
+2023-01-07 15:41:29,926 - main - DEBUG - Batch 500: running loss = 22160.4945
+2023-01-07 15:42:20,375 - main - INFO - Epoch 87 - train: epoch loss = 44.1873
+2023-01-07 15:42:20,375 - main - INFO - validating...
+2023-01-07 15:44:53,797 - main - INFO - Epoch 87 - val: epoch loss = 51.2143
+2023-01-07 15:44:53,963 - main - INFO - Saved the best model at epoch 87.
+2023-01-07 15:44:53,973 - main - INFO - Epoch 88/5000
+2023-01-07 15:44:53,974 - main - INFO - ----------------------------
+2023-01-07 15:44:53,978 - main - INFO - training...
+2023-01-07 15:52:21,683 - main - DEBUG - Batch 500: running loss = 22105.8436
+2023-01-07 15:53:12,973 - main - INFO - Epoch 88 - train: epoch loss = 44.1862
+2023-01-07 15:53:12,973 - main - INFO - validating...
+2023-01-07 15:55:46,897 - main - INFO - Epoch 88 - val: epoch loss = 51.2194
+2023-01-07 15:55:46,904 - main - INFO - Epoch 89/5000
+2023-01-07 15:55:46,904 - main - INFO - ----------------------------
+2023-01-07 15:55:46,904 - main - INFO - training...
+2023-01-07 16:03:14,781 - main - DEBUG - Batch 500: running loss = 22127.0517
+2023-01-07 16:04:04,677 - main - INFO - Epoch 89 - train: epoch loss = 44.1573
+2023-01-07 16:04:04,678 - main - INFO - validating...
+2023-01-07 16:06:38,044 - main - INFO - Epoch 89 - val: epoch loss = 51.1856
+2023-01-07 16:06:38,211 - main - INFO - Saved the best model at epoch 89.
+2023-01-07 16:06:38,215 - main - INFO - Epoch 90/5000
+2023-01-07 16:06:38,215 - main - INFO - ----------------------------
+2023-01-07 16:06:38,216 - main - INFO - training...
+2023-01-07 16:14:06,231 - main - DEBUG - Batch 500: running loss = 22067.5586
+2023-01-07 16:14:56,454 - main - INFO - Epoch 90 - train: epoch loss = 44.1353
+2023-01-07 16:14:56,454 - main - INFO - validating...
+2023-01-07 16:17:30,368 - main - INFO - Epoch 90 - val: epoch loss = 51.1490
+2023-01-07 16:17:30,528 - main - INFO - Saved the best model at epoch 90.
+2023-01-07 16:17:30,528 - main - INFO - Epoch 91/5000
+2023-01-07 16:17:30,534 - main - INFO - ----------------------------
+2023-01-07 16:17:30,535 - main - INFO - training...
+2023-01-07 16:24:57,645 - main - DEBUG - Batch 500: running loss = 22031.5083
+2023-01-07 16:25:47,478 - main - INFO - Epoch 91 - train: epoch loss = 44.1422
+2023-01-07 16:25:47,478 - main - INFO - validating...
+2023-01-07 16:28:21,302 - main - INFO - Epoch 91 - val: epoch loss = 51.1574
+2023-01-07 16:28:21,302 - main - INFO - Epoch 92/5000
+2023-01-07 16:28:21,308 - main - INFO - ----------------------------
+2023-01-07 16:28:21,309 - main - INFO - training...
+2023-01-07 16:35:49,485 - main - DEBUG - Batch 500: running loss = 22013.6174
+2023-01-07 16:36:39,351 - main - INFO - Epoch 92 - train: epoch loss = 44.0719
+2023-01-07 16:36:39,351 - main - INFO - validating...
+2023-01-07 16:39:12,999 - main - INFO - Epoch 92 - val: epoch loss = 51.1287
+2023-01-07 16:39:13,177 - main - INFO - Saved the best model at epoch 92.
+2023-01-07 16:39:13,178 - main - INFO - Epoch 93/5000
+2023-01-07 16:39:13,179 - main - INFO - ----------------------------
+2023-01-07 16:39:13,181 - main - INFO - training...
+2023-01-07 16:46:41,253 - main - DEBUG - Batch 500: running loss = 22110.4158
+2023-01-07 16:47:31,225 - main - INFO - Epoch 93 - train: epoch loss = 44.0672
+2023-01-07 16:47:31,225 - main - INFO - validating...
+2023-01-07 16:50:04,956 - main - INFO - Epoch 93 - val: epoch loss = 51.0985
+2023-01-07 16:50:05,123 - main - INFO - Saved the best model at epoch 93.
+2023-01-07 16:50:05,123 - main - INFO - Epoch 94/5000
+2023-01-07 16:50:05,130 - main - INFO - ----------------------------
+2023-01-07 16:50:05,131 - main - INFO - training...
+2023-01-07 16:57:32,052 - main - DEBUG - Batch 500: running loss = 22027.6384
+2023-01-07 16:58:22,242 - main - INFO - Epoch 94 - train: epoch loss = 44.0758
+2023-01-07 16:58:22,242 - main - INFO - validating...
+2023-01-07 17:00:55,963 - main - INFO - Epoch 94 - val: epoch loss = 51.0489
+2023-01-07 17:00:56,130 - main - INFO - Saved the best model at epoch 94.
+2023-01-07 17:00:56,135 - main - INFO - Epoch 95/5000
+2023-01-07 17:00:56,135 - main - INFO - ----------------------------
+2023-01-07 17:00:56,143 - main - INFO - training...
+2023-01-07 17:08:23,957 - main - DEBUG - Batch 500: running loss = 21958.8704
+2023-01-07 17:09:14,373 - main - INFO - Epoch 95 - train: epoch loss = 44.0303
+2023-01-07 17:09:14,373 - main - INFO - validating...
+2023-01-07 17:11:48,320 - main - INFO - Epoch 95 - val: epoch loss = 51.0560
+2023-01-07 17:11:48,320 - main - INFO - Epoch 96/5000
+2023-01-07 17:11:48,325 - main - INFO - ----------------------------
+2023-01-07 17:11:48,325 - main - INFO - training...
+2023-01-07 17:19:16,665 - main - DEBUG - Batch 500: running loss = 22146.7852
+2023-01-07 17:20:06,597 - main - INFO - Epoch 96 - train: epoch loss = 44.0209
+2023-01-07 17:20:06,597 - main - INFO - validating...
+2023-01-07 17:22:40,254 - main - INFO - Epoch 96 - val: epoch loss = 51.0104
+2023-01-07 17:22:40,430 - main - INFO - Saved the best model at epoch 96.
+2023-01-07 17:22:40,431 - main - INFO - Epoch 97/5000
+2023-01-07 17:22:40,432 - main - INFO - ----------------------------
+2023-01-07 17:22:40,433 - main - INFO - training...
+2023-01-07 17:30:08,255 - main - DEBUG - Batch 500: running loss = 21972.4666
+2023-01-07 17:30:58,554 - main - INFO - Epoch 97 - train: epoch loss = 43.9887
+2023-01-07 17:30:58,554 - main - INFO - validating...
+2023-01-07 17:33:32,518 - main - INFO - Epoch 97 - val: epoch loss = 51.0094
+2023-01-07 17:33:32,688 - main - INFO - Saved the best model at epoch 97.
+2023-01-07 17:33:32,689 - main - INFO - Epoch 98/5000
+2023-01-07 17:33:32,690 - main - INFO - ----------------------------
+2023-01-07 17:33:32,691 - main - INFO - training...
+2023-01-07 17:41:00,088 - main - DEBUG - Batch 500: running loss = 22064.1950
+2023-01-07 17:41:50,361 - main - INFO - Epoch 98 - train: epoch loss = 43.9961
+2023-01-07 17:41:50,371 - main - INFO - validating...
+2023-01-07 17:44:24,525 - main - INFO - Epoch 98 - val: epoch loss = 50.9625
+2023-01-07 17:44:24,693 - main - INFO - Saved the best model at epoch 98.
+2023-01-07 17:44:24,703 - main - INFO - Epoch 99/5000
+2023-01-07 17:44:24,704 - main - INFO - ----------------------------
+2023-01-07 17:44:24,705 - main - INFO - training...
+2023-01-07 17:51:53,012 - main - DEBUG - Batch 500: running loss = 22003.2660
+2023-01-07 17:52:43,235 - main - INFO - Epoch 99 - train: epoch loss = 43.9475
+2023-01-07 17:52:43,235 - main - INFO - validating...
+2023-01-07 17:55:16,843 - main - INFO - Epoch 99 - val: epoch loss = 50.9803
+2023-01-07 17:55:16,843 - main - INFO - Epoch 100/5000
+2023-01-07 17:55:16,843 - main - INFO - ----------------------------
+2023-01-07 17:55:16,850 - main - INFO - training...
+2023-01-07 18:02:44,169 - main - DEBUG - Batch 500: running loss = 21981.5614
+2023-01-07 18:03:34,475 - main - INFO - Epoch 100 - train: epoch loss = 43.9834
+2023-01-07 18:03:34,475 - main - INFO - validating...
+2023-01-07 18:06:08,300 - main - INFO - Epoch 100 - val: epoch loss = 50.9438
+2023-01-07 18:06:08,457 - main - INFO - Saved the model at epoch 100.
+2023-01-07 18:06:08,677 - main - INFO - Saved the best model at epoch 100.
+2023-01-07 18:06:08,678 - main - INFO - Epoch 101/5000
+2023-01-07 18:06:08,679 - main - INFO - ----------------------------
+2023-01-07 18:06:08,680 - main - INFO - training...
+2023-01-07 18:13:36,664 - main - DEBUG - Batch 500: running loss = 22038.5578
+2023-01-07 18:14:26,449 - main - INFO - Epoch 101 - train: epoch loss = 43.9192
+2023-01-07 18:14:26,449 - main - INFO - validating...
+2023-01-07 18:17:00,024 - main - INFO - Epoch 101 - val: epoch loss = 50.8996
+2023-01-07 18:17:00,208 - main - INFO - Saved the best model at epoch 101.
+2023-01-07 18:17:00,209 - main - INFO - Epoch 102/5000
+2023-01-07 18:17:00,209 - main - INFO - ----------------------------
+2023-01-07 18:17:00,210 - main - INFO - training...
+2023-01-07 18:24:42,284 - main - DEBUG - Batch 500: running loss = 21984.8621
+2023-01-07 18:25:35,856 - main - INFO - Epoch 102 - train: epoch loss = 43.8981
+2023-01-07 18:25:35,865 - main - INFO - validating...
+2023-01-07 18:28:22,661 - main - INFO - Epoch 102 - val: epoch loss = 50.9066
+2023-01-07 18:28:22,662 - main - INFO - Epoch 103/5000
+2023-01-07 18:28:22,662 - main - INFO - ----------------------------
+2023-01-07 18:28:22,663 - main - INFO - training...
+2023-01-07 18:36:03,897 - main - DEBUG - Batch 500: running loss = 21919.5458
+2023-01-07 18:36:55,496 - main - INFO - Epoch 103 - train: epoch loss = 43.8657
+2023-01-07 18:36:55,496 - main - INFO - validating...
+2023-01-07 18:39:29,111 - main - INFO - Epoch 103 - val: epoch loss = 50.8896
+2023-01-07 18:39:29,278 - main - INFO - Saved the best model at epoch 103.
+2023-01-07 18:39:29,284 - main - INFO - Epoch 104/5000
+2023-01-07 18:39:29,284 - main - INFO - ----------------------------
+2023-01-07 18:39:29,285 - main - INFO - training...
+2023-01-07 18:46:57,471 - main - DEBUG - Batch 500: running loss = 22004.6039
+2023-01-07 18:47:47,404 - main - INFO - Epoch 104 - train: epoch loss = 43.8975
+2023-01-07 18:47:47,404 - main - INFO - validating...
+2023-01-07 18:50:21,194 - main - INFO - Epoch 104 - val: epoch loss = 50.8583
+2023-01-07 18:50:21,362 - main - INFO - Saved the best model at epoch 104.
+2023-01-07 18:50:21,363 - main - INFO - Epoch 105/5000
+2023-01-07 18:50:21,363 - main - INFO - ----------------------------
+2023-01-07 18:50:21,365 - main - INFO - training...
+2023-01-07 18:57:49,462 - main - DEBUG - Batch 500: running loss = 21970.8688
+2023-01-07 18:58:39,261 - main - INFO - Epoch 105 - train: epoch loss = 43.8561
+2023-01-07 18:58:39,261 - main - INFO - validating...
+2023-01-07 19:01:13,208 - main - INFO - Epoch 105 - val: epoch loss = 50.8521
+2023-01-07 19:01:13,375 - main - INFO - Saved the best model at epoch 105.
+2023-01-07 19:01:13,382 - main - INFO - Epoch 106/5000
+2023-01-07 19:01:13,382 - main - INFO - ----------------------------
+2023-01-07 19:01:13,383 - main - INFO - training...
+2023-01-07 19:08:41,502 - main - DEBUG - Batch 500: running loss = 21954.1507
+2023-01-07 19:09:31,518 - main - INFO - Epoch 106 - train: epoch loss = 43.8135
+2023-01-07 19:09:31,518 - main - INFO - validating...
+2023-01-07 19:12:05,299 - main - INFO - Epoch 106 - val: epoch loss = 50.7957
+2023-01-07 19:12:05,459 - main - INFO - Saved the best model at epoch 106.
+2023-01-07 19:12:05,466 - main - INFO - Epoch 107/5000
+2023-01-07 19:12:05,466 - main - INFO - ----------------------------
+2023-01-07 19:12:05,468 - main - INFO - training...
+2023-01-07 19:19:33,219 - main - DEBUG - Batch 500: running loss = 21922.1583
+2023-01-07 19:20:23,203 - main - INFO - Epoch 107 - train: epoch loss = 43.8590
+2023-01-07 19:20:23,204 - main - INFO - validating...
+2023-01-07 19:22:57,106 - main - INFO - Epoch 107 - val: epoch loss = 50.7632
+2023-01-07 19:22:57,273 - main - INFO - Saved the best model at epoch 107.
+2023-01-07 19:22:57,279 - main - INFO - Epoch 108/5000
+2023-01-07 19:22:57,279 - main - INFO - ----------------------------
+2023-01-07 19:22:57,280 - main - INFO - training...
+2023-01-07 19:30:25,216 - main - DEBUG - Batch 500: running loss = 21945.9486
+2023-01-07 19:31:15,195 - main - INFO - Epoch 108 - train: epoch loss = 43.8235
+2023-01-07 19:31:15,196 - main - INFO - validating...
+2023-01-07 19:33:48,763 - main - INFO - Epoch 108 - val: epoch loss = 50.7867
+2023-01-07 19:33:48,774 - main - INFO - Epoch 109/5000
+2023-01-07 19:33:48,774 - main - INFO - ----------------------------
+2023-01-07 19:33:48,775 - main - INFO - training...
+2023-01-07 19:41:16,333 - main - DEBUG - Batch 500: running loss = 21820.5651
+2023-01-07 19:42:06,484 - main - INFO - Epoch 109 - train: epoch loss = 43.7351
+2023-01-07 19:42:06,485 - main - INFO - validating...
+2023-01-07 19:44:40,187 - main - INFO - Epoch 109 - val: epoch loss = 50.7541
+2023-01-07 19:44:40,364 - main - INFO - Saved the best model at epoch 109.
+2023-01-07 19:44:40,366 - main - INFO - Epoch 110/5000
+2023-01-07 19:44:40,366 - main - INFO - ----------------------------
+2023-01-07 19:44:40,367 - main - INFO - training...
+2023-01-07 19:52:07,698 - main - DEBUG - Batch 500: running loss = 21828.0334
+2023-01-07 19:52:57,651 - main - INFO - Epoch 110 - train: epoch loss = 43.7381
+2023-01-07 19:52:57,652 - main - INFO - validating...
+2023-01-07 19:55:31,311 - main - INFO - Epoch 110 - val: epoch loss = 50.7394
+2023-01-07 19:55:31,478 - main - INFO - Saved the best model at epoch 110.
+2023-01-07 19:55:31,481 - main - INFO - Epoch 111/5000
+2023-01-07 19:55:31,481 - main - INFO - ----------------------------
+2023-01-07 19:55:31,483 - main - INFO - training...
+2023-01-07 20:02:58,988 - main - DEBUG - Batch 500: running loss = 21875.2432
+2023-01-07 20:03:48,947 - main - INFO - Epoch 111 - train: epoch loss = 43.7385
+2023-01-07 20:03:48,947 - main - INFO - validating...
+2023-01-07 20:06:22,656 - main - INFO - Epoch 111 - val: epoch loss = 50.6998
+2023-01-07 20:06:22,819 - main - INFO - Saved the best model at epoch 111.
+2023-01-07 20:06:22,825 - main - INFO - Epoch 112/5000
+2023-01-07 20:06:22,825 - main - INFO - ----------------------------
+2023-01-07 20:06:22,827 - main - INFO - training...
+2023-01-07 20:13:49,972 - main - DEBUG - Batch 500: running loss = 21790.9767
+2023-01-07 20:14:40,238 - main - INFO - Epoch 112 - train: epoch loss = 43.7103
+2023-01-07 20:14:40,238 - main - INFO - validating...
+2023-01-07 20:17:14,326 - main - INFO - Epoch 112 - val: epoch loss = 50.6762
+2023-01-07 20:17:14,492 - main - INFO - Saved the best model at epoch 112.
+2023-01-07 20:17:14,497 - main - INFO - Epoch 113/5000
+2023-01-07 20:17:14,497 - main - INFO - ----------------------------
+2023-01-07 20:17:14,499 - main - INFO - training...
+2023-01-07 20:24:42,636 - main - DEBUG - Batch 500: running loss = 21856.4257
+2023-01-07 20:25:32,718 - main - INFO - Epoch 113 - train: epoch loss = 43.7155
+2023-01-07 20:25:32,718 - main - INFO - validating...
+2023-01-07 20:28:06,216 - main - INFO - Epoch 113 - val: epoch loss = 50.6778
+2023-01-07 20:28:06,216 - main - INFO - Epoch 114/5000
+2023-01-07 20:28:06,224 - main - INFO - ----------------------------
+2023-01-07 20:28:06,224 - main - INFO - training...
+2023-01-07 20:35:33,743 - main - DEBUG - Batch 500: running loss = 21907.3855
+2023-01-07 20:36:23,865 - main - INFO - Epoch 114 - train: epoch loss = 43.6739
+2023-01-07 20:36:23,866 - main - INFO - validating...
+2023-01-07 20:38:57,617 - main - INFO - Epoch 114 - val: epoch loss = 50.6299
+2023-01-07 20:38:57,784 - main - INFO - Saved the best model at epoch 114.
+2023-01-07 20:38:57,784 - main - INFO - Epoch 115/5000
+2023-01-07 20:38:57,785 - main - INFO - ----------------------------
+2023-01-07 20:38:57,787 - main - INFO - training...
+2023-01-07 20:46:26,000 - main - DEBUG - Batch 500: running loss = 21811.5800
+2023-01-07 20:47:16,049 - main - INFO - Epoch 115 - train: epoch loss = 43.6658
+2023-01-07 20:47:16,049 - main - INFO - validating...
+2023-01-07 20:49:49,524 - main - INFO - Epoch 115 - val: epoch loss = 50.6108
+2023-01-07 20:49:49,690 - main - INFO - Saved the best model at epoch 115.
+2023-01-07 20:49:49,691 - main - INFO - Epoch 116/5000
+2023-01-07 20:49:49,692 - main - INFO - ----------------------------
+2023-01-07 20:49:49,692 - main - INFO - training...
+2023-01-07 20:57:17,374 - main - DEBUG - Batch 500: running loss = 21816.5035
+2023-01-07 20:58:08,682 - main - INFO - Epoch 116 - train: epoch loss = 43.6400
+2023-01-07 20:58:08,683 - main - INFO - validating...
+2023-01-07 21:00:42,614 - main - INFO - Epoch 116 - val: epoch loss = 50.6331
+2023-01-07 21:00:42,614 - main - INFO - Epoch 117/5000
+2023-01-07 21:00:42,620 - main - INFO - ----------------------------
+2023-01-07 21:00:42,621 - main - INFO - training...
+2023-01-07 21:08:09,808 - main - DEBUG - Batch 500: running loss = 21816.4403
+2023-01-07 21:09:00,024 - main - INFO - Epoch 117 - train: epoch loss = 43.6406
+2023-01-07 21:09:00,024 - main - INFO - validating...
+2023-01-07 21:11:33,361 - main - INFO - Epoch 117 - val: epoch loss = 50.5779
+2023-01-07 21:11:33,528 - main - INFO - Saved the best model at epoch 117.
+2023-01-07 21:11:33,528 - main - INFO - Epoch 118/5000
+2023-01-07 21:11:33,534 - main - INFO - ----------------------------
+2023-01-07 21:11:33,535 - main - INFO - training...
+2023-01-07 21:19:01,415 - main - DEBUG - Batch 500: running loss = 21830.7282
+2023-01-07 21:19:51,371 - main - INFO - Epoch 118 - train: epoch loss = 43.6364
+2023-01-07 21:19:51,381 - main - INFO - validating...
+2023-01-07 21:22:25,335 - main - INFO - Epoch 118 - val: epoch loss = 50.5616
+2023-01-07 21:22:25,502 - main - INFO - Saved the best model at epoch 118.
+2023-01-07 21:22:25,506 - main - INFO - Epoch 119/5000
+2023-01-07 21:22:25,506 - main - INFO - ----------------------------
+2023-01-07 21:22:25,508 - main - INFO - training...
+2023-01-07 21:29:52,872 - main - DEBUG - Batch 500: running loss = 21844.3669
+2023-01-07 21:30:42,778 - main - INFO - Epoch 119 - train: epoch loss = 43.6325
+2023-01-07 21:30:42,778 - main - INFO - validating...
+2023-01-07 21:33:16,776 - main - INFO - Epoch 119 - val: epoch loss = 50.5644
+2023-01-07 21:33:16,776 - main - INFO - Epoch 120/5000
+2023-01-07 21:33:16,782 - main - INFO - ----------------------------
+2023-01-07 21:33:16,782 - main - INFO - training...
+2023-01-07 21:40:44,675 - main - DEBUG - Batch 500: running loss = 21709.1759
+2023-01-07 21:41:34,744 - main - INFO - Epoch 120 - train: epoch loss = 43.5630
+2023-01-07 21:41:34,744 - main - INFO - validating...
+2023-01-07 21:44:08,359 - main - INFO - Epoch 120 - val: epoch loss = 50.5227
+2023-01-07 21:44:08,526 - main - INFO - Saved the best model at epoch 120.
+2023-01-07 21:44:08,530 - main - INFO - Epoch 121/5000
+2023-01-07 21:44:08,530 - main - INFO - ----------------------------
+2023-01-07 21:44:08,533 - main - INFO - training...
+2023-01-07 21:51:36,166 - main - DEBUG - Batch 500: running loss = 21833.0052
+2023-01-07 21:52:26,392 - main - INFO - Epoch 121 - train: epoch loss = 43.5660
+2023-01-07 21:52:26,392 - main - INFO - validating...
+2023-01-07 21:55:00,340 - main - INFO - Epoch 121 - val: epoch loss = 50.4722
+2023-01-07 21:55:00,500 - main - INFO - Saved the best model at epoch 121.
+2023-01-07 21:55:00,500 - main - INFO - Epoch 122/5000
+2023-01-07 21:55:00,505 - main - INFO - ----------------------------
+2023-01-07 21:55:00,507 - main - INFO - training...
+2023-01-07 22:02:27,767 - main - DEBUG - Batch 500: running loss = 21882.1705
+2023-01-07 22:03:17,983 - main - INFO - Epoch 122 - train: epoch loss = 43.5820
+2023-01-07 22:03:17,993 - main - INFO - validating...
+2023-01-07 22:05:51,474 - main - INFO - Epoch 122 - val: epoch loss = 50.5003
+2023-01-07 22:05:51,474 - main - INFO - Epoch 123/5000
+2023-01-07 22:05:51,480 - main - INFO - ----------------------------
+2023-01-07 22:05:51,481 - main - INFO - training...
+2023-01-07 22:13:19,257 - main - DEBUG - Batch 500: running loss = 21772.9097
+2023-01-07 22:14:09,160 - main - INFO - Epoch 123 - train: epoch loss = 43.5448
+2023-01-07 22:14:09,161 - main - INFO - validating...
+2023-01-07 22:16:43,014 - main - INFO - Epoch 123 - val: epoch loss = 50.4748
+2023-01-07 22:16:43,014 - main - INFO - Epoch 124/5000
+2023-01-07 22:16:43,021 - main - INFO - ----------------------------
+2023-01-07 22:16:43,023 - main - INFO - training...
+2023-01-07 22:24:10,941 - main - DEBUG - Batch 500: running loss = 21774.5053
+2023-01-07 22:25:01,193 - main - INFO - Epoch 124 - train: epoch loss = 43.5444
+2023-01-07 22:25:01,194 - main - INFO - validating...
+2023-01-07 22:27:36,616 - main - INFO - Epoch 124 - val: epoch loss = 50.4190
+2023-01-07 22:27:36,786 - main - INFO - Saved the best model at epoch 124.
+2023-01-07 22:27:36,787 - main - INFO - Epoch 125/5000
+2023-01-07 22:27:36,788 - main - INFO - ----------------------------
+2023-01-07 22:27:36,789 - main - INFO - training...
+2023-01-07 22:35:05,138 - main - DEBUG - Batch 500: running loss = 21733.5785
+2023-01-07 22:35:55,237 - main - INFO - Epoch 125 - train: epoch loss = 43.5107
+2023-01-07 22:35:55,238 - main - INFO - validating...
+2023-01-07 22:38:29,318 - main - INFO - Epoch 125 - val: epoch loss = 50.4328
+2023-01-07 22:38:29,318 - main - INFO - Epoch 126/5000
+2023-01-07 22:38:29,323 - main - INFO - ----------------------------
+2023-01-07 22:38:29,323 - main - INFO - training...
+2023-01-07 22:45:56,288 - main - DEBUG - Batch 500: running loss = 21771.3412
+2023-01-07 22:46:46,697 - main - INFO - Epoch 126 - train: epoch loss = 43.5160
+2023-01-07 22:46:46,698 - main - INFO - validating...
+2023-01-07 22:49:20,642 - main - INFO - Epoch 126 - val: epoch loss = 50.3920
+2023-01-07 22:49:20,809 - main - INFO - Saved the best model at epoch 126.
+2023-01-07 22:49:20,809 - main - INFO - Epoch 127/5000
+2023-01-07 22:49:20,813 - main - INFO - ----------------------------
+2023-01-07 22:49:20,815 - main - INFO - training...
+2023-01-07 22:56:48,715 - main - DEBUG - Batch 500: running loss = 21833.2805
+2023-01-07 22:57:38,691 - main - INFO - Epoch 127 - train: epoch loss = 43.5000
+2023-01-07 22:57:38,691 - main - INFO - validating...
+2023-01-07 23:00:12,283 - main - INFO - Epoch 127 - val: epoch loss = 50.3826
+2023-01-07 23:00:12,443 - main - INFO - Saved the best model at epoch 127.
+2023-01-07 23:00:12,450 - main - INFO - Epoch 128/5000
+2023-01-07 23:00:12,450 - main - INFO - ----------------------------
+2023-01-07 23:00:12,452 - main - INFO - training...
+2023-01-07 23:07:39,476 - main - DEBUG - Batch 500: running loss = 21716.1986
+2023-01-07 23:08:29,736 - main - INFO - Epoch 128 - train: epoch loss = 43.4717
+2023-01-07 23:08:29,736 - main - INFO - validating...
+2023-01-07 23:11:03,456 - main - INFO - Epoch 128 - val: epoch loss = 50.3918
+2023-01-07 23:11:03,467 - main - INFO - Epoch 129/5000
+2023-01-07 23:11:03,467 - main - INFO - ----------------------------
+2023-01-07 23:11:03,468 - main - INFO - training...
+2023-01-07 23:18:31,176 - main - DEBUG - Batch 500: running loss = 21730.1736
+2023-01-07 23:19:21,109 - main - INFO - Epoch 129 - train: epoch loss = 43.4805
+2023-01-07 23:19:21,109 - main - INFO - validating...
+2023-01-07 23:21:54,547 - main - INFO - Epoch 129 - val: epoch loss = 50.3528
+2023-01-07 23:21:54,722 - main - INFO - Saved the best model at epoch 129.
+2023-01-07 23:21:54,723 - main - INFO - Epoch 130/5000
+2023-01-07 23:21:54,724 - main - INFO - ----------------------------
+2023-01-07 23:21:54,726 - main - INFO - training...
+2023-01-07 23:29:22,440 - main - DEBUG - Batch 500: running loss = 21678.2887
+2023-01-07 23:30:12,583 - main - INFO - Epoch 130 - train: epoch loss = 43.3751
+2023-01-07 23:30:12,583 - main - INFO - validating...
+2023-01-07 23:32:46,664 - main - INFO - Epoch 130 - val: epoch loss = 50.3142
+2023-01-07 23:32:46,831 - main - INFO - Saved the best model at epoch 130.
+2023-01-07 23:32:46,831 - main - INFO - Epoch 131/5000
+2023-01-07 23:32:46,839 - main - INFO - ----------------------------
+2023-01-07 23:32:46,840 - main - INFO - training...
+2023-01-07 23:40:13,891 - main - DEBUG - Batch 500: running loss = 21684.7745
+2023-01-07 23:41:04,030 - main - INFO - Epoch 131 - train: epoch loss = 43.4285
+2023-01-07 23:41:04,030 - main - INFO - validating...
+2023-01-07 23:43:37,644 - main - INFO - Epoch 131 - val: epoch loss = 50.3253
+2023-01-07 23:43:37,644 - main - INFO - Epoch 132/5000
+2023-01-07 23:43:37,644 - main - INFO - ----------------------------
+2023-01-07 23:43:37,648 - main - INFO - training...
+2023-01-07 23:51:05,615 - main - DEBUG - Batch 500: running loss = 21613.1104
+2023-01-07 23:51:55,664 - main - INFO - Epoch 132 - train: epoch loss = 43.3966
+2023-01-07 23:51:55,664 - main - INFO - validating...
+2023-01-07 23:54:29,551 - main - INFO - Epoch 132 - val: epoch loss = 50.2936
+2023-01-07 23:54:29,724 - main - INFO - Saved the best model at epoch 132.
+2023-01-07 23:54:29,725 - main - INFO - Epoch 133/5000
+2023-01-07 23:54:29,727 - main - INFO - ----------------------------
+2023-01-07 23:54:29,728 - main - INFO - training...
+2023-01-08 00:01:57,696 - main - DEBUG - Batch 500: running loss = 21764.7508
+2023-01-08 00:02:47,761 - main - INFO - Epoch 133 - train: epoch loss = 43.4141
+2023-01-08 00:02:47,768 - main - INFO - validating...
+2023-01-08 00:05:21,758 - main - INFO - Epoch 133 - val: epoch loss = 50.2888
+2023-01-08 00:05:21,925 - main - INFO - Saved the best model at epoch 133.
+2023-01-08 00:05:21,925 - main - INFO - Epoch 134/5000
+2023-01-08 00:05:21,927 - main - INFO - ----------------------------
+2023-01-08 00:05:21,929 - main - INFO - training...
+2023-01-08 00:12:49,995 - main - DEBUG - Batch 500: running loss = 21694.8043
+2023-01-08 00:13:40,118 - main - INFO - Epoch 134 - train: epoch loss = 43.4131
+2023-01-08 00:13:40,118 - main - INFO - validating...
+2023-01-08 00:16:13,882 - main - INFO - Epoch 134 - val: epoch loss = 50.2413
+2023-01-08 00:16:14,049 - main - INFO - Saved the best model at epoch 134.
+2023-01-08 00:16:14,059 - main - INFO - Epoch 135/5000
+2023-01-08 00:16:14,061 - main - INFO - ----------------------------
+2023-01-08 00:16:14,062 - main - INFO - training...
+2023-01-08 00:23:42,609 - main - DEBUG - Batch 500: running loss = 21743.3359
+2023-01-08 00:24:32,492 - main - INFO - Epoch 135 - train: epoch loss = 43.3730
+2023-01-08 00:24:32,492 - main - INFO - validating...
+2023-01-08 00:27:06,306 - main - INFO - Epoch 135 - val: epoch loss = 50.2301
+2023-01-08 00:27:06,473 - main - INFO - Saved the best model at epoch 135.
+2023-01-08 00:27:06,477 - main - INFO - Epoch 136/5000
+2023-01-08 00:27:06,477 - main - INFO - ----------------------------
+2023-01-08 00:27:06,479 - main - INFO - training...
+2023-01-08 00:34:48,626 - main - DEBUG - Batch 500: running loss = 21663.6276
+2023-01-08 00:35:42,265 - main - INFO - Epoch 136 - train: epoch loss = 43.3321
+2023-01-08 00:35:42,265 - main - INFO - validating...
+2023-01-08 00:38:28,656 - main - INFO - Epoch 136 - val: epoch loss = 50.1749
+2023-01-08 00:38:28,829 - main - INFO - Saved the best model at epoch 136.
+2023-01-08 00:38:28,829 - main - INFO - Epoch 137/5000
+2023-01-08 00:38:28,832 - main - INFO - ----------------------------
+2023-01-08 00:38:28,833 - main - INFO - training...
+2023-01-08 00:46:11,682 - main - DEBUG - Batch 500: running loss = 21723.1146
+2023-01-08 00:47:03,505 - main - INFO - Epoch 137 - train: epoch loss = 43.3369
+2023-01-08 00:47:03,505 - main - INFO - validating...
+2023-01-08 00:49:37,529 - main - INFO - Epoch 137 - val: epoch loss = 50.2130
+2023-01-08 00:49:37,536 - main - INFO - Epoch 138/5000
+2023-01-08 00:49:37,537 - main - INFO - ----------------------------
+2023-01-08 00:49:37,540 - main - INFO - training...
+2023-01-08 00:57:05,013 - main - DEBUG - Batch 500: running loss = 21634.7314
+2023-01-08 00:57:54,795 - main - INFO - Epoch 138 - train: epoch loss = 43.3115
+2023-01-08 00:57:54,805 - main - INFO - validating...
+2023-01-08 01:00:28,403 - main - INFO - Epoch 138 - val: epoch loss = 50.1775
+2023-01-08 01:00:28,403 - main - INFO - Epoch 139/5000
+2023-01-08 01:00:28,410 - main - INFO - ----------------------------
+2023-01-08 01:00:28,411 - main - INFO - training...
+2023-01-08 01:07:56,263 - main - DEBUG - Batch 500: running loss = 21681.9824
+2023-01-08 01:08:46,596 - main - INFO - Epoch 139 - train: epoch loss = 43.3222
+2023-01-08 01:08:46,602 - main - INFO - validating...
+2023-01-08 01:11:20,034 - main - INFO - Epoch 139 - val: epoch loss = 50.1626
+2023-01-08 01:11:20,206 - main - INFO - Saved the best model at epoch 139.
+2023-01-08 01:11:20,208 - main - INFO - Epoch 140/5000
+2023-01-08 01:11:20,208 - main - INFO - ----------------------------
+2023-01-08 01:11:20,210 - main - INFO - training...
+2023-01-08 01:18:47,627 - main - DEBUG - Batch 500: running loss = 21575.4277
+2023-01-08 01:19:37,503 - main - INFO - Epoch 140 - train: epoch loss = 43.3143
+2023-01-08 01:19:37,503 - main - INFO - validating...
+2023-01-08 01:22:11,205 - main - INFO - Epoch 140 - val: epoch loss = 50.1575
+2023-01-08 01:22:11,368 - main - INFO - Saved the best model at epoch 140.
+2023-01-08 01:22:11,371 - main - INFO - Epoch 141/5000
+2023-01-08 01:22:11,371 - main - INFO - ----------------------------
+2023-01-08 01:22:11,372 - main - INFO - training...
+2023-01-08 01:29:38,901 - main - DEBUG - Batch 500: running loss = 21656.4397
+2023-01-08 01:30:28,810 - main - INFO - Epoch 141 - train: epoch loss = 43.2689
+2023-01-08 01:30:28,810 - main - INFO - validating...
+2023-01-08 01:33:02,264 - main - INFO - Epoch 141 - val: epoch loss = 50.1249
+2023-01-08 01:33:02,432 - main - INFO - Saved the best model at epoch 141.
+2023-01-08 01:33:02,432 - main - INFO - Epoch 142/5000
+2023-01-08 01:33:02,435 - main - INFO - ----------------------------
+2023-01-08 01:33:02,436 - main - INFO - training...
+2023-01-08 01:40:29,585 - main - DEBUG - Batch 500: running loss = 21736.6090
+2023-01-08 01:41:19,641 - main - INFO - Epoch 142 - train: epoch loss = 43.2712
+2023-01-08 01:41:19,641 - main - INFO - validating...
+2023-01-08 01:43:53,422 - main - INFO - Epoch 142 - val: epoch loss = 50.1129
+2023-01-08 01:43:53,582 - main - INFO - Saved the best model at epoch 142.
+2023-01-08 01:43:53,588 - main - INFO - Epoch 143/5000
+2023-01-08 01:43:53,588 - main - INFO - ----------------------------
+2023-01-08 01:43:53,590 - main - INFO - training...
+2023-01-08 01:51:21,125 - main - DEBUG - Batch 500: running loss = 21709.3260
+2023-01-08 01:52:11,058 - main - INFO - Epoch 143 - train: epoch loss = 43.2811
+2023-01-08 01:52:11,058 - main - INFO - validating...
+2023-01-08 01:54:44,405 - main - INFO - Epoch 143 - val: epoch loss = 50.0929
+2023-01-08 01:54:44,562 - main - INFO - Saved the best model at epoch 143.
+2023-01-08 01:54:44,562 - main - INFO - Epoch 144/5000
+2023-01-08 01:54:44,567 - main - INFO - ----------------------------
+2023-01-08 01:54:44,568 - main - INFO - training...
+2023-01-08 02:02:12,139 - main - DEBUG - Batch 500: running loss = 21556.2776
+2023-01-08 02:03:02,215 - main - INFO - Epoch 144 - train: epoch loss = 43.2395
+2023-01-08 02:03:02,216 - main - INFO - validating...
+2023-01-08 02:05:36,119 - main - INFO - Epoch 144 - val: epoch loss = 50.1014
+2023-01-08 02:05:36,119 - main - INFO - Epoch 145/5000
+2023-01-08 02:05:36,126 - main - INFO - ----------------------------
+2023-01-08 02:05:36,126 - main - INFO - training...
+2023-01-08 02:13:03,963 - main - DEBUG - Batch 500: running loss = 21572.6090
+2023-01-08 02:13:53,979 - main - INFO - Epoch 145 - train: epoch loss = 43.2382
+2023-01-08 02:13:53,979 - main - INFO - validating...
+2023-01-08 02:16:27,476 - main - INFO - Epoch 145 - val: epoch loss = 50.0540
+2023-01-08 02:16:27,643 - main - INFO - Saved the best model at epoch 145.
+2023-01-08 02:16:27,643 - main - INFO - Epoch 146/5000
+2023-01-08 02:16:27,649 - main - INFO - ----------------------------
+2023-01-08 02:16:27,650 - main - INFO - training...
+2023-01-08 02:23:55,386 - main - DEBUG - Batch 500: running loss = 21635.6752
+2023-01-08 02:24:45,662 - main - INFO - Epoch 146 - train: epoch loss = 43.1932
+2023-01-08 02:24:45,662 - main - INFO - validating...
+2023-01-08 02:27:19,127 - main - INFO - Epoch 146 - val: epoch loss = 50.0384
+2023-01-08 02:27:19,300 - main - INFO - Saved the best model at epoch 146.
+2023-01-08 02:27:19,300 - main - INFO - Epoch 147/5000
+2023-01-08 02:27:19,305 - main - INFO - ----------------------------
+2023-01-08 02:27:19,305 - main - INFO - training...
+2023-01-08 02:34:46,706 - main - DEBUG - Batch 500: running loss = 21570.5842
+2023-01-08 02:35:36,776 - main - INFO - Epoch 147 - train: epoch loss = 43.1978
+2023-01-08 02:35:36,776 - main - INFO - validating...
+2023-01-08 02:38:10,634 - main - INFO - Epoch 147 - val: epoch loss = 50.0366
+2023-01-08 02:38:10,791 - main - INFO - Saved the best model at epoch 147.
+2023-01-08 02:38:10,791 - main - INFO - Epoch 148/5000
+2023-01-08 02:38:10,800 - main - INFO - ----------------------------
+2023-01-08 02:38:10,803 - main - INFO - training...
+2023-01-08 02:45:38,967 - main - DEBUG - Batch 500: running loss = 21625.6633
+2023-01-08 02:46:29,000 - main - INFO - Epoch 148 - train: epoch loss = 43.1669
+2023-01-08 02:46:29,000 - main - INFO - validating...
+2023-01-08 02:49:02,648 - main - INFO - Epoch 148 - val: epoch loss = 49.9825
+2023-01-08 02:49:02,815 - main - INFO - Saved the best model at epoch 148.
+2023-01-08 02:49:02,818 - main - INFO - Epoch 149/5000
+2023-01-08 02:49:02,818 - main - INFO - ----------------------------
+2023-01-08 02:49:02,821 - main - INFO - training...
+2023-01-08 02:56:30,841 - main - DEBUG - Batch 500: running loss = 21630.1053
+2023-01-08 02:57:20,957 - main - INFO - Epoch 149 - train: epoch loss = 43.1998
+2023-01-08 02:57:20,957 - main - INFO - validating...
+2023-01-08 02:59:54,696 - main - INFO - Epoch 149 - val: epoch loss = 49.9611
+2023-01-08 02:59:54,855 - main - INFO - Saved the best model at epoch 149.
+2023-01-08 02:59:54,855 - main - INFO - Epoch 150/5000
+2023-01-08 02:59:54,862 - main - INFO - ----------------------------
+2023-01-08 02:59:54,863 - main - INFO - training...
+2023-01-08 03:07:22,832 - main - DEBUG - Batch 500: running loss = 21516.2234
+2023-01-08 03:08:13,281 - main - INFO - Epoch 150 - train: epoch loss = 43.1556
+2023-01-08 03:08:13,287 - main - INFO - validating...
+2023-01-08 03:10:46,783 - main - INFO - Epoch 150 - val: epoch loss = 49.9781
+2023-01-08 03:10:46,784 - main - INFO - Epoch 151/5000
+2023-01-08 03:10:46,785 - main - INFO - ----------------------------
+2023-01-08 03:10:46,786 - main - INFO - training...
+2023-01-08 03:18:14,216 - main - DEBUG - Batch 500: running loss = 21514.4291
+2023-01-08 03:19:04,465 - main - INFO - Epoch 151 - train: epoch loss = 43.1490
+2023-01-08 03:19:04,465 - main - INFO - validating...
+2023-01-08 03:21:38,602 - main - INFO - Epoch 151 - val: epoch loss = 49.9754
+2023-01-08 03:21:38,602 - main - INFO - Epoch 152/5000
+2023-01-08 03:21:38,602 - main - INFO - ----------------------------
+2023-01-08 03:21:38,608 - main - INFO - training...
+2023-01-08 03:29:05,662 - main - DEBUG - Batch 500: running loss = 21596.0305
+2023-01-08 03:29:55,745 - main - INFO - Epoch 152 - train: epoch loss = 43.1210
+2023-01-08 03:29:55,747 - main - INFO - validating...
+2023-01-08 03:32:29,525 - main - INFO - Epoch 152 - val: epoch loss = 49.9475
+2023-01-08 03:32:29,688 - main - INFO - Saved the best model at epoch 152.
+2023-01-08 03:32:29,692 - main - INFO - Epoch 153/5000
+2023-01-08 03:32:29,692 - main - INFO - ----------------------------
+2023-01-08 03:32:29,694 - main - INFO - training...
+2023-01-08 03:39:57,870 - main - DEBUG - Batch 500: running loss = 21587.0805
+2023-01-08 03:40:47,979 - main - INFO - Epoch 153 - train: epoch loss = 43.1124
+2023-01-08 03:40:47,979 - main - INFO - validating...
+2023-01-08 03:43:21,725 - main - INFO - Epoch 153 - val: epoch loss = 49.8805
+2023-01-08 03:43:21,883 - main - INFO - Saved the best model at epoch 153.
+2023-01-08 03:43:21,883 - main - INFO - Epoch 154/5000
+2023-01-08 03:43:21,892 - main - INFO - ----------------------------
+2023-01-08 03:43:21,894 - main - INFO - training...
+2023-01-08 03:50:49,360 - main - DEBUG - Batch 500: running loss = 21544.9757
+2023-01-08 03:51:39,443 - main - INFO - Epoch 154 - train: epoch loss = 43.0850
+2023-01-08 03:51:39,443 - main - INFO - validating...
+2023-01-08 03:54:13,174 - main - INFO - Epoch 154 - val: epoch loss = 49.8689
+2023-01-08 03:54:13,334 - main - INFO - Saved the best model at epoch 154.
+2023-01-08 03:54:13,334 - main - INFO - Epoch 155/5000
+2023-01-08 03:54:13,339 - main - INFO - ----------------------------
+2023-01-08 03:54:13,342 - main - INFO - training...
+2023-01-08 04:01:40,697 - main - DEBUG - Batch 500: running loss = 21505.9270
+2023-01-08 04:02:30,967 - main - INFO - Epoch 155 - train: epoch loss = 43.0956
+2023-01-08 04:02:30,967 - main - INFO - validating...
+2023-01-08 04:05:04,498 - main - INFO - Epoch 155 - val: epoch loss = 49.8903
+2023-01-08 04:05:04,498 - main - INFO - Epoch 156/5000
+2023-01-08 04:05:04,505 - main - INFO - ----------------------------
+2023-01-08 04:05:04,505 - main - INFO - training...
+2023-01-08 04:12:32,374 - main - DEBUG - Batch 500: running loss = 21527.7873
+2023-01-08 04:13:22,224 - main - INFO - Epoch 156 - train: epoch loss = 43.0905
+2023-01-08 04:13:22,228 - main - INFO - validating...
+2023-01-08 04:15:56,115 - main - INFO - Epoch 156 - val: epoch loss = 49.8704
+2023-01-08 04:15:56,115 - main - INFO - Epoch 157/5000
+2023-01-08 04:15:56,115 - main - INFO - ----------------------------
+2023-01-08 04:15:56,117 - main - INFO - training...
+2023-01-08 04:23:23,182 - main - DEBUG - Batch 500: running loss = 21541.6350
+2023-01-08 04:24:13,457 - main - INFO - Epoch 157 - train: epoch loss = 43.0660
+2023-01-08 04:24:13,457 - main - INFO - validating...
+2023-01-08 04:26:46,962 - main - INFO - Epoch 157 - val: epoch loss = 49.8934
+2023-01-08 04:26:46,962 - main - INFO - Epoch 158/5000
+2023-01-08 04:26:46,962 - main - INFO - ----------------------------
+2023-01-08 04:26:46,967 - main - INFO - training...
+2023-01-08 04:34:14,214 - main - DEBUG - Batch 500: running loss = 21502.1105
+2023-01-08 04:35:04,371 - main - INFO - Epoch 158 - train: epoch loss = 43.0446
+2023-01-08 04:35:04,371 - main - INFO - validating...
+2023-01-08 04:37:38,336 - main - INFO - Epoch 158 - val: epoch loss = 49.8095
+2023-01-08 04:37:38,496 - main - INFO - Saved the best model at epoch 158.
+2023-01-08 04:37:38,496 - main - INFO - Epoch 159/5000
+2023-01-08 04:37:38,501 - main - INFO - ----------------------------
+2023-01-08 04:37:38,507 - main - INFO - training...
+2023-01-08 04:45:05,779 - main - DEBUG - Batch 500: running loss = 21457.6594
+2023-01-08 04:45:55,718 - main - INFO - Epoch 159 - train: epoch loss = 43.0074
+2023-01-08 04:45:55,719 - main - INFO - validating...
+2023-01-08 04:48:29,526 - main - INFO - Epoch 159 - val: epoch loss = 49.8171
+2023-01-08 04:48:29,526 - main - INFO - Epoch 160/5000
+2023-01-08 04:48:29,535 - main - INFO - ----------------------------
+2023-01-08 04:48:29,535 - main - INFO - training...
+2023-01-08 04:55:57,820 - main - DEBUG - Batch 500: running loss = 21503.7644
+2023-01-08 04:56:47,852 - main - INFO - Epoch 160 - train: epoch loss = 43.0280
+2023-01-08 04:56:47,852 - main - INFO - validating...
+2023-01-08 04:59:21,516 - main - INFO - Epoch 160 - val: epoch loss = 49.8190
+2023-01-08 04:59:21,516 - main - INFO - Epoch 161/5000
+2023-01-08 04:59:21,520 - main - INFO - ----------------------------
+2023-01-08 04:59:21,521 - main - INFO - training...
+2023-01-08 05:06:48,943 - main - DEBUG - Batch 500: running loss = 21518.9126
+2023-01-08 05:07:39,459 - main - INFO - Epoch 161 - train: epoch loss = 43.0236
+2023-01-08 05:07:39,469 - main - INFO - validating...
+2023-01-08 05:10:13,216 - main - INFO - Epoch 161 - val: epoch loss = 49.8025
+2023-01-08 05:10:13,374 - main - INFO - Saved the best model at epoch 161.
+2023-01-08 05:10:13,380 - main - INFO - Epoch 162/5000
+2023-01-08 05:10:13,380 - main - INFO - ----------------------------
+2023-01-08 05:10:13,382 - main - INFO - training...
+2023-01-08 05:17:41,301 - main - DEBUG - Batch 500: running loss = 21588.0731
+2023-01-08 05:18:31,143 - main - INFO - Epoch 162 - train: epoch loss = 43.0053
+2023-01-08 05:18:31,143 - main - INFO - validating...
+2023-01-08 05:21:05,031 - main - INFO - Epoch 162 - val: epoch loss = 49.7859
+2023-01-08 05:21:05,220 - main - INFO - Saved the best model at epoch 162.
+2023-01-08 05:21:05,221 - main - INFO - Epoch 163/5000
+2023-01-08 05:21:05,222 - main - INFO - ----------------------------
+2023-01-08 05:21:05,223 - main - INFO - training...
+2023-01-08 05:28:32,524 - main - DEBUG - Batch 500: running loss = 21542.3848
+2023-01-08 05:29:22,734 - main - INFO - Epoch 163 - train: epoch loss = 43.0049
+2023-01-08 05:29:22,734 - main - INFO - validating...
+2023-01-08 05:31:56,571 - main - INFO - Epoch 163 - val: epoch loss = 49.7729
+2023-01-08 05:31:56,739 - main - INFO - Saved the best model at epoch 163.
+2023-01-08 05:31:56,739 - main - INFO - Epoch 164/5000
+2023-01-08 05:31:56,742 - main - INFO - ----------------------------
+2023-01-08 05:31:56,742 - main - INFO - training...
+2023-01-08 05:39:24,425 - main - DEBUG - Batch 500: running loss = 21452.7058
+2023-01-08 05:40:14,231 - main - INFO - Epoch 164 - train: epoch loss = 42.9629
+2023-01-08 05:40:14,231 - main - INFO - validating...
+2023-01-08 05:42:47,805 - main - INFO - Epoch 164 - val: epoch loss = 49.7198
+2023-01-08 05:42:47,972 - main - INFO - Saved the best model at epoch 164.
+2023-01-08 05:42:47,974 - main - INFO - Epoch 165/5000
+2023-01-08 05:42:47,974 - main - INFO - ----------------------------
+2023-01-08 05:42:47,975 - main - INFO - training...
+2023-01-08 05:50:15,305 - main - DEBUG - Batch 500: running loss = 21553.4153
+2023-01-08 05:51:05,271 - main - INFO - Epoch 165 - train: epoch loss = 42.9647
+2023-01-08 05:51:05,271 - main - INFO - validating...
+2023-01-08 05:53:39,069 - main - INFO - Epoch 165 - val: epoch loss = 49.6871
+2023-01-08 05:53:39,236 - main - INFO - Saved the best model at epoch 165.
+2023-01-08 05:53:39,236 - main - INFO - Epoch 166/5000
+2023-01-08 05:53:39,246 - main - INFO - ----------------------------
+2023-01-08 05:53:39,247 - main - INFO - training...
+2023-01-08 06:01:06,806 - main - DEBUG - Batch 500: running loss = 21548.6550
+2023-01-08 06:01:56,829 - main - INFO - Epoch 166 - train: epoch loss = 42.9603
+2023-01-08 06:01:56,831 - main - INFO - validating...
+2023-01-08 06:04:30,403 - main - INFO - Epoch 166 - val: epoch loss = 49.7160
+2023-01-08 06:04:30,403 - main - INFO - Epoch 167/5000
+2023-01-08 06:04:30,408 - main - INFO - ----------------------------
+2023-01-08 06:04:30,408 - main - INFO - training...
+2023-01-08 06:11:58,003 - main - DEBUG - Batch 500: running loss = 21462.1723
+2023-01-08 06:12:48,036 - main - INFO - Epoch 167 - train: epoch loss = 42.9355
+2023-01-08 06:12:48,036 - main - INFO - validating...
+2023-01-08 06:15:21,433 - main - INFO - Epoch 167 - val: epoch loss = 49.6903
+2023-01-08 06:15:21,433 - main - INFO - Epoch 168/5000
+2023-01-08 06:15:21,442 - main - INFO - ----------------------------
+2023-01-08 06:15:21,442 - main - INFO - training...
+2023-01-08 06:22:48,094 - main - DEBUG - Batch 500: running loss = 21521.3753
+2023-01-08 06:23:38,216 - main - INFO - Epoch 168 - train: epoch loss = 42.9579
+2023-01-08 06:23:38,217 - main - INFO - validating...
+2023-01-08 06:26:12,007 - main - INFO - Epoch 168 - val: epoch loss = 49.6880
+2023-01-08 06:26:12,007 - main - INFO - Epoch 169/5000
+2023-01-08 06:26:12,010 - main - INFO - ----------------------------
+2023-01-08 06:26:12,012 - main - INFO - training...
+2023-01-08 06:33:39,297 - main - DEBUG - Batch 500: running loss = 21434.0040
+2023-01-08 06:34:29,283 - main - INFO - Epoch 169 - train: epoch loss = 42.9171
+2023-01-08 06:34:29,283 - main - INFO - validating...
+2023-01-08 06:37:02,841 - main - INFO - Epoch 169 - val: epoch loss = 49.6326
+2023-01-08 06:37:03,008 - main - INFO - Saved the best model at epoch 169.
+2023-01-08 06:37:03,014 - main - INFO - Epoch 170/5000
+2023-01-08 06:37:03,014 - main - INFO - ----------------------------
+2023-01-08 06:37:03,015 - main - INFO - training...
+2023-01-08 06:44:30,158 - main - DEBUG - Batch 500: running loss = 21523.8813
+2023-01-08 06:45:20,090 - main - INFO - Epoch 170 - train: epoch loss = 42.9267
+2023-01-08 06:45:20,090 - main - INFO - validating...
+2023-01-08 06:47:53,739 - main - INFO - Epoch 170 - val: epoch loss = 49.6423
+2023-01-08 06:47:53,749 - main - INFO - Epoch 171/5000
+2023-01-08 06:47:53,750 - main - INFO - ----------------------------
+2023-01-08 06:47:53,750 - main - INFO - training...
+2023-01-08 06:55:21,325 - main - DEBUG - Batch 500: running loss = 21476.2344
+2023-01-08 06:56:11,148 - main - INFO - Epoch 171 - train: epoch loss = 42.8607
+2023-01-08 06:56:11,148 - main - INFO - validating...
+2023-01-08 06:58:44,522 - main - INFO - Epoch 171 - val: epoch loss = 49.6439
+2023-01-08 06:58:44,522 - main - INFO - Epoch 172/5000
+2023-01-08 06:58:44,524 - main - INFO - ----------------------------
+2023-01-08 06:58:44,525 - main - INFO - training...
+2023-01-08 07:06:11,939 - main - DEBUG - Batch 500: running loss = 21466.9174
+2023-01-08 07:07:02,141 - main - INFO - Epoch 172 - train: epoch loss = 42.8852
+2023-01-08 07:07:02,142 - main - INFO - validating...
+2023-01-08 07:09:36,201 - main - INFO - Epoch 172 - val: epoch loss = 49.6030
+2023-01-08 07:09:36,363 - main - INFO - Saved the best model at epoch 172.
+2023-01-08 07:09:36,367 - main - INFO - Epoch 173/5000
+2023-01-08 07:09:36,368 - main - INFO - ----------------------------
+2023-01-08 07:09:36,370 - main - INFO - training...
+2023-01-08 07:17:03,763 - main - DEBUG - Batch 500: running loss = 21458.5527
+2023-01-08 07:17:53,612 - main - INFO - Epoch 173 - train: epoch loss = 42.8799
+2023-01-08 07:17:53,612 - main - INFO - validating...
+2023-01-08 07:20:27,243 - main - INFO - Epoch 173 - val: epoch loss = 49.5942
+2023-01-08 07:20:27,410 - main - INFO - Saved the best model at epoch 173.
+2023-01-08 07:20:27,412 - main - INFO - Epoch 174/5000
+2023-01-08 07:20:27,412 - main - INFO - ----------------------------
+2023-01-08 07:20:27,413 - main - INFO - training...
+2023-01-08 07:27:55,346 - main - DEBUG - Batch 500: running loss = 21510.9275
+2023-01-08 07:28:45,379 - main - INFO - Epoch 174 - train: epoch loss = 42.8955
+2023-01-08 07:28:45,379 - main - INFO - validating...
+2023-01-08 07:31:18,967 - main - INFO - Epoch 174 - val: epoch loss = 49.5904
+2023-01-08 07:31:19,130 - main - INFO - Saved the best model at epoch 174.
+2023-01-08 07:31:19,130 - main - INFO - Epoch 175/5000
+2023-01-08 07:31:19,131 - main - INFO - ----------------------------
+2023-01-08 07:31:19,132 - main - INFO - training...
+2023-01-08 07:38:46,527 - main - DEBUG - Batch 500: running loss = 21456.7830
+2023-01-08 07:39:36,860 - main - INFO - Epoch 175 - train: epoch loss = 42.8495
+2023-01-08 07:39:36,860 - main - INFO - validating...
+2023-01-08 07:42:10,791 - main - INFO - Epoch 175 - val: epoch loss = 49.6049
+2023-01-08 07:42:10,791 - main - INFO - Epoch 176/5000
+2023-01-08 07:42:10,791 - main - INFO - ----------------------------
+2023-01-08 07:42:10,796 - main - INFO - training...
+2023-01-08 07:49:37,378 - main - DEBUG - Batch 500: running loss = 21438.6879
+2023-01-08 07:50:27,716 - main - INFO - Epoch 176 - train: epoch loss = 42.8672
+2023-01-08 07:50:27,717 - main - INFO - validating...
+2023-01-08 07:53:01,281 - main - INFO - Epoch 176 - val: epoch loss = 49.5246
+2023-01-08 07:53:01,442 - main - INFO - Saved the best model at epoch 176.
+2023-01-08 07:53:01,447 - main - INFO - Epoch 177/5000
+2023-01-08 07:53:01,447 - main - INFO - ----------------------------
+2023-01-08 07:53:01,449 - main - INFO - training...
+2023-01-08 08:00:28,958 - main - DEBUG - Batch 500: running loss = 21425.1001
+2023-01-08 08:01:18,824 - main - INFO - Epoch 177 - train: epoch loss = 42.8231
+2023-01-08 08:01:18,824 - main - INFO - validating...
+2023-01-08 08:03:52,798 - main - INFO - Epoch 177 - val: epoch loss = 49.5309
+2023-01-08 08:03:52,798 - main - INFO - Epoch 178/5000
+2023-01-08 08:03:52,802 - main - INFO - ----------------------------
+2023-01-08 08:03:52,802 - main - INFO - training...
+2023-01-08 08:11:20,382 - main - DEBUG - Batch 500: running loss = 21334.6008
+2023-01-08 08:12:10,665 - main - INFO - Epoch 178 - train: epoch loss = 42.7901
+2023-01-08 08:12:10,665 - main - INFO - validating...
+2023-01-08 08:14:44,084 - main - INFO - Epoch 178 - val: epoch loss = 49.5201
+2023-01-08 08:14:44,246 - main - INFO - Saved the best model at epoch 178.
+2023-01-08 08:14:44,246 - main - INFO - Epoch 179/5000
+2023-01-08 08:14:44,253 - main - INFO - ----------------------------
+2023-01-08 08:14:44,254 - main - INFO - training...
+2023-01-08 08:22:11,949 - main - DEBUG - Batch 500: running loss = 21411.3744
+2023-01-08 08:23:02,138 - main - INFO - Epoch 179 - train: epoch loss = 42.8090
+2023-01-08 08:23:02,138 - main - INFO - validating...
+2023-01-08 08:25:36,136 - main - INFO - Epoch 179 - val: epoch loss = 49.5303
+2023-01-08 08:25:36,136 - main - INFO - Epoch 180/5000
+2023-01-08 08:25:36,143 - main - INFO - ----------------------------
+2023-01-08 08:25:36,143 - main - INFO - training...
+2023-01-08 08:33:03,273 - main - DEBUG - Batch 500: running loss = 21371.0024
+2023-01-08 08:33:53,117 - main - INFO - Epoch 180 - train: epoch loss = 42.7982
+2023-01-08 08:33:53,118 - main - INFO - validating...
+2023-01-08 08:36:26,627 - main - INFO - Epoch 180 - val: epoch loss = 49.5156
+2023-01-08 08:36:26,794 - main - INFO - Saved the best model at epoch 180.
+2023-01-08 08:36:26,794 - main - INFO - Epoch 181/5000
+2023-01-08 08:36:26,800 - main - INFO - ----------------------------
+2023-01-08 08:36:26,801 - main - INFO - training...
+2023-01-08 08:43:54,904 - main - DEBUG - Batch 500: running loss = 21413.9550
+2023-01-08 08:44:44,913 - main - INFO - Epoch 181 - train: epoch loss = 42.7657
+2023-01-08 08:44:44,913 - main - INFO - validating...
+2023-01-08 08:47:18,584 - main - INFO - Epoch 181 - val: epoch loss = 49.4742
+2023-01-08 08:47:18,751 - main - INFO - Saved the best model at epoch 181.
+2023-01-08 08:47:18,751 - main - INFO - Epoch 182/5000
+2023-01-08 08:47:18,757 - main - INFO - ----------------------------
+2023-01-08 08:47:18,758 - main - INFO - training...
+2023-01-08 08:54:46,511 - main - DEBUG - Batch 500: running loss = 21414.8338
+2023-01-08 08:55:36,520 - main - INFO - Epoch 182 - train: epoch loss = 42.8003
+2023-01-08 08:55:36,520 - main - INFO - validating...
+2023-01-08 08:58:10,574 - main - INFO - Epoch 182 - val: epoch loss = 49.4692
+2023-01-08 08:58:10,741 - main - INFO - Saved the best model at epoch 182.
+2023-01-08 08:58:10,741 - main - INFO - Epoch 183/5000
+2023-01-08 08:58:10,745 - main - INFO - ----------------------------
+2023-01-08 08:58:10,746 - main - INFO - training...
+2023-01-08 09:05:38,485 - main - DEBUG - Batch 500: running loss = 21409.0276
+2023-01-08 09:06:28,245 - main - INFO - Epoch 183 - train: epoch loss = 42.7448
+2023-01-08 09:06:28,245 - main - INFO - validating...
+2023-01-08 09:09:01,781 - main - INFO - Epoch 183 - val: epoch loss = 49.4207
+2023-01-08 09:09:01,948 - main - INFO - Saved the best model at epoch 183.
+2023-01-08 09:09:01,948 - main - INFO - Epoch 184/5000
+2023-01-08 09:09:01,950 - main - INFO - ----------------------------
+2023-01-08 09:09:01,951 - main - INFO - training...
+2023-01-08 09:16:29,635 - main - DEBUG - Batch 500: running loss = 21383.7142
+2023-01-08 09:17:19,758 - main - INFO - Epoch 184 - train: epoch loss = 42.7852
+2023-01-08 09:17:19,758 - main - INFO - validating...
+2023-01-08 09:19:54,372 - main - INFO - Epoch 184 - val: epoch loss = 49.4046
+2023-01-08 09:19:54,539 - main - INFO - Saved the best model at epoch 184.
+2023-01-08 09:19:54,539 - main - INFO - Epoch 185/5000
+2023-01-08 09:19:54,546 - main - INFO - ----------------------------
+2023-01-08 09:19:54,547 - main - INFO - training...
+2023-01-08 09:27:22,325 - main - DEBUG - Batch 500: running loss = 21401.2483
+2023-01-08 09:28:12,358 - main - INFO - Epoch 185 - train: epoch loss = 42.7675
+2023-01-08 09:28:12,365 - main - INFO - validating...
+2023-01-08 09:30:45,896 - main - INFO - Epoch 185 - val: epoch loss = 49.4182
+2023-01-08 09:30:45,896 - main - INFO - Epoch 186/5000
+2023-01-08 09:30:45,899 - main - INFO - ----------------------------
+2023-01-08 09:30:45,899 - main - INFO - training...
+2023-01-08 09:38:14,082 - main - DEBUG - Batch 500: running loss = 21343.5316
+2023-01-08 09:39:03,889 - main - INFO - Epoch 186 - train: epoch loss = 42.7035
+2023-01-08 09:39:03,893 - main - INFO - validating...
+2023-01-08 09:41:38,003 - main - INFO - Epoch 186 - val: epoch loss = 49.4112
+2023-01-08 09:41:38,014 - main - INFO - Epoch 187/5000
+2023-01-08 09:41:38,014 - main - INFO - ----------------------------
+2023-01-08 09:41:38,016 - main - INFO - training...
+2023-01-08 09:49:05,546 - main - DEBUG - Batch 500: running loss = 21338.2199
+2023-01-08 09:49:55,379 - main - INFO - Epoch 187 - train: epoch loss = 42.7327
+2023-01-08 09:49:55,379 - main - INFO - validating...
+2023-01-08 09:52:29,216 - main - INFO - Epoch 187 - val: epoch loss = 49.3861
+2023-01-08 09:52:29,377 - main - INFO - Saved the best model at epoch 187.
+2023-01-08 09:52:29,381 - main - INFO - Epoch 188/5000
+2023-01-08 09:52:29,381 - main - INFO - ----------------------------
+2023-01-08 09:52:29,382 - main - INFO - training...
+2023-01-08 09:59:57,687 - main - DEBUG - Batch 500: running loss = 21341.1849
+2023-01-08 10:00:47,536 - main - INFO - Epoch 188 - train: epoch loss = 42.6641
+2023-01-08 10:00:47,536 - main - INFO - validating...
+2023-01-08 10:03:21,144 - main - INFO - Epoch 188 - val: epoch loss = 49.3734
+2023-01-08 10:03:21,311 - main - INFO - Saved the best model at epoch 188.
+2023-01-08 10:03:21,316 - main - INFO - Epoch 189/5000
+2023-01-08 10:03:21,316 - main - INFO - ----------------------------
+2023-01-08 10:03:21,321 - main - INFO - training...
+2023-01-08 10:10:48,927 - main - DEBUG - Batch 500: running loss = 21346.4657
+2023-01-08 10:11:38,653 - main - INFO - Epoch 189 - train: epoch loss = 42.6916
+2023-01-08 10:11:38,653 - main - INFO - validating...
+2023-01-08 10:14:12,384 - main - INFO - Epoch 189 - val: epoch loss = 49.3561
+2023-01-08 10:14:12,541 - main - INFO - Saved the best model at epoch 189.
+2023-01-08 10:14:12,541 - main - INFO - Epoch 190/5000
+2023-01-08 10:14:12,547 - main - INFO - ----------------------------
+2023-01-08 10:14:12,549 - main - INFO - training...
+2023-01-08 10:21:40,728 - main - DEBUG - Batch 500: running loss = 21416.2282
+2023-01-08 10:22:30,860 - main - INFO - Epoch 190 - train: epoch loss = 42.6924
+2023-01-08 10:22:30,860 - main - INFO - validating...
+2023-01-08 10:25:04,458 - main - INFO - Epoch 190 - val: epoch loss = 49.3291
+2023-01-08 10:25:04,615 - main - INFO - Saved the best model at epoch 190.
+2023-01-08 10:25:04,621 - main - INFO - Epoch 191/5000
+2023-01-08 10:25:04,621 - main - INFO - ----------------------------
+2023-01-08 10:25:04,623 - main - INFO - training...
+2023-01-08 10:32:32,475 - main - DEBUG - Batch 500: running loss = 21422.6479
+2023-01-08 10:33:22,501 - main - INFO - Epoch 191 - train: epoch loss = 42.6829
+2023-01-08 10:33:22,501 - main - INFO - validating...
+2023-01-08 10:35:56,255 - main - INFO - Epoch 191 - val: epoch loss = 49.2965
+2023-01-08 10:35:56,415 - main - INFO - Saved the best model at epoch 191.
+2023-01-08 10:35:56,421 - main - INFO - Epoch 192/5000
+2023-01-08 10:35:56,422 - main - INFO - ----------------------------
+2023-01-08 10:35:56,423 - main - INFO - training...
+2023-01-08 10:43:24,875 - main - DEBUG - Batch 500: running loss = 21345.8376
+2023-01-08 10:44:14,565 - main - INFO - Epoch 192 - train: epoch loss = 42.6578
+2023-01-08 10:44:14,568 - main - INFO - validating...
+2023-01-08 10:46:47,889 - main - INFO - Epoch 192 - val: epoch loss = 49.3245
+2023-01-08 10:46:47,889 - main - INFO - Epoch 193/5000
+2023-01-08 10:46:47,894 - main - INFO - ----------------------------
+2023-01-08 10:46:47,894 - main - INFO - training...
+2023-01-08 10:54:15,822 - main - DEBUG - Batch 500: running loss = 21301.0766
+2023-01-08 10:55:05,838 - main - INFO - Epoch 193 - train: epoch loss = 42.6474
+2023-01-08 10:55:05,838 - main - INFO - validating...
+2023-01-08 10:57:40,036 - main - INFO - Epoch 193 - val: epoch loss = 49.2799
+2023-01-08 10:57:40,211 - main - INFO - Saved the best model at epoch 193.
+2023-01-08 10:57:40,211 - main - INFO - Epoch 194/5000
+2023-01-08 10:57:40,212 - main - INFO - ----------------------------
+2023-01-08 10:57:40,213 - main - INFO - training...
+2023-01-08 11:05:07,173 - main - DEBUG - Batch 500: running loss = 21282.7810
+2023-01-08 11:05:57,439 - main - INFO - Epoch 194 - train: epoch loss = 42.6106
+2023-01-08 11:05:57,439 - main - INFO - validating...
+2023-01-08 11:08:31,160 - main - INFO - Epoch 194 - val: epoch loss = 49.2912
+2023-01-08 11:08:31,170 - main - INFO - Epoch 195/5000
+2023-01-08 11:08:31,171 - main - INFO - ----------------------------
+2023-01-08 11:08:31,171 - main - INFO - training...
+2023-01-08 11:15:58,963 - main - DEBUG - Batch 500: running loss = 21299.6351
+2023-01-08 11:16:48,967 - main - INFO - Epoch 195 - train: epoch loss = 42.6611
+2023-01-08 11:16:48,967 - main - INFO - validating...
+2023-01-08 11:19:22,434 - main - INFO - Epoch 195 - val: epoch loss = 49.2403
+2023-01-08 11:19:22,594 - main - INFO - Saved the best model at epoch 195.
+2023-01-08 11:19:22,594 - main - INFO - Epoch 196/5000
+2023-01-08 11:19:22,600 - main - INFO - ----------------------------
+2023-01-08 11:19:22,602 - main - INFO - training...
+2023-01-08 11:26:50,104 - main - DEBUG - Batch 500: running loss = 21306.9414
+2023-01-08 11:27:40,093 - main - INFO - Epoch 196 - train: epoch loss = 42.6147
+2023-01-08 11:27:40,103 - main - INFO - validating...
+2023-01-08 11:30:13,807 - main - INFO - Epoch 196 - val: epoch loss = 49.2997
+2023-01-08 11:30:13,807 - main - INFO - Epoch 197/5000
+2023-01-08 11:30:13,814 - main - INFO - ----------------------------
+2023-01-08 11:30:13,814 - main - INFO - training...
+2023-01-08 11:37:41,577 - main - DEBUG - Batch 500: running loss = 21342.6715
+2023-01-08 11:38:31,300 - main - INFO - Epoch 197 - train: epoch loss = 42.6133
+2023-01-08 11:38:31,300 - main - INFO - validating...
+2023-01-08 11:41:04,701 - main - INFO - Epoch 197 - val: epoch loss = 49.2393
+2023-01-08 11:41:04,866 - main - INFO - Saved the best model at epoch 197.
+2023-01-08 11:41:04,866 - main - INFO - Epoch 198/5000
+2023-01-08 11:41:04,867 - main - INFO - ----------------------------
+2023-01-08 11:41:04,868 - main - INFO - training...
+2023-01-08 11:48:32,568 - main - DEBUG - Batch 500: running loss = 21255.1804
+2023-01-08 11:49:22,457 - main - INFO - Epoch 198 - train: epoch loss = 42.6203
+2023-01-08 11:49:22,457 - main - INFO - validating...
+2023-01-08 11:51:56,065 - main - INFO - Epoch 198 - val: epoch loss = 49.2426
+2023-01-08 11:51:56,065 - main - INFO - Epoch 199/5000
+2023-01-08 11:51:56,071 - main - INFO - ----------------------------
+2023-01-08 11:51:56,072 - main - INFO - training...
+2023-01-08 11:59:24,342 - main - DEBUG - Batch 500: running loss = 21322.1336
+2023-01-08 12:00:14,465 - main - INFO - Epoch 199 - train: epoch loss = 42.5649
+2023-01-08 12:00:14,465 - main - INFO - validating...
+2023-01-08 12:02:47,962 - main - INFO - Epoch 199 - val: epoch loss = 49.2340
+2023-01-08 12:02:48,129 - main - INFO - Saved the best model at epoch 199.
+2023-01-08 12:02:48,129 - main - INFO - Epoch 200/5000
+2023-01-08 12:02:48,133 - main - INFO - ----------------------------
+2023-01-08 12:02:48,134 - main - INFO - training...
+2023-01-08 12:10:15,389 - main - DEBUG - Batch 500: running loss = 21285.7965
+2023-01-08 12:11:05,615 - main - INFO - Epoch 200 - train: epoch loss = 42.5820
+2023-01-08 12:11:05,615 - main - INFO - validating...
+2023-01-08 12:13:39,353 - main - INFO - Epoch 200 - val: epoch loss = 49.2023
+2023-01-08 12:13:39,505 - main - INFO - Saved the model at epoch 200.
+2023-01-08 12:13:39,670 - main - INFO - Saved the best model at epoch 200.
+2023-01-08 12:13:39,670 - main - INFO - Epoch 201/5000
+2023-01-08 12:13:39,672 - main - INFO - ----------------------------
+2023-01-08 12:13:39,672 - main - INFO - training...
+2023-01-08 12:21:07,362 - main - DEBUG - Batch 500: running loss = 21338.7930
+2023-01-08 12:21:57,226 - main - INFO - Epoch 201 - train: epoch loss = 42.5955
+2023-01-08 12:21:57,226 - main - INFO - validating...
+2023-01-08 12:24:31,160 - main - INFO - Epoch 201 - val: epoch loss = 49.2001
+2023-01-08 12:24:31,320 - main - INFO - Saved the best model at epoch 201.
+2023-01-08 12:24:31,320 - main - INFO - Epoch 202/5000
+2023-01-08 12:24:31,325 - main - INFO - ----------------------------
+2023-01-08 12:24:31,327 - main - INFO - training...
+2023-01-08 12:31:59,353 - main - DEBUG - Batch 500: running loss = 21320.3016
+2023-01-08 12:32:49,082 - main - INFO - Epoch 202 - train: epoch loss = 42.5719
+2023-01-08 12:32:49,082 - main - INFO - validating...
+2023-01-08 12:35:22,927 - main - INFO - Epoch 202 - val: epoch loss = 49.1565
+2023-01-08 12:35:23,084 - main - INFO - Saved the best model at epoch 202.
+2023-01-08 12:35:23,094 - main - INFO - Epoch 203/5000
+2023-01-08 12:35:23,095 - main - INFO - ----------------------------
+2023-01-08 12:35:23,096 - main - INFO - training...
+2023-01-08 12:42:50,844 - main - DEBUG - Batch 500: running loss = 21279.2266
+2023-01-08 12:43:41,010 - main - INFO - Epoch 203 - train: epoch loss = 42.5513
+2023-01-08 12:43:41,015 - main - INFO - validating...
+2023-01-08 12:46:14,991 - main - INFO - Epoch 203 - val: epoch loss = 49.1859
+2023-01-08 12:46:14,991 - main - INFO - Epoch 204/5000
+2023-01-08 12:46:14,999 - main - INFO - ----------------------------
+2023-01-08 12:46:14,999 - main - INFO - training...
+2023-01-08 12:53:43,028 - main - DEBUG - Batch 500: running loss = 21271.0227
+2023-01-08 12:54:33,110 - main - INFO - Epoch 204 - train: epoch loss = 42.5421
+2023-01-08 12:54:33,110 - main - INFO - validating...
+2023-01-08 12:57:06,915 - main - INFO - Epoch 204 - val: epoch loss = 49.1327
+2023-01-08 12:57:07,075 - main - INFO - Saved the best model at epoch 204.
+2023-01-08 12:57:07,082 - main - INFO - Epoch 205/5000
+2023-01-08 12:57:07,082 - main - INFO - ----------------------------
+2023-01-08 12:57:07,084 - main - INFO - training...
+2023-01-08 13:04:34,368 - main - DEBUG - Batch 500: running loss = 21346.1073
+2023-01-08 13:05:24,941 - main - INFO - Epoch 205 - train: epoch loss = 42.5613
+2023-01-08 13:05:24,951 - main - INFO - validating...
+2023-01-08 13:07:58,822 - main - INFO - Epoch 205 - val: epoch loss = 49.1661
+2023-01-08 13:07:58,822 - main - INFO - Epoch 206/5000
+2023-01-08 13:07:58,823 - main - INFO - ----------------------------
+2023-01-08 13:07:58,823 - main - INFO - training...
+2023-01-08 13:15:26,932 - main - DEBUG - Batch 500: running loss = 21246.1042
+2023-01-08 13:16:16,915 - main - INFO - Epoch 206 - train: epoch loss = 42.5164
+2023-01-08 13:16:16,923 - main - INFO - validating...
+2023-01-08 13:18:50,462 - main - INFO - Epoch 206 - val: epoch loss = 49.1613
+2023-01-08 13:18:50,462 - main - INFO - Epoch 207/5000
+2023-01-08 13:18:50,462 - main - INFO - ----------------------------
+2023-01-08 13:18:50,464 - main - INFO - training...
+2023-01-08 13:26:19,056 - main - DEBUG - Batch 500: running loss = 21322.5143
+2023-01-08 13:27:08,905 - main - INFO - Epoch 207 - train: epoch loss = 42.5225
+2023-01-08 13:27:08,905 - main - INFO - validating...
+2023-01-08 13:29:43,003 - main - INFO - Epoch 207 - val: epoch loss = 49.1013
+2023-01-08 13:29:43,170 - main - INFO - Saved the best model at epoch 207.
+2023-01-08 13:29:43,170 - main - INFO - Epoch 208/5000
+2023-01-08 13:29:43,175 - main - INFO - ----------------------------
+2023-01-08 13:29:43,177 - main - INFO - training...
+2023-01-08 13:37:11,046 - main - DEBUG - Batch 500: running loss = 21299.3838
+2023-01-08 13:38:01,412 - main - INFO - Epoch 208 - train: epoch loss = 42.4817
+2023-01-08 13:38:01,412 - main - INFO - validating...
+2023-01-08 13:40:35,126 - main - INFO - Epoch 208 - val: epoch loss = 49.0994
+2023-01-08 13:40:35,293 - main - INFO - Saved the best model at epoch 208.
+2023-01-08 13:40:35,293 - main - INFO - Epoch 209/5000
+2023-01-08 13:40:35,298 - main - INFO - ----------------------------
+2023-01-08 13:40:35,299 - main - INFO - training...
+2023-01-08 13:48:04,147 - main - DEBUG - Batch 500: running loss = 21224.8108
+2023-01-08 13:48:54,313 - main - INFO - Epoch 209 - train: epoch loss = 42.4944
+2023-01-08 13:48:54,313 - main - INFO - validating...
+2023-01-08 13:51:28,360 - main - INFO - Epoch 209 - val: epoch loss = 49.0757
+2023-01-08 13:51:28,527 - main - INFO - Saved the best model at epoch 209.
+2023-01-08 13:51:28,527 - main - INFO - Epoch 210/5000
+2023-01-08 13:51:28,529 - main - INFO - ----------------------------
+2023-01-08 13:51:28,531 - main - INFO - training...
+2023-01-08 13:58:56,620 - main - DEBUG - Batch 500: running loss = 21304.8223
+2023-01-08 13:59:46,910 - main - INFO - Epoch 210 - train: epoch loss = 42.4450
+2023-01-08 13:59:46,920 - main - INFO - validating...
+2023-01-08 14:02:20,891 - main - INFO - Epoch 210 - val: epoch loss = 49.0953
+2023-01-08 14:02:20,891 - main - INFO - Epoch 211/5000
+2023-01-08 14:02:20,898 - main - INFO - ----------------------------
+2023-01-08 14:02:20,898 - main - INFO - training...
+2023-01-08 14:09:49,401 - main - DEBUG - Batch 500: running loss = 21243.5529
+2023-01-08 14:10:39,784 - main - INFO - Epoch 211 - train: epoch loss = 42.4774
+2023-01-08 14:10:39,784 - main - INFO - validating...
+2023-01-08 14:13:13,605 - main - INFO - Epoch 211 - val: epoch loss = 49.0300
+2023-01-08 14:13:13,765 - main - INFO - Saved the best model at epoch 211.
+2023-01-08 14:13:13,765 - main - INFO - Epoch 212/5000
+2023-01-08 14:13:13,771 - main - INFO - ----------------------------
+2023-01-08 14:13:13,773 - main - INFO - training...
+2023-01-08 14:20:41,841 - main - DEBUG - Batch 500: running loss = 21264.2781
+2023-01-08 14:21:32,057 - main - INFO - Epoch 212 - train: epoch loss = 42.4841
+2023-01-08 14:21:32,057 - main - INFO - validating...
+2023-01-08 14:24:06,355 - main - INFO - Epoch 212 - val: epoch loss = 49.0565
+2023-01-08 14:24:06,355 - main - INFO - Epoch 213/5000
+2023-01-08 14:24:06,355 - main - INFO - ----------------------------
+2023-01-08 14:24:06,365 - main - INFO - training...
+2023-01-08 14:31:35,213 - main - DEBUG - Batch 500: running loss = 21189.5916
+2023-01-08 14:32:25,731 - main - INFO - Epoch 213 - train: epoch loss = 42.4577
+2023-01-08 14:32:25,731 - main - INFO - validating...
+2023-01-08 14:34:59,245 - main - INFO - Epoch 213 - val: epoch loss = 49.0608
+2023-01-08 14:34:59,245 - main - INFO - Epoch 214/5000
+2023-01-08 14:34:59,250 - main - INFO - ----------------------------
+2023-01-08 14:34:59,250 - main - INFO - training...
+2023-01-08 14:42:28,506 - main - DEBUG - Batch 500: running loss = 21191.9578
+2023-01-08 14:43:19,098 - main - INFO - Epoch 214 - train: epoch loss = 42.4345
+2023-01-08 14:43:19,098 - main - INFO - validating...
+2023-01-08 14:45:53,102 - main - INFO - Epoch 214 - val: epoch loss = 49.0220
+2023-01-08 14:45:53,269 - main - INFO - Saved the best model at epoch 214.
+2023-01-08 14:45:53,275 - main - INFO - Epoch 215/5000
+2023-01-08 14:45:53,275 - main - INFO - ----------------------------
+2023-01-08 14:45:53,276 - main - INFO - training...
+2023-01-08 14:53:22,379 - main - DEBUG - Batch 500: running loss = 21263.4229
+2023-01-08 14:54:12,189 - main - INFO - Epoch 215 - train: epoch loss = 42.4644
+2023-01-08 14:54:12,190 - main - INFO - validating...
+2023-01-08 14:56:45,986 - main - INFO - Epoch 215 - val: epoch loss = 48.9807
+2023-01-08 14:56:46,143 - main - INFO - Saved the best model at epoch 215.
+2023-01-08 14:56:46,153 - main - INFO - Epoch 216/5000
+2023-01-08 14:56:46,154 - main - INFO - ----------------------------
+2023-01-08 14:56:46,155 - main - INFO - training...
+2023-01-08 15:04:14,953 - main - DEBUG - Batch 500: running loss = 21156.3993
+2023-01-08 15:05:05,119 - main - INFO - Epoch 216 - train: epoch loss = 42.4369
+2023-01-08 15:05:05,119 - main - INFO - validating...
+2023-01-08 15:07:39,127 - main - INFO - Epoch 216 - val: epoch loss = 48.9905
+2023-01-08 15:07:39,127 - main - INFO - Epoch 217/5000
+2023-01-08 15:07:39,132 - main - INFO - ----------------------------
+2023-01-08 15:07:39,133 - main - INFO - training...
+2023-01-08 15:15:07,254 - main - DEBUG - Batch 500: running loss = 21311.5542
+2023-01-08 15:15:57,110 - main - INFO - Epoch 217 - train: epoch loss = 42.4340
+2023-01-08 15:15:57,115 - main - INFO - validating...
+2023-01-08 15:18:33,290 - main - INFO - Epoch 217 - val: epoch loss = 48.9591
+2023-01-08 15:18:33,457 - main - INFO - Saved the best model at epoch 217.
+2023-01-08 15:18:33,458 - main - INFO - Epoch 218/5000
+2023-01-08 15:18:33,458 - main - INFO - ----------------------------
+2023-01-08 15:18:33,459 - main - INFO - training...
+2023-01-08 15:26:03,329 - main - DEBUG - Batch 500: running loss = 21237.7791
+2023-01-08 15:26:53,653 - main - INFO - Epoch 218 - train: epoch loss = 42.4371
+2023-01-08 15:26:53,654 - main - INFO - validating...
+2023-01-08 15:29:28,897 - main - INFO - Epoch 218 - val: epoch loss = 48.9651
+2023-01-08 15:29:28,898 - main - INFO - Epoch 219/5000
+2023-01-08 15:29:28,899 - main - INFO - ----------------------------
+2023-01-08 15:29:28,899 - main - INFO - training...
+2023-01-08 15:36:58,836 - main - DEBUG - Batch 500: running loss = 21216.0625
+2023-01-08 15:37:48,864 - main - INFO - Epoch 219 - train: epoch loss = 42.4185
+2023-01-08 15:37:48,864 - main - INFO - validating...
+2023-01-08 15:40:23,310 - main - INFO - Epoch 219 - val: epoch loss = 48.9795
+2023-01-08 15:40:23,311 - main - INFO - Epoch 220/5000
+2023-01-08 15:40:23,312 - main - INFO - ----------------------------
+2023-01-08 15:40:23,313 - main - INFO - training...
+2023-01-08 15:47:52,595 - main - DEBUG - Batch 500: running loss = 21219.5816
+2023-01-08 15:48:43,143 - main - INFO - Epoch 220 - train: epoch loss = 42.4017
+2023-01-08 15:48:43,143 - main - INFO - validating...
+2023-01-08 15:51:17,172 - main - INFO - Epoch 220 - val: epoch loss = 48.9380
+2023-01-08 15:51:17,352 - main - INFO - Saved the best model at epoch 220.
+2023-01-08 15:51:17,353 - main - INFO - Epoch 221/5000
+2023-01-08 15:51:17,353 - main - INFO - ----------------------------
+2023-01-08 15:51:17,354 - main - INFO - training...
+2023-01-08 15:58:46,995 - main - DEBUG - Batch 500: running loss = 21292.3392
+2023-01-08 15:59:37,196 - main - INFO - Epoch 221 - train: epoch loss = 42.3900
+2023-01-08 15:59:37,196 - main - INFO - validating...
+2023-01-08 16:02:11,635 - main - INFO - Epoch 221 - val: epoch loss = 48.8936
+2023-01-08 16:02:11,798 - main - INFO - Saved the best model at epoch 221.
+2023-01-08 16:02:11,799 - main - INFO - Epoch 222/5000
+2023-01-08 16:02:11,800 - main - INFO - ----------------------------
+2023-01-08 16:02:11,802 - main - INFO - training...
+2023-01-08 16:09:41,239 - main - DEBUG - Batch 500: running loss = 21233.9029
+2023-01-08 16:10:31,234 - main - INFO - Epoch 222 - train: epoch loss = 42.3937
+2023-01-08 16:10:31,235 - main - INFO - validating...
+2023-01-08 16:13:05,903 - main - INFO - Epoch 222 - val: epoch loss = 48.8999
+2023-01-08 16:13:05,903 - main - INFO - Epoch 223/5000
+2023-01-08 16:13:05,904 - main - INFO - ----------------------------
+2023-01-08 16:13:05,905 - main - INFO - training...
+2023-01-08 16:20:35,752 - main - DEBUG - Batch 500: running loss = 21217.8484
+2023-01-08 16:21:26,245 - main - INFO - Epoch 223 - train: epoch loss = 42.4121
+2023-01-08 16:21:26,245 - main - INFO - validating...
+2023-01-08 16:24:01,078 - main - INFO - Epoch 223 - val: epoch loss = 48.8914
+2023-01-08 16:24:01,248 - main - INFO - Saved the best model at epoch 223.
+2023-01-08 16:24:01,250 - main - INFO - Epoch 224/5000
+2023-01-08 16:24:01,250 - main - INFO - ----------------------------
+2023-01-08 16:24:01,251 - main - INFO - training...
+2023-01-08 16:31:31,965 - main - DEBUG - Batch 500: running loss = 21133.9293
+2023-01-08 16:32:22,110 - main - INFO - Epoch 224 - train: epoch loss = 42.3761
+2023-01-08 16:32:22,111 - main - INFO - validating...
+2023-01-08 16:34:56,909 - main - INFO - Epoch 224 - val: epoch loss = 48.8952
+2023-01-08 16:34:56,910 - main - INFO - Epoch 225/5000
+2023-01-08 16:34:56,910 - main - INFO - ----------------------------
+2023-01-08 16:34:56,911 - main - INFO - training...
+2023-01-08 16:42:26,842 - main - DEBUG - Batch 500: running loss = 21179.4292
+2023-01-08 16:43:17,125 - main - INFO - Epoch 225 - train: epoch loss = 42.3183
+2023-01-08 16:43:17,125 - main - INFO - validating...
+2023-01-08 16:45:51,783 - main - INFO - Epoch 225 - val: epoch loss = 48.8593
+2023-01-08 16:45:51,946 - main - INFO - Saved the best model at epoch 225.
+2023-01-08 16:45:51,947 - main - INFO - Epoch 226/5000
+2023-01-08 16:45:51,948 - main - INFO - ----------------------------
+2023-01-08 16:45:51,949 - main - INFO - training...
+2023-01-08 16:53:21,426 - main - DEBUG - Batch 500: running loss = 21190.2725
+2023-01-08 16:54:11,684 - main - INFO - Epoch 226 - train: epoch loss = 42.3363
+2023-01-08 16:54:11,685 - main - INFO - validating...
+2023-01-08 16:56:46,440 - main - INFO - Epoch 226 - val: epoch loss = 48.9264
+2023-01-08 16:56:46,441 - main - INFO - Epoch 227/5000
+2023-01-08 16:56:46,442 - main - INFO - ----------------------------
+2023-01-08 16:56:46,442 - main - INFO - training...
+2023-01-08 17:04:15,858 - main - DEBUG - Batch 500: running loss = 21231.6246
+2023-01-08 17:05:05,831 - main - INFO - Epoch 227 - train: epoch loss = 42.3388
+2023-01-08 17:05:05,831 - main - INFO - validating...
+2023-01-08 17:07:39,895 - main - INFO - Epoch 227 - val: epoch loss = 48.8354
+2023-01-08 17:07:40,059 - main - INFO - Saved the best model at epoch 227.
+2023-01-08 17:07:40,059 - main - INFO - Epoch 228/5000
+2023-01-08 17:07:40,061 - main - INFO - ----------------------------
+2023-01-08 17:07:40,063 - main - INFO - training...
+2023-01-08 17:15:08,070 - main - DEBUG - Batch 500: running loss = 21202.3983
+2023-01-08 17:15:58,315 - main - INFO - Epoch 228 - train: epoch loss = 42.3115
+2023-01-08 17:15:58,315 - main - INFO - validating...
+2023-01-08 17:18:32,586 - main - INFO - Epoch 228 - val: epoch loss = 48.8425
+2023-01-08 17:18:32,586 - main - INFO - Epoch 229/5000
+2023-01-08 17:18:32,595 - main - INFO - ----------------------------
+2023-01-08 17:18:32,596 - main - INFO - training...
+2023-01-08 17:26:01,879 - main - DEBUG - Batch 500: running loss = 21157.1870
+2023-01-08 17:26:52,035 - main - INFO - Epoch 229 - train: epoch loss = 42.3049
+2023-01-08 17:26:52,035 - main - INFO - validating...
+2023-01-08 17:29:26,154 - main - INFO - Epoch 229 - val: epoch loss = 48.8414
+2023-01-08 17:29:26,155 - main - INFO - Epoch 230/5000
+2023-01-08 17:29:26,155 - main - INFO - ----------------------------
+2023-01-08 17:29:26,156 - main - INFO - training...
+2023-01-08 17:36:54,253 - main - DEBUG - Batch 500: running loss = 21109.6544
+2023-01-08 17:37:44,470 - main - INFO - Epoch 230 - train: epoch loss = 42.3102
+2023-01-08 17:37:44,470 - main - INFO - validating...
+2023-01-08 17:40:18,133 - main - INFO - Epoch 230 - val: epoch loss = 48.8178
+2023-01-08 17:40:18,300 - main - INFO - Saved the best model at epoch 230.
+2023-01-08 17:40:18,300 - main - INFO - Epoch 231/5000
+2023-01-08 17:40:18,305 - main - INFO - ----------------------------
+2023-01-08 17:40:18,306 - main - INFO - training...
+2023-01-08 17:47:45,727 - main - DEBUG - Batch 500: running loss = 21171.9014
+2023-01-08 17:48:36,393 - main - INFO - Epoch 231 - train: epoch loss = 42.3195
+2023-01-08 17:48:36,393 - main - INFO - validating...
+2023-01-08 17:51:10,528 - main - INFO - Epoch 231 - val: epoch loss = 48.8524
+2023-01-08 17:51:10,529 - main - INFO - Epoch 232/5000
+2023-01-08 17:51:10,530 - main - INFO - ----------------------------
+2023-01-08 17:51:10,530 - main - INFO - training...
+2023-01-08 17:58:38,351 - main - DEBUG - Batch 500: running loss = 21188.2771
+2023-01-08 17:59:28,283 - main - INFO - Epoch 232 - train: epoch loss = 42.2826
+2023-01-08 17:59:28,291 - main - INFO - validating...
+2023-01-08 18:02:02,131 - main - INFO - Epoch 232 - val: epoch loss = 48.8111
+2023-01-08 18:02:02,298 - main - INFO - Saved the best model at epoch 232.
+2023-01-08 18:02:02,298 - main - INFO - Epoch 233/5000
+2023-01-08 18:02:02,304 - main - INFO - ----------------------------
+2023-01-08 18:02:02,306 - main - INFO - training...
+2023-01-08 18:09:30,158 - main - DEBUG - Batch 500: running loss = 21160.3097
+2023-01-08 18:10:20,074 - main - INFO - Epoch 233 - train: epoch loss = 42.2919
+2023-01-08 18:10:20,074 - main - INFO - validating...
+2023-01-08 18:12:54,115 - main - INFO - Epoch 233 - val: epoch loss = 48.7497
+2023-01-08 18:12:54,272 - main - INFO - Saved the best model at epoch 233.
+2023-01-08 18:12:54,282 - main - INFO - Epoch 234/5000
+2023-01-08 18:12:54,282 - main - INFO - ----------------------------
+2023-01-08 18:12:54,284 - main - INFO - training...
+2023-01-08 18:20:22,182 - main - DEBUG - Batch 500: running loss = 21195.0206
+2023-01-08 18:21:12,231 - main - INFO - Epoch 234 - train: epoch loss = 42.2460
+2023-01-08 18:21:12,231 - main - INFO - validating...
+2023-01-08 18:23:45,795 - main - INFO - Epoch 234 - val: epoch loss = 48.7605
+2023-01-08 18:23:45,795 - main - INFO - Epoch 235/5000
+2023-01-08 18:23:45,797 - main - INFO - ----------------------------
+2023-01-08 18:23:45,797 - main - INFO - training...
+2023-01-08 18:31:14,306 - main - DEBUG - Batch 500: running loss = 21167.6269
+2023-01-08 18:32:04,530 - main - INFO - Epoch 235 - train: epoch loss = 42.2752
+2023-01-08 18:32:04,532 - main - INFO - validating...
+2023-01-08 18:34:38,263 - main - INFO - Epoch 235 - val: epoch loss = 48.7867
+2023-01-08 18:34:38,263 - main - INFO - Epoch 236/5000
+2023-01-08 18:34:38,269 - main - INFO - ----------------------------
+2023-01-08 18:34:38,270 - main - INFO - training...
+2023-01-08 18:42:06,373 - main - DEBUG - Batch 500: running loss = 21208.3770
+2023-01-08 18:42:56,322 - main - INFO - Epoch 236 - train: epoch loss = 42.2413
+2023-01-08 18:42:56,322 - main - INFO - validating...
+2023-01-08 18:45:30,110 - main - INFO - Epoch 236 - val: epoch loss = 48.7252
+2023-01-08 18:45:30,277 - main - INFO - Saved the best model at epoch 236.
+2023-01-08 18:45:30,277 - main - INFO - Epoch 237/5000
+2023-01-08 18:45:30,279 - main - INFO - ----------------------------
+2023-01-08 18:45:30,281 - main - INFO - training...
+2023-01-08 18:52:58,170 - main - DEBUG - Batch 500: running loss = 21141.7853
+2023-01-08 18:53:48,196 - main - INFO - Epoch 237 - train: epoch loss = 42.2412
+2023-01-08 18:53:48,197 - main - INFO - validating...
+2023-01-08 18:56:21,917 - main - INFO - Epoch 237 - val: epoch loss = 48.7417
+2023-01-08 18:56:21,917 - main - INFO - Epoch 238/5000
+2023-01-08 18:56:21,924 - main - INFO - ----------------------------
+2023-01-08 18:56:21,924 - main - INFO - training...
+2023-01-08 19:03:49,371 - main - DEBUG - Batch 500: running loss = 21050.1322
+2023-01-08 19:04:39,410 - main - INFO - Epoch 238 - train: epoch loss = 42.2533
+2023-01-08 19:04:39,410 - main - INFO - validating...
+2023-01-08 19:07:13,424 - main - INFO - Epoch 238 - val: epoch loss = 48.7041
+2023-01-08 19:07:13,591 - main - INFO - Saved the best model at epoch 238.
+2023-01-08 19:07:13,591 - main - INFO - Epoch 239/5000
+2023-01-08 19:07:13,597 - main - INFO - ----------------------------
+2023-01-08 19:07:13,599 - main - INFO - training...
+2023-01-08 19:14:40,894 - main - DEBUG - Batch 500: running loss = 21157.5498
+2023-01-08 19:15:31,063 - main - INFO - Epoch 239 - train: epoch loss = 42.2271
+2023-01-08 19:15:31,064 - main - INFO - validating...
+2023-01-08 19:18:04,941 - main - INFO - Epoch 239 - val: epoch loss = 48.6850
+2023-01-08 19:18:05,109 - main - INFO - Saved the best model at epoch 239.
+2023-01-08 19:18:05,109 - main - INFO - Epoch 240/5000
+2023-01-08 19:18:05,113 - main - INFO - ----------------------------
+2023-01-08 19:18:05,116 - main - INFO - training...
+2023-01-08 19:25:32,958 - main - DEBUG - Batch 500: running loss = 21153.7524
+2023-01-08 19:26:22,874 - main - INFO - Epoch 240 - train: epoch loss = 42.2079
+2023-01-08 19:26:22,874 - main - INFO - validating...
+2023-01-08 19:28:57,305 - main - INFO - Epoch 240 - val: epoch loss = 48.7127
+2023-01-08 19:28:57,305 - main - INFO - Epoch 241/5000
+2023-01-08 19:28:57,308 - main - INFO - ----------------------------
+2023-01-08 19:28:57,311 - main - INFO - training...
+2023-01-08 19:36:25,159 - main - DEBUG - Batch 500: running loss = 21144.0958
+2023-01-08 19:37:15,308 - main - INFO - Epoch 241 - train: epoch loss = 42.2224
+2023-01-08 19:37:15,308 - main - INFO - validating...
+2023-01-08 19:39:48,996 - main - INFO - Epoch 241 - val: epoch loss = 48.7088
+2023-01-08 19:39:48,996 - main - INFO - Epoch 242/5000
+2023-01-08 19:39:49,004 - main - INFO - ----------------------------
+2023-01-08 19:39:49,005 - main - INFO - training...
+2023-01-08 19:47:16,526 - main - DEBUG - Batch 500: running loss = 21168.2438
+2023-01-08 19:48:06,722 - main - INFO - Epoch 242 - train: epoch loss = 42.2072
+2023-01-08 19:48:06,732 - main - INFO - validating...
+2023-01-08 19:50:40,463 - main - INFO - Epoch 242 - val: epoch loss = 48.6641
+2023-01-08 19:50:40,621 - main - INFO - Saved the best model at epoch 242.
+2023-01-08 19:50:40,621 - main - INFO - Epoch 243/5000
+2023-01-08 19:50:40,629 - main - INFO - ----------------------------
+2023-01-08 19:50:40,631 - main - INFO - training...
+2023-01-08 19:58:08,097 - main - DEBUG - Batch 500: running loss = 21123.3253
+2023-01-08 19:58:57,979 - main - INFO - Epoch 243 - train: epoch loss = 42.1829
+2023-01-08 19:58:57,979 - main - INFO - validating...
+2023-01-08 20:01:31,893 - main - INFO - Epoch 243 - val: epoch loss = 48.6198
+2023-01-08 20:01:32,059 - main - INFO - Saved the best model at epoch 243.
+2023-01-08 20:01:32,060 - main - INFO - Epoch 244/5000
+2023-01-08 20:01:32,061 - main - INFO - ----------------------------
+2023-01-08 20:01:32,062 - main - INFO - training...
+2023-01-08 20:09:00,069 - main - DEBUG - Batch 500: running loss = 21087.9781
+2023-01-08 20:09:50,003 - main - INFO - Epoch 244 - train: epoch loss = 42.1900
+2023-01-08 20:09:50,003 - main - INFO - validating...
+2023-01-08 20:12:23,615 - main - INFO - Epoch 244 - val: epoch loss = 48.6665
+2023-01-08 20:12:23,616 - main - INFO - Epoch 245/5000
+2023-01-08 20:12:23,616 - main - INFO - ----------------------------
+2023-01-08 20:12:23,617 - main - INFO - training...
+2023-01-08 20:19:51,984 - main - DEBUG - Batch 500: running loss = 21072.4356
+2023-01-08 20:20:41,833 - main - INFO - Epoch 245 - train: epoch loss = 42.1841
+2023-01-08 20:20:41,834 - main - INFO - validating...
+2023-01-08 20:23:26,218 - main - INFO - Epoch 245 - val: epoch loss = 48.6429
+2023-01-08 20:23:26,224 - main - INFO - Epoch 246/5000
+2023-01-08 20:23:26,225 - main - INFO - ----------------------------
+2023-01-08 20:23:26,226 - main - INFO - training...
+2023-01-08 20:31:25,984 - main - DEBUG - Batch 500: running loss = 21119.7066
+2023-01-08 20:32:19,210 - main - INFO - Epoch 246 - train: epoch loss = 42.1495
+2023-01-08 20:32:19,210 - main - INFO - validating...
+2023-01-08 20:34:55,298 - main - INFO - Epoch 246 - val: epoch loss = 48.6043
+2023-01-08 20:34:55,465 - main - INFO - Saved the best model at epoch 246.
+2023-01-08 20:34:55,465 - main - INFO - Epoch 247/5000
+2023-01-08 20:34:55,470 - main - INFO - ----------------------------
+2023-01-08 20:34:55,471 - main - INFO - training...
+2023-01-08 20:42:22,884 - main - DEBUG - Batch 500: running loss = 21073.2183
+2023-01-08 20:43:12,834 - main - INFO - Epoch 247 - train: epoch loss = 42.1537
+2023-01-08 20:43:12,834 - main - INFO - validating...
+2023-01-08 20:45:46,543 - main - INFO - Epoch 247 - val: epoch loss = 48.6207
+2023-01-08 20:45:46,544 - main - INFO - Epoch 248/5000
+2023-01-08 20:45:46,544 - main - INFO - ----------------------------
+2023-01-08 20:45:46,545 - main - INFO - training...
+2023-01-08 20:53:14,215 - main - DEBUG - Batch 500: running loss = 21052.2838
+2023-01-08 20:54:04,272 - main - INFO - Epoch 248 - train: epoch loss = 42.1772
+2023-01-08 20:54:04,272 - main - INFO - validating...
+2023-01-08 20:56:37,762 - main - INFO - Epoch 248 - val: epoch loss = 48.6123
+2023-01-08 20:56:37,762 - main - INFO - Epoch 249/5000
+2023-01-08 20:56:37,767 - main - INFO - ----------------------------
+2023-01-08 20:56:37,767 - main - INFO - training...
+2023-01-08 21:04:05,599 - main - DEBUG - Batch 500: running loss = 21099.7695
+2023-01-08 21:04:55,831 - main - INFO - Epoch 249 - train: epoch loss = 42.1649
+2023-01-08 21:04:55,831 - main - INFO - validating...
+2023-01-08 21:07:29,862 - main - INFO - Epoch 249 - val: epoch loss = 48.5796
+2023-01-08 21:07:30,019 - main - INFO - Saved the best model at epoch 249.
+2023-01-08 21:07:30,019 - main - INFO - Epoch 250/5000
+2023-01-08 21:07:30,029 - main - INFO - ----------------------------
+2023-01-08 21:07:30,031 - main - INFO - training...
+2023-01-08 21:14:57,413 - main - DEBUG - Batch 500: running loss = 21069.6833
+2023-01-08 21:15:47,629 - main - INFO - Epoch 250 - train: epoch loss = 42.1579
+2023-01-08 21:15:47,629 - main - INFO - validating...
+2023-01-08 21:18:21,436 - main - INFO - Epoch 250 - val: epoch loss = 48.5858
+2023-01-08 21:18:21,436 - main - INFO - Epoch 251/5000
+2023-01-08 21:18:21,439 - main - INFO - ----------------------------
+2023-01-08 21:18:21,440 - main - INFO - training...
+2023-01-08 21:25:49,946 - main - DEBUG - Batch 500: running loss = 21031.8053
+2023-01-08 21:26:39,686 - main - INFO - Epoch 251 - train: epoch loss = 42.1210
+2023-01-08 21:26:39,686 - main - INFO - validating...
+2023-01-08 21:29:13,717 - main - INFO - Epoch 251 - val: epoch loss = 48.5687
+2023-01-08 21:29:13,877 - main - INFO - Saved the best model at epoch 251.
+2023-01-08 21:29:13,877 - main - INFO - Epoch 252/5000
+2023-01-08 21:29:13,881 - main - INFO - ----------------------------
+2023-01-08 21:29:13,882 - main - INFO - training...
+2023-01-08 21:36:41,377 - main - DEBUG - Batch 500: running loss = 21080.5698
+2023-01-08 21:37:31,836 - main - INFO - Epoch 252 - train: epoch loss = 42.1151
+2023-01-08 21:37:31,843 - main - INFO - validating...
